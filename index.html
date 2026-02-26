@@ -1,0 +1,206 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Verb Flashcards — FR ↔ IT</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+  html { scroll-behavior: auto; }
+  :root{
+    /* Lighter, airy blues */
+    --bg:#eaf3ff;
+    --card:#ffffff;
+    --muted:#5b6475;
+    --line:#dbe5ff;
+    --primary:#2d6cdf;
+
+    /* High-contrast feedback */
+    --ok:#0a7d02;    /* dark green */
+    --bad:#c1121f;   /* strong red */
+
+    --radius:24px; --gap:14px;
+  }
+  body{
+    margin:0; padding:28px; color:#0e1423; font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;
+    background:
+      radial-gradient(900px 900px at 10% -10%, #cfe3ff 0%, transparent 45%),
+      radial-gradient(700px 700px at 100% 0%, #f0d9ff 0%, transparent 35%),
+      var(--bg);
+  }
+  .card{
+    background:var(--card);
+    border:1px solid var(--line);
+    border-radius:var(--radius);
+    padding:20px; max-width:900px; margin:0 auto var(--gap);
+    overflow:visible;
+    box-shadow: 0 8px 30px rgba(45,108,223,0.08);
+  }
+  .hidden { display: none !important; }
+  select, input[type="text"], button{
+    font-size:16px; border-radius:12px; border:1px solid var(--line);
+    background:#f7faff; color:#0e1423; padding:10px 12px;
+  }
+  button.primary{background:var(--primary); border-color:var(--primary); color:#fff}
+  .muted{color:var(--muted)}
+  /* Inputs list (single column) */
+  #inputsGrid{display:grid; gap:10px}
+  #inputsGrid .item{
+    display:grid; grid-template-columns: 120px 1fr; gap:10px; align-items:center;
+    background:#f9fbff; border:1px solid var(--line); border-radius:14px; padding:8px 10px;
+  }
+  #inputsGrid label{font-size:13px; color:#44526b}
+  /* Stronger feedback after Check */
+  input.ok {
+    border-color: var(--ok) !important;
+    box-shadow: 0 0 0 3px rgba(10,125,2,0.18);
+    background:#eef9f0;
+  }
+  input.bad{
+    border-color: var(--bad) !important;
+    box-shadow: 0 0 0 3px rgba(193,18,31,0.18);
+    background:#fff1f2;
+  }
+  .ok{color:var(--ok); font-weight:700}
+  .bad{color:var(--bad); font-weight:700}
+  /* Scrollable tense list when long */
+  #tense{width:100%; max-width:28rem}
+
+
+  /* ---- results compare: two cards side by side ---- */
+  .compare{display:grid; gap:14px}
+  .compare-card{
+    background:#0f0f18; border:1px solid var(--line); border-radius:16px; padding:12px;
+  }
+  .compare-head{font-weight:600; margin-bottom:8px; color:#dcdcef}
+  .compare-grid{display:grid; grid-template-columns:1fr 1fr; gap:12px}
+  .col h4{margin:0 0 6px 0; font-size:15px; color:#cdd0e6}
+  .list{list-style:none; padding:0; margin:0; border:1px solid var(--line); border-radius:12px; overflow:hidden}
+  .list li{
+    display:grid; grid-template-columns:120px 1fr; gap:8px; align-items:center;
+    padding:8px 10px; border-bottom:1px solid var(--line)
+  }
+  .list li:last-child{border-bottom:0}
+  .list .answer.bad{color:var(--bad)}
+  .list .answer.ok{color:var(--ok)}
+  .footnote{font-size:13px; color:var(--muted)}
+
+  /* === Light results section === */
+  #results .compare-card{
+    background:#fff;                      /* no dark background */
+    border:1px solid var(--line);
+    border-radius:16px;
+    box-shadow: 0 6px 18px rgba(45,108,223,0.06);
+  }
+
+  #results .compare-head{ color:#0e1423; }  /* darker heading */
+
+  /* lists inside results: light rows */
+  #results .list{ background:#fff; border:1px solid var(--line); }
+  #results .list li{ background:#fff; }
+  #results .list li:nth-child(odd){ background:#f7faff; }  /* subtle zebra */
+
+  /* keep strong feedback colors you set earlier */
+  #results .list .answer.ok{ color: var(--ok); }
+  #results .list .answer.bad{ color: var(--bad); }
+  /* Big centered source verb */
+  .lemma-box{
+    display:flex; flex-direction:column; align-items:center; gap:4px;
+    margin:6px 0 12px;
+  }
+  .lemma-big{
+    font-size: clamp(26px, 4.2vw, 44px); /* was clamp(32px, 6vw, 56px) */
+    font-weight: 800;
+    text-align: center;
+    letter-spacing: .3px;
+  }
+
+  /* Hide the translation while playing so it doesn't give the answer */
+  #game #targetWrap{ display:none; }
+
+</style>
+
+</head>
+<body>
+  <div class="wrap">
+    <h1>Verb Flashcards — French ↔ Italian</h1>
+
+    <!-- Setup card -->
+    <div class="card" id="setup">
+      <div class="stack">
+        <div class="row">
+          <div>
+            <div class="muted">What do you want to learn?</div>
+            <select id="direction">
+              <option value="fr-it">Italian (from French)</option>
+              <option value="it-fr">French (from Italian)</option>
+            </select>
+          </div>
+          <div>
+            <div class="muted">Choose a tense</div>
+            <select id="tense">
+              <option value="" disabled selected>Loading tenses…</option>
+            </select>
+          </div>
+          <label class="row" style="align-items:center; gap:8px;">
+            <input type="checkbox" id="infOnly">
+            Infinitive only
+          </label>
+          <div>
+            <div class="muted">Cards per game</div>
+            <select id="count">
+              <option>5</option>
+              <option>8</option>
+              <option>10</option>
+              <option>15</option>
+            </select>
+          </div>
+        </div>
+        <div class="row">
+          <button class="primary" id="startBtn">Start</button>
+          <button id="resetShuffleBtn" class="ghost">Reshuffle now</button>
+          <span class="pill" id="deckInfo">Deck: —</span>
+          <!-- <span class="muted footnote">Tip: add or edit files in <code>decks/&lt;direction&gt;/</code> and refresh.</span>-->
+        </div>
+      </div>
+    </div>
+
+    <!-- Game card -->
+    <div class="card hidden" id="game">
+      <div class="row">
+        <div class="pill" id="progress">1 / 5</div>
+        <div class="pill" id="tenseLabel">Tense: —</div>
+      </div>
+
+      <div class="divider"></div>
+
+      <div class="stack">
+        <div class="lemma-box">
+          <div id="promptLemma" class="lemma-big">—</div>
+          <div id="targetWrap" class="muted">→ <span id="targetLemma">—</span></div>
+        </div>
+        <div class="muted" id="instruction">Fill the forms for the selected tense.</div>
+
+        <div class="grid" id="inputsGrid"><!-- inputs appear here --></div>
+
+        <div class="row">
+          <button id="checkBtn" class="primary">Check</button>
+          <button id="nextBtn" class="ghost" disabled>Next</button>
+          <div class="muted" id="instantScore"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Results card -->
+    <div class="card hidden" id="results">
+      <h2>Results</h2>
+      <p id="scoreLine" class="pill"></p>
+      <div id="resultsTableWrap"><!-- summary table inserted here --></div>
+      <div class="row" style="margin-top: 12px;">
+        <button id="restartBtn">Play again</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

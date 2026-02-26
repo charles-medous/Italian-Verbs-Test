@@ -1,0 +1,56 @@
+:root{
+  --bg1:#eef4ff; --bg2:#f8fbff;            /* light blues */
+  --card:#ffffff; --line:#d7e3ff;
+  --text:#0b1b3f; --muted:#5a6a8f;
+  --primary:#2563eb;                       /* strong blue */
+  --ok:#16803c; --ok-bg:#ecfdf5;           /* saturated green */
+  --bad:#c81e1e; --bad-bg:#fff1f2;         /* saturated red  */
+  --radius:22px; --gap:14px;
+}
+
+*{box-sizing:border-box}
+body{
+  margin:0; padding:28px; color:var(--text);
+  font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;
+  background:
+    radial-gradient(900px 900px at 10% -10%, #bcd3ff66 0%, transparent 40%),
+    radial-gradient(700px 700px at 110% 10%, #ffd7f066 0%, transparent 40%),
+    linear-gradient(180deg, var(--bg1), var(--bg2));
+}
+h1{margin:0 0 18px 0}
+.card{
+  background:var(--card); border:1px solid var(--line);
+  border-radius:var(--radius); padding:20px; max-width:900px; margin:0 auto var(--gap);
+  box-shadow:0 10px 30px rgba(35,64,127,.08); overflow:visible;
+}
+.row{display:flex; gap:var(--gap); flex-wrap:wrap; align-items:center}
+.pill{border:1px solid var(--line); border-radius:999px; padding:6px 10px; color:var(--muted); font-size:14px}
+.muted{color:var(--muted)}
+select, input[type="text"], button{
+  font-size:16px; border-radius:12px; border:1px solid var(--line);
+  background:#ffffff; color:var(--text); padding:10px 12px;
+}
+button{cursor:pointer}
+button.primary{background:var(--primary); border-color:var(--primary); color:#fff}
+button.ghost{background:transparent}
+
+/* stacked inputs (pronoun | input) */
+#inputsGrid{display:grid; gap:10px}
+#inputsGrid .item{
+  display:grid; grid-template-columns: 120px 1fr; gap:10px; align-items:center;
+  background:#ffffff; border:1px solid var(--line); border-radius:14px; padding:8px 10px;
+}
+#inputsGrid label{font-size:13px; color:#495a86}
+
+/* results compare cards */
+.compare{display:grid; gap:14px}
+.compare-card{background:#fff;border:1px solid var(--line);border-radius:16px;padding:12px}
+.compare-head{font-weight:600;margin-bottom:8px}
+.compare-grid{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.col h4{margin:0 0 6px 0; font-size:15px; color:#263b78}
+.list{list-style:none;padding:0;margin:0;border:1px solid var(--line);border-radius:12px;overflow:hidden}
+.list li{display:grid;grid-template-columns:120px 1fr;gap:8px;align-items:center;padding:8px 10px;border-bottom:1px solid var(--line)}
+.list li:last-child{border-bottom:0}
+.answer.ok{color:var(--ok)} .answer.bad{color:var(--bad)}
+.divider{height:1px;background:var(--line);margin:16px 0}
+#tense{width:100%; max-width:28rem}
