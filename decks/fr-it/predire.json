@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "prédire",
+  "target_lemma": "predire",
+  "meta": {
+    "regularity": {
+      "fr": "irrégulier",
+      "it": "verbo irregolare"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io predico",
+      "tu predici",
+      "lui/lei predice",
+      "noi prediciamo",
+      "voi predite",
+      "loro predicono"
+    ],
+    "Passato prossimo": [
+      "io ho predetto",
+      "tu hai predetto",
+      "lui/lei ha predetto",
+      "noi abbiamo predetto",
+      "voi avete predetto",
+      "loro hanno predetto"
+    ],
+    "Imperfetto": [
+      "io predvo",
+      "tu predvi",
+      "lui/lei predva",
+      "noi predvamo",
+      "voi predvate",
+      "loro predvano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo predetto",
+      "tu avevi predetto",
+      "lui/lei aveva predetto",
+      "noi avevamo predetto",
+      "voi avevate predetto",
+      "loro avevano predetto"
+    ],
+    "Passato remoto": [
+      "io predissi",
+      "tu predicesti",
+      "lui/lei predisse",
+      "noi predicemmo",
+      "voi prediceste",
+      "loro predissero"
+    ],
+    "Trapassato remoto": [
+      "io ebbi predetto",
+      "tu avesti predetto",
+      "lui/lei ebbe predetto",
+      "noi avemmo predetto",
+      "voi aveste predetto",
+      "loro ebbero predetto"
+    ],
+    "Futuro semplice": [
+      "io predirò",
+      "tu predirai",
+      "lui/lei predirà",
+      "noi prediremo",
+      "voi predirete",
+      "loro prediranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò predetto",
+      "tu avrai predetto",
+      "lui/lei avrà predetto",
+      "noi avremo predetto",
+      "voi avrete predetto",
+      "loro avranno predetto"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io predirei",
+      "tu prediresti",
+      "lui/lei predirebbe",
+      "noi prediremmo",
+      "voi predireste",
+      "loro predirebbero"
+    ],
+    "Passato": [
+      "io avrei predetto",
+      "tu avresti predetto",
+      "lui/lei avrebbe predetto",
+      "noi avremmo predetto",
+      "voi avreste predetto",
+      "loro avrebbero predetto"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io predica",
+      "che tu predica",
+      "che lui/lei predica",
+      "che noi prediciamo",
+      "che voi prediciate",
+      "che loro predicano"
+    ],
+    "Passato": [
+      "che io abbia predetto",
+      "che tu abbia predetto",
+      "che lui/lei abbia predetto",
+      "che noi abbiamo predetto",
+      "che voi abbiate predetto",
+      "che loro abbiano predetto"
+    ],
+    "Imperfetto": [
+      "che io predicessi",
+      "che tu predicessi",
+      "che lui/lei predicesse",
+      "che noi predicessimo",
+      "che voi predicesste",
+      "che loro predicessero"
+    ],
+    "Trapassato": [
+      "che io avessi predetto",
+      "che tu avessi predetto",
+      "che lui/lei avesse predetto",
+      "che noi avessimo predetto",
+      "che voi aveste predetto",
+      "che loro avessero predetto"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "predici",
+      "predica",
+      "prediciamo",
+      "predite",
+      "predicano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "predire"
+    ],
+    "Passato": [
+      "avere predetto"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "predente"
+    ],
+    "Passato": [
+      "predetto"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "predendo"
+    ],
+    "Passato": [
+      "avendo predetto"
+    ]
+  }
+}

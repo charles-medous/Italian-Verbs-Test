@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "prendre",
+  "target_lemma": "prendere",
+  "meta": {
+    "regularity": {
+      "fr": "2e groupe (-ere) avec irrégularités",
+      "it": "seconda coniugazione (-ere)"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io prendo",
+      "tu prendi",
+      "lui/lei prende",
+      "noi prendiamo",
+      "voi prendete",
+      "loro prendono"
+    ],
+    "Passato prossimo": [
+      "io ho preso",
+      "tu hai preso",
+      "lui/lei ha preso",
+      "noi abbiamo preso",
+      "voi avete preso",
+      "loro hanno preso"
+    ],
+    "Imperfetto": [
+      "io prendevo",
+      "tu prendevi",
+      "lui/lei prendeva",
+      "noi prendevamo",
+      "voi prendevate",
+      "loro prendevano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo preso",
+      "tu avevi preso",
+      "lui/lei aveva preso",
+      "noi avevamo preso",
+      "voi avevate preso",
+      "loro avevano preso"
+    ],
+    "Passato remoto": [
+      "io presi",
+      "tu prendesti",
+      "lui/lei prese",
+      "noi prendemmo",
+      "voi prendeste",
+      "loro presero"
+    ],
+    "Trapassato remoto": [
+      "io ebbi preso",
+      "tu avesti preso",
+      "lui/lei ebbe preso",
+      "noi avemmo preso",
+      "voi aveste preso",
+      "loro ebbero preso"
+    ],
+    "Futuro semplice": [
+      "io prenderò",
+      "tu prenderai",
+      "lui/lei prenderà",
+      "noi prenderemo",
+      "voi prenderete",
+      "loro prenderanno"
+    ],
+    "Futuro anteriore": [
+      "io avrò preso",
+      "tu avrai preso",
+      "lui/lei avrà preso",
+      "noi avremo preso",
+      "voi avrete preso",
+      "loro avranno preso"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io prenderei",
+      "tu prenderesti",
+      "lui/lei prenderebbe",
+      "noi prenderemmo",
+      "voi prendereste",
+      "loro prenderebbero"
+    ],
+    "Passato": [
+      "io avrei preso",
+      "tu avresti preso",
+      "lui/lei avrebbe preso",
+      "noi avremmo preso",
+      "voi avreste preso",
+      "loro avrebbero preso"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io prenda",
+      "che tu prenda",
+      "che lui/lei prenda",
+      "che noi prendiamo",
+      "che voi prendiate",
+      "che loro prendano"
+    ],
+    "Passato": [
+      "che io abbia preso",
+      "che tu abbia preso",
+      "che lui/lei abbia preso",
+      "che noi abbiamo preso",
+      "che voi abbiate preso",
+      "che loro abbiano preso"
+    ],
+    "Imperfetto": [
+      "che io prendessi",
+      "che tu prendessi",
+      "che lui/lei prendesse",
+      "che noi prendessimo",
+      "che voi prendeste",
+      "che loro prendessero"
+    ],
+    "Trapassato": [
+      "che io avessi preso",
+      "che tu avessi preso",
+      "che lui/lei avesse preso",
+      "che noi avessimo preso",
+      "che voi aveste preso",
+      "che loro avessero preso"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "prendi",
+      "prenda",
+      "prendiamo",
+      "prendete",
+      "prendano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "prendere"
+    ],
+    "Passato": [
+      "avere preso"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "prendente"
+    ],
+    "Passato": [
+      "preso"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "prendendo"
+    ],
+    "Passato": [
+      "avendo preso"
+    ]
+  }
+}

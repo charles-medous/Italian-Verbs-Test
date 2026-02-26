@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "cuisiner",
+  "target_lemma": "cucinare",
+  "meta": {
+    "regularity": {
+      "fr": "1er groupe régulier (approx.)",
+      "it": "prima coniugazione regolare"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io cucino",
+      "tu cucini",
+      "lui/lei cucina",
+      "noi cuciniamo",
+      "voi cucinate",
+      "loro cucinano"
+    ],
+    "Passato prossimo": [
+      "io ho cucinato",
+      "tu hai cucinato",
+      "lui/lei ha cucinato",
+      "noi abbiamo cucinato",
+      "voi avete cucinato",
+      "loro hanno cucinato"
+    ],
+    "Imperfetto": [
+      "io cucinavo",
+      "tu cucinavi",
+      "lui/lei cucinava",
+      "noi cucinavamo",
+      "voi cucinavate",
+      "loro cucinavano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo cucinato",
+      "tu avevi cucinato",
+      "lui/lei aveva cucinato",
+      "noi avevamo cucinato",
+      "voi avevate cucinato",
+      "loro avevano cucinato"
+    ],
+    "Passato remoto": [
+      "io cucinai",
+      "tu cucinasti",
+      "lui/lei cucinò",
+      "noi cucinammo",
+      "voi cucinaste",
+      "loro cucinarono"
+    ],
+    "Trapassato remoto": [
+      "io ebbi cucinato",
+      "tu avesti cucinato",
+      "lui/lei ebbe cucinato",
+      "noi avemmo cucinato",
+      "voi aveste cucinato",
+      "loro ebbero cucinato"
+    ],
+    "Futuro semplice": [
+      "io cucinerò",
+      "tu cucinerai",
+      "lui/lei cucinerà",
+      "noi cucineremo",
+      "voi cucinerete",
+      "loro cucineranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò cucinato",
+      "tu avrai cucinato",
+      "lui/lei avrà cucinato",
+      "noi avremo cucinato",
+      "voi avrete cucinato",
+      "loro avranno cucinato"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io cucinerei",
+      "tu cucineresti",
+      "lui/lei cucinerebbe",
+      "noi cucineremmo",
+      "voi cucinereste",
+      "loro cucinerebbero"
+    ],
+    "Passato": [
+      "io avrei cucinato",
+      "tu avresti cucinato",
+      "lui/lei avrebbe cucinato",
+      "noi avremmo cucinato",
+      "voi avreste cucinato",
+      "loro avrebbero cucinato"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io cucini",
+      "che tu cucini",
+      "che lui/lei cucini",
+      "che noi cuciniamo",
+      "che voi cuciniate",
+      "che loro cucinino"
+    ],
+    "Passato": [
+      "che io abbia cucinato",
+      "che tu abbia cucinato",
+      "che lui/lei abbia cucinato",
+      "che noi abbiamo cucinato",
+      "che voi abbiate cucinato",
+      "che loro abbiano cucinato"
+    ],
+    "Imperfetto": [
+      "che io cucinassi",
+      "che tu cucinassi",
+      "che lui/lei cucinasse",
+      "che noi cucinassimo",
+      "che voi cucinaste",
+      "che loro cucinassero"
+    ],
+    "Trapassato": [
+      "che io avessi cucinato",
+      "che tu avessi cucinato",
+      "che lui/lei avesse cucinato",
+      "che noi avessimo cucinato",
+      "che voi aveste cucinato",
+      "che loro avessero cucinato"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "cucina",
+      "cucini",
+      "cuciniamo",
+      "cucinate",
+      "cucinino"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "cucinare"
+    ],
+    "Passato": [
+      "avere cucinato"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "cucinante"
+    ],
+    "Passato": [
+      "cucinato"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "cucinando"
+    ],
+    "Passato": [
+      "avendo cucinato"
+    ]
+  }
+}

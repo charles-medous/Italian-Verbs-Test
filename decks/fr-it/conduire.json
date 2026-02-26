@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "conduire",
+  "target_lemma": "condurre",
+  "meta": {
+    "regularity": {
+      "fr": "irrégulier",
+      "it": "verbo irregolare"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io conduco",
+      "tu conduci",
+      "lui/lei conduce",
+      "noi conduciamo",
+      "voi conducete",
+      "loro conducono"
+    ],
+    "Passato prossimo": [
+      "io ho condotto",
+      "tu hai condotto",
+      "lui/lei ha condotto",
+      "noi abbiamo condotto",
+      "voi avete condotto",
+      "loro hanno condotto"
+    ],
+    "Imperfetto": [
+      "io conducevo",
+      "tu conducevi",
+      "lui/lei conduceva",
+      "noi conducevamo",
+      "voi conducevate",
+      "loro conducevano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo condotto",
+      "tu avevi condotto",
+      "lui/lei aveva condotto",
+      "noi avevamo condotto",
+      "voi avevate condotto",
+      "loro avevano condotto"
+    ],
+    "Passato remoto": [
+      "io condussi",
+      "tu conducesti",
+      "lui/lei condusse",
+      "noi conducemmo",
+      "voi conduceste",
+      "loro condussero"
+    ],
+    "Trapassato remoto": [
+      "io ebbi condotto",
+      "tu avesti condotto",
+      "lui/lei ebbe condotto",
+      "noi avemmo condotto",
+      "voi aveste condotto",
+      "loro ebbero condotto"
+    ],
+    "Futuro semplice": [
+      "io condurrò",
+      "tu condurrai",
+      "lui/lei condurrà",
+      "noi condurremo",
+      "voi condurrete",
+      "loro condurranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò condotto",
+      "tu avrai condotto",
+      "lui/lei avrà condotto",
+      "noi avremo condotto",
+      "voi avrete condotto",
+      "loro avranno condotto"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io condurrei",
+      "tu condurresti",
+      "lui/lei condurrebbe",
+      "noi condurremmo",
+      "voi condurreste",
+      "loro condurrebbero"
+    ],
+    "Passato": [
+      "io avrei condotto",
+      "tu avresti condotto",
+      "lui/lei avrebbe condotto",
+      "noi avremmo condotto",
+      "voi avreste condotto",
+      "loro avrebbero condotto"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io conduca",
+      "che tu conduca",
+      "che lui/lei conduca",
+      "che noi conduciamo",
+      "che voi conduciate",
+      "che loro conducano"
+    ],
+    "Passato": [
+      "che io abbia condotto",
+      "che tu abbia condotto",
+      "che lui/lei abbia condotto",
+      "che noi abbiamo condotto",
+      "che voi abbiate condotto",
+      "che loro abbiano condotto"
+    ],
+    "Imperfetto": [
+      "che io conducessi",
+      "che tu conducessi",
+      "che lui/lei conducesse",
+      "che noi conducessimo",
+      "che voi conducesste",
+      "che loro conducessero"
+    ],
+    "Trapassato": [
+      "che io avessi condotto",
+      "che tu avessi condotto",
+      "che lui/lei avesse condotto",
+      "che noi avessimo condotto",
+      "che voi aveste condotto",
+      "che loro avessero condotto"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "conduci",
+      "conduca",
+      "conduciamo",
+      "conducete",
+      "conducano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "condurre"
+    ],
+    "Passato": [
+      "avere condotto"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "conduente"
+    ],
+    "Passato": [
+      "condotto"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "conducendo"
+    ],
+    "Passato": [
+      "avendo condotto"
+    ]
+  }
+}

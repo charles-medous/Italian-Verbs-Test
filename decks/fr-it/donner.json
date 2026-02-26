@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "donner",
+  "target_lemma": "dare",
+  "meta": {
+    "regularity": {
+      "fr": "irrégulier",
+      "it": "verbo irregolare"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io do",
+      "tu dai",
+      "lui/lei dà",
+      "noi diamo",
+      "voi date",
+      "loro danno"
+    ],
+    "Passato prossimo": [
+      "io ho dato",
+      "tu hai dato",
+      "lui/lei ha dato",
+      "noi abbiamo dato",
+      "voi avete dato",
+      "loro hanno dato"
+    ],
+    "Imperfetto": [
+      "io dvo",
+      "tu dvi",
+      "lui/lei dva",
+      "noi dvamo",
+      "voi dvate",
+      "loro dvano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo dato",
+      "tu avevi dato",
+      "lui/lei aveva dato",
+      "noi avevamo dato",
+      "voi avevate dato",
+      "loro avevano dato"
+    ],
+    "Passato remoto": [
+      "io diedi",
+      "tu desti",
+      "lui/lei diede",
+      "noi demmo",
+      "voi deste",
+      "loro diedero"
+    ],
+    "Trapassato remoto": [
+      "io ebbi dato",
+      "tu avesti dato",
+      "lui/lei ebbe dato",
+      "noi avemmo dato",
+      "voi aveste dato",
+      "loro ebbero dato"
+    ],
+    "Futuro semplice": [
+      "io darò",
+      "tu darai",
+      "lui/lei darà",
+      "noi daremo",
+      "voi darete",
+      "loro daranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò dato",
+      "tu avrai dato",
+      "lui/lei avrà dato",
+      "noi avremo dato",
+      "voi avrete dato",
+      "loro avranno dato"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io darei",
+      "tu daresti",
+      "lui/lei darebbe",
+      "noi daremmo",
+      "voi dareste",
+      "loro darebbero"
+    ],
+    "Passato": [
+      "io avrei dato",
+      "tu avresti dato",
+      "lui/lei avrebbe dato",
+      "noi avremmo dato",
+      "voi avreste dato",
+      "loro avrebbero dato"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io dia",
+      "che tu dia",
+      "che lui/lei dia",
+      "che noi diamo",
+      "che voi diate",
+      "che loro diano"
+    ],
+    "Passato": [
+      "che io abbia dato",
+      "che tu abbia dato",
+      "che lui/lei abbia dato",
+      "che noi abbiamo dato",
+      "che voi abbiate dato",
+      "che loro abbiano dato"
+    ],
+    "Imperfetto": [
+      "che io dessi",
+      "che tu dessi",
+      "che lui/lei desse",
+      "che noi dessimo",
+      "che voi desste",
+      "che loro dessero"
+    ],
+    "Trapassato": [
+      "che io avessi dato",
+      "che tu avessi dato",
+      "che lui/lei avesse dato",
+      "che noi avessimo dato",
+      "che voi aveste dato",
+      "che loro avessero dato"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "dai",
+      "dia",
+      "diamo",
+      "date",
+      "diano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "dare"
+    ],
+    "Passato": [
+      "avere dato"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "dente"
+    ],
+    "Passato": [
+      "dato"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "dando"
+    ],
+    "Passato": [
+      "avendo dato"
+    ]
+  }
+}

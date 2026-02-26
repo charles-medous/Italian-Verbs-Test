@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "craindre",
+  "target_lemma": "temere",
+  "meta": {
+    "regularity": {
+      "fr": "2e groupe (-ere) avec irrégularités",
+      "it": "seconda coniugazione (-ere)"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io temo",
+      "tu temi",
+      "lui/lei teme",
+      "noi temiamo",
+      "voi temete",
+      "loro temono"
+    ],
+    "Passato prossimo": [
+      "io ho temuto",
+      "tu hai temuto",
+      "lui/lei ha temuto",
+      "noi abbiamo temuto",
+      "voi avete temuto",
+      "loro hanno temuto"
+    ],
+    "Imperfetto": [
+      "io temevo",
+      "tu temevi",
+      "lui/lei temeva",
+      "noi temevamo",
+      "voi temevate",
+      "loro temevano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo temuto",
+      "tu avevi temuto",
+      "lui/lei aveva temuto",
+      "noi avevamo temuto",
+      "voi avevate temuto",
+      "loro avevano temuto"
+    ],
+    "Passato remoto": [
+      "io temetti",
+      "tu temesti",
+      "lui/lei temette",
+      "noi tememmo",
+      "voi temeste",
+      "loro temettero"
+    ],
+    "Trapassato remoto": [
+      "io ebbi temuto",
+      "tu avesti temuto",
+      "lui/lei ebbe temuto",
+      "noi avemmo temuto",
+      "voi aveste temuto",
+      "loro ebbero temuto"
+    ],
+    "Futuro semplice": [
+      "io temerò",
+      "tu temerai",
+      "lui/lei temerà",
+      "noi temeremo",
+      "voi temerete",
+      "loro temeranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò temuto",
+      "tu avrai temuto",
+      "lui/lei avrà temuto",
+      "noi avremo temuto",
+      "voi avrete temuto",
+      "loro avranno temuto"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io temerei",
+      "tu temeresti",
+      "lui/lei temerebbe",
+      "noi temeremmo",
+      "voi temereste",
+      "loro temerebbero"
+    ],
+    "Passato": [
+      "io avrei temuto",
+      "tu avresti temuto",
+      "lui/lei avrebbe temuto",
+      "noi avremmo temuto",
+      "voi avreste temuto",
+      "loro avrebbero temuto"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io tema",
+      "che tu tema",
+      "che lui/lei tema",
+      "che noi temiamo",
+      "che voi temiate",
+      "che loro temano"
+    ],
+    "Passato": [
+      "che io abbia temuto",
+      "che tu abbia temuto",
+      "che lui/lei abbia temuto",
+      "che noi abbiamo temuto",
+      "che voi abbiate temuto",
+      "che loro abbiano temuto"
+    ],
+    "Imperfetto": [
+      "che io temessi",
+      "che tu temessi",
+      "che lui/lei temesse",
+      "che noi temessimo",
+      "che voi temeste",
+      "che loro temessero"
+    ],
+    "Trapassato": [
+      "che io avessi temuto",
+      "che tu avessi temuto",
+      "che lui/lei avesse temuto",
+      "che noi avessimo temuto",
+      "che voi aveste temuto",
+      "che loro avessero temuto"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "temi",
+      "tema",
+      "temiamo",
+      "temete",
+      "temano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "temere"
+    ],
+    "Passato": [
+      "avere temuto"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "temente"
+    ],
+    "Passato": [
+      "temuto"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "temendo"
+    ],
+    "Passato": [
+      "avendo temuto"
+    ]
+  }
+}

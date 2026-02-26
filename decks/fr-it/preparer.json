@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "préparer",
+  "target_lemma": "preparare",
+  "meta": {
+    "regularity": {
+      "fr": "1er groupe régulier (approx.)",
+      "it": "prima coniugazione regolare"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io preparo",
+      "tu prepari",
+      "lui/lei prepara",
+      "noi prepariamo",
+      "voi preparate",
+      "loro preparano"
+    ],
+    "Passato prossimo": [
+      "io ho preparato",
+      "tu hai preparato",
+      "lui/lei ha preparato",
+      "noi abbiamo preparato",
+      "voi avete preparato",
+      "loro hanno preparato"
+    ],
+    "Imperfetto": [
+      "io preparavo",
+      "tu preparavi",
+      "lui/lei preparava",
+      "noi preparavamo",
+      "voi preparavate",
+      "loro preparavano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo preparato",
+      "tu avevi preparato",
+      "lui/lei aveva preparato",
+      "noi avevamo preparato",
+      "voi avevate preparato",
+      "loro avevano preparato"
+    ],
+    "Passato remoto": [
+      "io preparai",
+      "tu preparasti",
+      "lui/lei preparò",
+      "noi preparammo",
+      "voi preparaste",
+      "loro prepararono"
+    ],
+    "Trapassato remoto": [
+      "io ebbi preparato",
+      "tu avesti preparato",
+      "lui/lei ebbe preparato",
+      "noi avemmo preparato",
+      "voi aveste preparato",
+      "loro ebbero preparato"
+    ],
+    "Futuro semplice": [
+      "io preparerò",
+      "tu preparerai",
+      "lui/lei preparerà",
+      "noi prepareremo",
+      "voi preparerete",
+      "loro prepareranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò preparato",
+      "tu avrai preparato",
+      "lui/lei avrà preparato",
+      "noi avremo preparato",
+      "voi avrete preparato",
+      "loro avranno preparato"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io preparerei",
+      "tu prepareresti",
+      "lui/lei preparerebbe",
+      "noi prepareremmo",
+      "voi preparereste",
+      "loro preparerebbero"
+    ],
+    "Passato": [
+      "io avrei preparato",
+      "tu avresti preparato",
+      "lui/lei avrebbe preparato",
+      "noi avremmo preparato",
+      "voi avreste preparato",
+      "loro avrebbero preparato"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io prepari",
+      "che tu prepari",
+      "che lui/lei prepari",
+      "che noi prepariamo",
+      "che voi prepariate",
+      "che loro preparino"
+    ],
+    "Passato": [
+      "che io abbia preparato",
+      "che tu abbia preparato",
+      "che lui/lei abbia preparato",
+      "che noi abbiamo preparato",
+      "che voi abbiate preparato",
+      "che loro abbiano preparato"
+    ],
+    "Imperfetto": [
+      "che io preparassi",
+      "che tu preparassi",
+      "che lui/lei preparasse",
+      "che noi preparassimo",
+      "che voi preparaste",
+      "che loro preparassero"
+    ],
+    "Trapassato": [
+      "che io avessi preparato",
+      "che tu avessi preparato",
+      "che lui/lei avesse preparato",
+      "che noi avessimo preparato",
+      "che voi aveste preparato",
+      "che loro avessero preparato"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "prepara",
+      "prepari",
+      "prepariamo",
+      "preparate",
+      "preparino"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "preparare"
+    ],
+    "Passato": [
+      "avere preparato"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "preparante"
+    ],
+    "Passato": [
+      "preparato"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "preparando"
+    ],
+    "Passato": [
+      "avendo preparato"
+    ]
+  }
+}

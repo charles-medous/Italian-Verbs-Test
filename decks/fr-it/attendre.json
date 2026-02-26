@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "attendre",
+  "target_lemma": "aspettare",
+  "meta": {
+    "regularity": {
+      "fr": "1er groupe régulier (approx.)",
+      "it": "prima coniugazione regolare"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io aspetto",
+      "tu aspetti",
+      "lui/lei aspetta",
+      "noi aspettiamo",
+      "voi aspettate",
+      "loro aspettano"
+    ],
+    "Passato prossimo": [
+      "io ho aspettato",
+      "tu hai aspettato",
+      "lui/lei ha aspettato",
+      "noi abbiamo aspettato",
+      "voi avete aspettato",
+      "loro hanno aspettato"
+    ],
+    "Imperfetto": [
+      "io aspettavo",
+      "tu aspettavi",
+      "lui/lei aspettava",
+      "noi aspettavamo",
+      "voi aspettavate",
+      "loro aspettavano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo aspettato",
+      "tu avevi aspettato",
+      "lui/lei aveva aspettato",
+      "noi avevamo aspettato",
+      "voi avevate aspettato",
+      "loro avevano aspettato"
+    ],
+    "Passato remoto": [
+      "io aspettai",
+      "tu aspettasti",
+      "lui/lei aspettò",
+      "noi aspettammo",
+      "voi aspettaste",
+      "loro aspettarono"
+    ],
+    "Trapassato remoto": [
+      "io ebbi aspettato",
+      "tu avesti aspettato",
+      "lui/lei ebbe aspettato",
+      "noi avemmo aspettato",
+      "voi aveste aspettato",
+      "loro ebbero aspettato"
+    ],
+    "Futuro semplice": [
+      "io aspetterò",
+      "tu aspetterai",
+      "lui/lei aspetterà",
+      "noi aspetteremo",
+      "voi aspetterete",
+      "loro aspetteranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò aspettato",
+      "tu avrai aspettato",
+      "lui/lei avrà aspettato",
+      "noi avremo aspettato",
+      "voi avrete aspettato",
+      "loro avranno aspettato"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io aspetterei",
+      "tu aspetteresti",
+      "lui/lei aspetterebbe",
+      "noi aspetteremmo",
+      "voi aspettereste",
+      "loro aspetterebbero"
+    ],
+    "Passato": [
+      "io avrei aspettato",
+      "tu avresti aspettato",
+      "lui/lei avrebbe aspettato",
+      "noi avremmo aspettato",
+      "voi avreste aspettato",
+      "loro avrebbero aspettato"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io aspetti",
+      "che tu aspetti",
+      "che lui/lei aspetti",
+      "che noi aspettiamo",
+      "che voi aspettiate",
+      "che loro aspettino"
+    ],
+    "Passato": [
+      "che io abbia aspettato",
+      "che tu abbia aspettato",
+      "che lui/lei abbia aspettato",
+      "che noi abbiamo aspettato",
+      "che voi abbiate aspettato",
+      "che loro abbiano aspettato"
+    ],
+    "Imperfetto": [
+      "che io aspettassi",
+      "che tu aspettassi",
+      "che lui/lei aspettasse",
+      "che noi aspettassimo",
+      "che voi aspettaste",
+      "che loro aspettassero"
+    ],
+    "Trapassato": [
+      "che io avessi aspettato",
+      "che tu avessi aspettato",
+      "che lui/lei avesse aspettato",
+      "che noi avessimo aspettato",
+      "che voi aveste aspettato",
+      "che loro avessero aspettato"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "aspetta",
+      "aspetti",
+      "aspettiamo",
+      "aspettate",
+      "aspettino"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "aspettare"
+    ],
+    "Passato": [
+      "avere aspettato"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "aspettante"
+    ],
+    "Passato": [
+      "aspettato"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "aspettando"
+    ],
+    "Passato": [
+      "avendo aspettato"
+    ]
+  }
+}

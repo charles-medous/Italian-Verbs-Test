@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "rester",
+  "target_lemma": "stare",
+  "meta": {
+    "regularity": {
+      "fr": "irrégulier",
+      "it": "verbo irregolare"
+    },
+    "auxiliary": {
+      "fr": "être",
+      "it": "essere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io sto",
+      "tu stai",
+      "lui/lei sta",
+      "noi stiamo",
+      "voi state",
+      "loro stanno"
+    ],
+    "Passato prossimo": [
+      "io sono stati",
+      "tu sei stato",
+      "lui/lei è stato",
+      "noi siamo stati",
+      "voi siete stati",
+      "loro sono stati"
+    ],
+    "Imperfetto": [
+      "io stvo",
+      "tu stvi",
+      "lui/lei stva",
+      "noi stvamo",
+      "voi stvate",
+      "loro stvano"
+    ],
+    "Trapassato prossimo": [
+      "io ero stato",
+      "tu eri stato",
+      "lui/lei era stato",
+      "noi eravamo stati",
+      "voi eravate stati",
+      "loro erano stati"
+    ],
+    "Passato remoto": [
+      "io stetti",
+      "tu stesti",
+      "lui/lei stette",
+      "noi stemmo",
+      "voi steste",
+      "loro stettero"
+    ],
+    "Trapassato remoto": [
+      "io fui stato",
+      "tu fosti stato",
+      "lui/lei fu stato",
+      "noi fummo stati",
+      "voi foste stati",
+      "loro furono stati"
+    ],
+    "Futuro semplice": [
+      "io starò",
+      "tu starai",
+      "lui/lei starà",
+      "noi staremo",
+      "voi starete",
+      "loro staranno"
+    ],
+    "Futuro anteriore": [
+      "io sarò stato",
+      "tu sarai stato",
+      "lui/lei sarà stato",
+      "noi saremo stati",
+      "voi sarete stati",
+      "loro saranno stati"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io starei",
+      "tu staresti",
+      "lui/lei starebbe",
+      "noi staremmo",
+      "voi stareste",
+      "loro starebbero"
+    ],
+    "Passato": [
+      "io sarei stato",
+      "tu saresti stato",
+      "lui/lei sarebbe stato",
+      "noi saremmo stati",
+      "voi sareste stati",
+      "loro sarebbero stato"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io stia",
+      "che tu stia",
+      "che lui/lei stia",
+      "che noi stiamo",
+      "che voi stiate",
+      "che loro stiano"
+    ],
+    "Passato": [
+      "che io sia stato",
+      "che tu sia stato",
+      "che lui/lei sia stato",
+      "che noi siamo stato",
+      "che voi siate stato",
+      "che loro siano stato"
+    ],
+    "Imperfetto": [
+      "che io stessi",
+      "che tu stessi",
+      "che lui/lei stesse",
+      "che noi stessimo",
+      "che voi stesste",
+      "che loro stessero"
+    ],
+    "Trapassato": [
+      "che io fossi stato",
+      "che tu fossi stato",
+      "che lui/lei fosse stato",
+      "che noi fossimo stato",
+      "che voi foste stato",
+      "che loro fossero stato"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "stai",
+      "stia",
+      "stiamo",
+      "state",
+      "stiano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "stare"
+    ],
+    "Passato": [
+      "essere stato"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "stente"
+    ],
+    "Passato": [
+      "stato"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "stando"
+    ],
+    "Passato": [
+      "essendo stato"
+    ]
+  }
+}

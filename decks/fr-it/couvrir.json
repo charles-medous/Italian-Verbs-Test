@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "couvrir",
+  "target_lemma": "coprire",
+  "meta": {
+    "regularity": {
+      "fr": "3e groupe (-ire)",
+      "it": "terza coniugazione (-ire)"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io copro",
+      "tu copri",
+      "lui/lei copre",
+      "noi copriamo",
+      "voi coprite",
+      "loro coprono"
+    ],
+    "Passato prossimo": [
+      "io ho coperto",
+      "tu hai coperto",
+      "lui/lei ha coperto",
+      "noi abbiamo coperto",
+      "voi avete coperto",
+      "loro hanno coperto"
+    ],
+    "Imperfetto": [
+      "io coprivo",
+      "tu coprivi",
+      "lui/lei copriva",
+      "noi coprivamo",
+      "voi coprivate",
+      "loro coprivano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo coperto",
+      "tu avevi coperto",
+      "lui/lei aveva coperto",
+      "noi avevamo coperto",
+      "voi avevate coperto",
+      "loro avevano coperto"
+    ],
+    "Passato remoto": [
+      "io coprii",
+      "tu copristi",
+      "lui/lei coprì",
+      "noi coprimmo",
+      "voi copriste",
+      "loro coprirono"
+    ],
+    "Trapassato remoto": [
+      "io ebbi coperto",
+      "tu avesti coperto",
+      "lui/lei ebbe coperto",
+      "noi avemmo coperto",
+      "voi aveste coperto",
+      "loro ebbero coperto"
+    ],
+    "Futuro semplice": [
+      "io coprirò",
+      "tu coprirai",
+      "lui/lei coprirà",
+      "noi copriremo",
+      "voi coprirete",
+      "loro copriranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò coperto",
+      "tu avrai coperto",
+      "lui/lei avrà coperto",
+      "noi avremo coperto",
+      "voi avrete coperto",
+      "loro avranno coperto"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io coprirei",
+      "tu copriresti",
+      "lui/lei coprirebbe",
+      "noi copriremmo",
+      "voi coprireste",
+      "loro coprirebbero"
+    ],
+    "Passato": [
+      "io avrei coperto",
+      "tu avresti coperto",
+      "lui/lei avrebbe coperto",
+      "noi avremmo coperto",
+      "voi avreste coperto",
+      "loro avrebbero coperto"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io copra",
+      "che tu copra",
+      "che lui/lei copra",
+      "che noi copriamo",
+      "che voi copriate",
+      "che loro coprano"
+    ],
+    "Passato": [
+      "che io abbia coperto",
+      "che tu abbia coperto",
+      "che lui/lei abbia coperto",
+      "che noi abbiamo coperto",
+      "che voi abbiate coperto",
+      "che loro abbiano coperto"
+    ],
+    "Imperfetto": [
+      "che io coprissi",
+      "che tu coprissi",
+      "che lui/lei coprisse",
+      "che noi coprissimo",
+      "che voi copriste",
+      "che loro coprissero"
+    ],
+    "Trapassato": [
+      "che io avessi coperto",
+      "che tu avessi coperto",
+      "che lui/lei avesse coperto",
+      "che noi avessimo coperto",
+      "che voi aveste coperto",
+      "che loro avessero coperto"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "copri",
+      "copra",
+      "copriamo",
+      "coprite",
+      "coprano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "coprire"
+    ],
+    "Passato": [
+      "avere coperto"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "coprente"
+    ],
+    "Passato": [
+      "coperto"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "coprendo"
+    ],
+    "Passato": [
+      "avendo coperto"
+    ]
+  }
+}

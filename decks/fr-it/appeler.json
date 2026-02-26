@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "appeler",
+  "target_lemma": "chiamare",
+  "meta": {
+    "regularity": {
+      "fr": "1er groupe régulier (approx.)",
+      "it": "prima coniugazione regolare"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io chiamo",
+      "tu chiami",
+      "lui/lei chiama",
+      "noi chiamiamo",
+      "voi chiamate",
+      "loro chiamano"
+    ],
+    "Passato prossimo": [
+      "io ho chiamato",
+      "tu hai chiamato",
+      "lui/lei ha chiamato",
+      "noi abbiamo chiamato",
+      "voi avete chiamato",
+      "loro hanno chiamato"
+    ],
+    "Imperfetto": [
+      "io chiamavo",
+      "tu chiamavi",
+      "lui/lei chiamava",
+      "noi chiamavamo",
+      "voi chiamavate",
+      "loro chiamavano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo chiamato",
+      "tu avevi chiamato",
+      "lui/lei aveva chiamato",
+      "noi avevamo chiamato",
+      "voi avevate chiamato",
+      "loro avevano chiamato"
+    ],
+    "Passato remoto": [
+      "io chiamai",
+      "tu chiamasti",
+      "lui/lei chiamò",
+      "noi chiamammo",
+      "voi chiamaste",
+      "loro chiamarono"
+    ],
+    "Trapassato remoto": [
+      "io ebbi chiamato",
+      "tu avesti chiamato",
+      "lui/lei ebbe chiamato",
+      "noi avemmo chiamato",
+      "voi aveste chiamato",
+      "loro ebbero chiamato"
+    ],
+    "Futuro semplice": [
+      "io chiamerò",
+      "tu chiamerai",
+      "lui/lei chiamerà",
+      "noi chiameremo",
+      "voi chiamerete",
+      "loro chiameranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò chiamato",
+      "tu avrai chiamato",
+      "lui/lei avrà chiamato",
+      "noi avremo chiamato",
+      "voi avrete chiamato",
+      "loro avranno chiamato"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io chiamerei",
+      "tu chiameresti",
+      "lui/lei chiamerebbe",
+      "noi chiameremmo",
+      "voi chiamereste",
+      "loro chiamerebbero"
+    ],
+    "Passato": [
+      "io avrei chiamato",
+      "tu avresti chiamato",
+      "lui/lei avrebbe chiamato",
+      "noi avremmo chiamato",
+      "voi avreste chiamato",
+      "loro avrebbero chiamato"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io chiami",
+      "che tu chiami",
+      "che lui/lei chiami",
+      "che noi chiamiamo",
+      "che voi chiamiate",
+      "che loro chiamino"
+    ],
+    "Passato": [
+      "che io abbia chiamato",
+      "che tu abbia chiamato",
+      "che lui/lei abbia chiamato",
+      "che noi abbiamo chiamato",
+      "che voi abbiate chiamato",
+      "che loro abbiano chiamato"
+    ],
+    "Imperfetto": [
+      "che io chiamassi",
+      "che tu chiamassi",
+      "che lui/lei chiamasse",
+      "che noi chiamassimo",
+      "che voi chiamaste",
+      "che loro chiamassero"
+    ],
+    "Trapassato": [
+      "che io avessi chiamato",
+      "che tu avessi chiamato",
+      "che lui/lei avesse chiamato",
+      "che noi avessimo chiamato",
+      "che voi aveste chiamato",
+      "che loro avessero chiamato"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "chiama",
+      "chiami",
+      "chiamiamo",
+      "chiamate",
+      "chiamino"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "chiamare"
+    ],
+    "Passato": [
+      "avere chiamato"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "chiamante"
+    ],
+    "Passato": [
+      "chiamato"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "chiamando"
+    ],
+    "Passato": [
+      "avendo chiamato"
+    ]
+  }
+}

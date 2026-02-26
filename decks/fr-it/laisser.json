@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "laisser",
+  "target_lemma": "lasciare",
+  "meta": {
+    "regularity": {
+      "fr": "1er groupe régulier (approx.)",
+      "it": "prima coniugazione regolare (ciare/giare)"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io lascio",
+      "tu lascii",
+      "lui/lei lascia",
+      "noi lasciiamo",
+      "voi lasciate",
+      "loro lasciano"
+    ],
+    "Passato prossimo": [
+      "io ho lasciato",
+      "tu hai lasciato",
+      "lui/lei ha lasciato",
+      "noi abbiamo lasciato",
+      "voi avete lasciato",
+      "loro hanno lasciato"
+    ],
+    "Imperfetto": [
+      "io lasciavo",
+      "tu lasciavi",
+      "lui/lei lasciava",
+      "noi lasciavamo",
+      "voi lasciavate",
+      "loro lasciavano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo lasciato",
+      "tu avevi lasciato",
+      "lui/lei aveva lasciato",
+      "noi avevamo lasciato",
+      "voi avevate lasciato",
+      "loro avevano lasciato"
+    ],
+    "Passato remoto": [
+      "io lasciai",
+      "tu lasciasti",
+      "lui/lei lasciò",
+      "noi lasciammo",
+      "voi lasciaste",
+      "loro lasciarono"
+    ],
+    "Trapassato remoto": [
+      "io ebbi lasciato",
+      "tu avesti lasciato",
+      "lui/lei ebbe lasciato",
+      "noi avemmo lasciato",
+      "voi aveste lasciato",
+      "loro ebbero lasciato"
+    ],
+    "Futuro semplice": [
+      "io lascerò",
+      "tu lascerai",
+      "lui/lei lascerà",
+      "noi lasceremo",
+      "voi lascerete",
+      "loro lasceranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò lasciato",
+      "tu avrai lasciato",
+      "lui/lei avrà lasciato",
+      "noi avremo lasciato",
+      "voi avrete lasciato",
+      "loro avranno lasciato"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io lascerei",
+      "tu lasceresti",
+      "lui/lei lascerebbe",
+      "noi lasceremmo",
+      "voi lascereste",
+      "loro lascerebbero"
+    ],
+    "Passato": [
+      "io avrei lasciato",
+      "tu avresti lasciato",
+      "lui/lei avrebbe lasciato",
+      "noi avremmo lasciato",
+      "voi avreste lasciato",
+      "loro avrebbero lasciato"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io lascii",
+      "che tu lascii",
+      "che lui/lei lascii",
+      "che noi lasciiamo",
+      "che voi lasciiate",
+      "che loro lasciino"
+    ],
+    "Passato": [
+      "che io abbia lasciato",
+      "che tu abbia lasciato",
+      "che lui/lei abbia lasciato",
+      "che noi abbiamo lasciato",
+      "che voi abbiate lasciato",
+      "che loro abbiano lasciato"
+    ],
+    "Imperfetto": [
+      "che io lasciassi",
+      "che tu lasciassi",
+      "che lui/lei lasciasse",
+      "che noi lasciassimo",
+      "che voi lasciaste",
+      "che loro lasciassero"
+    ],
+    "Trapassato": [
+      "che io avessi lasciato",
+      "che tu avessi lasciato",
+      "che lui/lei avesse lasciato",
+      "che noi avessimo lasciato",
+      "che voi aveste lasciato",
+      "che loro avessero lasciato"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "lascia",
+      "lascii",
+      "lasciiamo",
+      "lasciate",
+      "lasciino"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "lasciare"
+    ],
+    "Passato": [
+      "avere lasciato"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "lasciante"
+    ],
+    "Passato": [
+      "lasciato"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "lasciando"
+    ],
+    "Passato": [
+      "avendo lasciato"
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "découvrir",
+  "target_lemma": "scoprire",
+  "meta": {
+    "regularity": {
+      "fr": "3e groupe (-ire)",
+      "it": "terza coniugazione (-ire)"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io scopro",
+      "tu scopri",
+      "lui/lei scopre",
+      "noi scopriamo",
+      "voi scoprite",
+      "loro scoprono"
+    ],
+    "Passato prossimo": [
+      "io ho scoperto",
+      "tu hai scoperto",
+      "lui/lei ha scoperto",
+      "noi abbiamo scoperto",
+      "voi avete scoperto",
+      "loro hanno scoperto"
+    ],
+    "Imperfetto": [
+      "io scoprivo",
+      "tu scoprivi",
+      "lui/lei scopriva",
+      "noi scoprivamo",
+      "voi scoprivate",
+      "loro scoprivano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo scoperto",
+      "tu avevi scoperto",
+      "lui/lei aveva scoperto",
+      "noi avevamo scoperto",
+      "voi avevate scoperto",
+      "loro avevano scoperto"
+    ],
+    "Passato remoto": [
+      "io scoprii",
+      "tu scopristi",
+      "lui/lei scoprì",
+      "noi scoprimmo",
+      "voi scopriste",
+      "loro scoprirono"
+    ],
+    "Trapassato remoto": [
+      "io ebbi scoperto",
+      "tu avesti scoperto",
+      "lui/lei ebbe scoperto",
+      "noi avemmo scoperto",
+      "voi aveste scoperto",
+      "loro ebbero scoperto"
+    ],
+    "Futuro semplice": [
+      "io scoprirò",
+      "tu scoprirai",
+      "lui/lei scoprirà",
+      "noi scopriremo",
+      "voi scoprirete",
+      "loro scopriranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò scoperto",
+      "tu avrai scoperto",
+      "lui/lei avrà scoperto",
+      "noi avremo scoperto",
+      "voi avrete scoperto",
+      "loro avranno scoperto"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io scoprirei",
+      "tu scopriresti",
+      "lui/lei scoprirebbe",
+      "noi scopriremmo",
+      "voi scoprireste",
+      "loro scoprirebbero"
+    ],
+    "Passato": [
+      "io avrei scoperto",
+      "tu avresti scoperto",
+      "lui/lei avrebbe scoperto",
+      "noi avremmo scoperto",
+      "voi avreste scoperto",
+      "loro avrebbero scoperto"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io scopra",
+      "che tu scopra",
+      "che lui/lei scopra",
+      "che noi scopriamo",
+      "che voi scopriate",
+      "che loro scoprano"
+    ],
+    "Passato": [
+      "che io abbia scoperto",
+      "che tu abbia scoperto",
+      "che lui/lei abbia scoperto",
+      "che noi abbiamo scoperto",
+      "che voi abbiate scoperto",
+      "che loro abbiano scoperto"
+    ],
+    "Imperfetto": [
+      "che io scoprissi",
+      "che tu scoprissi",
+      "che lui/lei scoprisse",
+      "che noi scoprissimo",
+      "che voi scopriste",
+      "che loro scoprissero"
+    ],
+    "Trapassato": [
+      "che io avessi scoperto",
+      "che tu avessi scoperto",
+      "che lui/lei avesse scoperto",
+      "che noi avessimo scoperto",
+      "che voi aveste scoperto",
+      "che loro avessero scoperto"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "scopri",
+      "scopra",
+      "scopriamo",
+      "scoprite",
+      "scoprano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "scoprire"
+    ],
+    "Passato": [
+      "avere scoperto"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "scoprente"
+    ],
+    "Passato": [
+      "scoperto"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "scoprendo"
+    ],
+    "Passato": [
+      "avendo scoperto"
+    ]
+  }
+}

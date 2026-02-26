@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "faire",
+  "target_lemma": "fare",
+  "meta": {
+    "regularity": {
+      "fr": "irrégulier",
+      "it": "verbo irregolare"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io faccio",
+      "tu fai",
+      "lui/lei fa",
+      "noi facciamo",
+      "voi fate",
+      "loro fanno"
+    ],
+    "Passato prossimo": [
+      "io ho fatto",
+      "tu hai fatto",
+      "lui/lei ha fatto",
+      "noi abbiamo fatto",
+      "voi avete fatto",
+      "loro hanno fatto"
+    ],
+    "Imperfetto": [
+      "io facevo",
+      "tu facevi",
+      "lui/lei faceva",
+      "noi facevamo",
+      "voi facevate",
+      "loro facevano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo fatto",
+      "tu avevi fatto",
+      "lui/lei aveva fatto",
+      "noi avevamo fatto",
+      "voi avevate fatto",
+      "loro avevano fatto"
+    ],
+    "Passato remoto": [
+      "io feci",
+      "tu facesti",
+      "lui/lei fece",
+      "noi facemmo",
+      "voi faceste",
+      "loro fecero"
+    ],
+    "Trapassato remoto": [
+      "io ebbi fatto",
+      "tu avesti fatto",
+      "lui/lei ebbe fatto",
+      "noi avemmo fatto",
+      "voi aveste fatto",
+      "loro ebbero fatto"
+    ],
+    "Futuro semplice": [
+      "io farò",
+      "tu farai",
+      "lui/lei farà",
+      "noi faremo",
+      "voi farete",
+      "loro faranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò fatto",
+      "tu avrai fatto",
+      "lui/lei avrà fatto",
+      "noi avremo fatto",
+      "voi avrete fatto",
+      "loro avranno fatto"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io farei",
+      "tu faresti",
+      "lui/lei farebbe",
+      "noi faremmo",
+      "voi fareste",
+      "loro farebbero"
+    ],
+    "Passato": [
+      "io avrei fatto",
+      "tu avresti fatto",
+      "lui/lei avrebbe fatto",
+      "noi avremmo fatto",
+      "voi avreste fatto",
+      "loro avrebbero fatto"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io faccia",
+      "che tu faccia",
+      "che lui/lei faccia",
+      "che noi facciamo",
+      "che voi facciate",
+      "che loro facciano"
+    ],
+    "Passato": [
+      "che io abbia fatto",
+      "che tu abbia fatto",
+      "che lui/lei abbia fatto",
+      "che noi abbiamo fatto",
+      "che voi abbiate fatto",
+      "che loro abbiano fatto"
+    ],
+    "Imperfetto": [
+      "che io facessi",
+      "che tu facessi",
+      "che lui/lei facesse",
+      "che noi facessimo",
+      "che voi facesste",
+      "che loro facessero"
+    ],
+    "Trapassato": [
+      "che io avessi fatto",
+      "che tu avessi fatto",
+      "che lui/lei avesse fatto",
+      "che noi avessimo fatto",
+      "che voi aveste fatto",
+      "che loro avessero fatto"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "fai",
+      "faccia",
+      "facciamo",
+      "fate",
+      "facciano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "fare"
+    ],
+    "Passato": [
+      "avere fatto"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "fente"
+    ],
+    "Passato": [
+      "fatto"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "facendo"
+    ],
+    "Passato": [
+      "avendo fatto"
+    ]
+  }
+}

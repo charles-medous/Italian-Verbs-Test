@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "jouer",
+  "target_lemma": "giocare",
+  "meta": {
+    "regularity": {
+      "fr": "1er groupe régulier (approx.)",
+      "it": "prima coniugazione regolare (care/gare)"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io gioco",
+      "tu giochi",
+      "lui/lei gioca",
+      "noi giochiamo",
+      "voi giocate",
+      "loro giocano"
+    ],
+    "Passato prossimo": [
+      "io ho giocato",
+      "tu hai giocato",
+      "lui/lei ha giocato",
+      "noi abbiamo giocato",
+      "voi avete giocato",
+      "loro hanno giocato"
+    ],
+    "Imperfetto": [
+      "io giocavo",
+      "tu giocavi",
+      "lui/lei giocava",
+      "noi giocavamo",
+      "voi giocavate",
+      "loro giocavano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo giocato",
+      "tu avevi giocato",
+      "lui/lei aveva giocato",
+      "noi avevamo giocato",
+      "voi avevate giocato",
+      "loro avevano giocato"
+    ],
+    "Passato remoto": [
+      "io giocai",
+      "tu giocasti",
+      "lui/lei giocò",
+      "noi giocammo",
+      "voi giocaste",
+      "loro giocarono"
+    ],
+    "Trapassato remoto": [
+      "io ebbi giocato",
+      "tu avesti giocato",
+      "lui/lei ebbe giocato",
+      "noi avemmo giocato",
+      "voi aveste giocato",
+      "loro ebbero giocato"
+    ],
+    "Futuro semplice": [
+      "io giocherò",
+      "tu giocherai",
+      "lui/lei giocherà",
+      "noi giocheremo",
+      "voi giocherete",
+      "loro giocheranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò giocato",
+      "tu avrai giocato",
+      "lui/lei avrà giocato",
+      "noi avremo giocato",
+      "voi avrete giocato",
+      "loro avranno giocato"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io giocherei",
+      "tu giocheresti",
+      "lui/lei giocherebbe",
+      "noi giocheremmo",
+      "voi giochereste",
+      "loro giocherebbero"
+    ],
+    "Passato": [
+      "io avrei giocato",
+      "tu avresti giocato",
+      "lui/lei avrebbe giocato",
+      "noi avremmo giocato",
+      "voi avreste giocato",
+      "loro avrebbero giocato"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io giochi",
+      "che tu giochi",
+      "che lui/lei giochi",
+      "che noi giochiamo",
+      "che voi giochiate",
+      "che loro giochino"
+    ],
+    "Passato": [
+      "che io abbia giocato",
+      "che tu abbia giocato",
+      "che lui/lei abbia giocato",
+      "che noi abbiamo giocato",
+      "che voi abbiate giocato",
+      "che loro abbiano giocato"
+    ],
+    "Imperfetto": [
+      "che io giocassi",
+      "che tu giocassi",
+      "che lui/lei giocasse",
+      "che noi giocassimo",
+      "che voi giocaste",
+      "che loro giocassero"
+    ],
+    "Trapassato": [
+      "che io avessi giocato",
+      "che tu avessi giocato",
+      "che lui/lei avesse giocato",
+      "che noi avessimo giocato",
+      "che voi aveste giocato",
+      "che loro avessero giocato"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "gioca",
+      "giochi",
+      "giochiamo",
+      "giocate",
+      "giochino"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "giocare"
+    ],
+    "Passato": [
+      "avere giocato"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "giocante"
+    ],
+    "Passato": [
+      "giocato"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "giocando"
+    ],
+    "Passato": [
+      "avendo giocato"
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "chercher",
+  "target_lemma": "cercare",
+  "meta": {
+    "regularity": {
+      "fr": "1er groupe régulier (approx.)",
+      "it": "prima coniugazione regolare (care/gare)"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io cerco",
+      "tu cerchi",
+      "lui/lei cerca",
+      "noi cerchiamo",
+      "voi cercate",
+      "loro cercano"
+    ],
+    "Passato prossimo": [
+      "io ho cercato",
+      "tu hai cercato",
+      "lui/lei ha cercato",
+      "noi abbiamo cercato",
+      "voi avete cercato",
+      "loro hanno cercato"
+    ],
+    "Imperfetto": [
+      "io cercavo",
+      "tu cercavi",
+      "lui/lei cercava",
+      "noi cercavamo",
+      "voi cercavate",
+      "loro cercavano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo cercato",
+      "tu avevi cercato",
+      "lui/lei aveva cercato",
+      "noi avevamo cercato",
+      "voi avevate cercato",
+      "loro avevano cercato"
+    ],
+    "Passato remoto": [
+      "io cercai",
+      "tu cercasti",
+      "lui/lei cercò",
+      "noi cercammo",
+      "voi cercaste",
+      "loro cercarono"
+    ],
+    "Trapassato remoto": [
+      "io ebbi cercato",
+      "tu avesti cercato",
+      "lui/lei ebbe cercato",
+      "noi avemmo cercato",
+      "voi aveste cercato",
+      "loro ebbero cercato"
+    ],
+    "Futuro semplice": [
+      "io cercherò",
+      "tu cercherai",
+      "lui/lei cercherà",
+      "noi cercheremo",
+      "voi cercherete",
+      "loro cercheranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò cercato",
+      "tu avrai cercato",
+      "lui/lei avrà cercato",
+      "noi avremo cercato",
+      "voi avrete cercato",
+      "loro avranno cercato"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io cercherei",
+      "tu cercheresti",
+      "lui/lei cercherebbe",
+      "noi cercheremmo",
+      "voi cerchereste",
+      "loro cercherebbero"
+    ],
+    "Passato": [
+      "io avrei cercato",
+      "tu avresti cercato",
+      "lui/lei avrebbe cercato",
+      "noi avremmo cercato",
+      "voi avreste cercato",
+      "loro avrebbero cercato"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io cerchi",
+      "che tu cerchi",
+      "che lui/lei cerchi",
+      "che noi cerchiamo",
+      "che voi cerchiate",
+      "che loro cerchino"
+    ],
+    "Passato": [
+      "che io abbia cercato",
+      "che tu abbia cercato",
+      "che lui/lei abbia cercato",
+      "che noi abbiamo cercato",
+      "che voi abbiate cercato",
+      "che loro abbiano cercato"
+    ],
+    "Imperfetto": [
+      "che io cercassi",
+      "che tu cercassi",
+      "che lui/lei cercasse",
+      "che noi cercassimo",
+      "che voi cercaste",
+      "che loro cercassero"
+    ],
+    "Trapassato": [
+      "che io avessi cercato",
+      "che tu avessi cercato",
+      "che lui/lei avesse cercato",
+      "che noi avessimo cercato",
+      "che voi aveste cercato",
+      "che loro avessero cercato"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "cerca",
+      "cerchi",
+      "cerchiamo",
+      "cercate",
+      "cerchino"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "cercare"
+    ],
+    "Passato": [
+      "avere cercato"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "cercante"
+    ],
+    "Passato": [
+      "cercato"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "cercando"
+    ],
+    "Passato": [
+      "avendo cercato"
+    ]
+  }
+}

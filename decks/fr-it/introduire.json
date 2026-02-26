@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "introduire",
+  "target_lemma": "introdurre",
+  "meta": {
+    "regularity": {
+      "fr": "irrégulier",
+      "it": "verbo irregolare"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io introduco",
+      "tu introduci",
+      "lui/lei introduce",
+      "noi introduciamo",
+      "voi introducete",
+      "loro introducono"
+    ],
+    "Passato prossimo": [
+      "io ho introdotto",
+      "tu hai introdotto",
+      "lui/lei ha introdotto",
+      "noi abbiamo introdotto",
+      "voi avete introdotto",
+      "loro hanno introdotto"
+    ],
+    "Imperfetto": [
+      "io introducevo",
+      "tu introducevi",
+      "lui/lei introduceva",
+      "noi introducevamo",
+      "voi introducevate",
+      "loro introducevano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo introdotto",
+      "tu avevi introdotto",
+      "lui/lei aveva introdotto",
+      "noi avevamo introdotto",
+      "voi avevate introdotto",
+      "loro avevano introdotto"
+    ],
+    "Passato remoto": [
+      "io introdussi",
+      "tu introducesti",
+      "lui/lei introdusse",
+      "noi introducemmo",
+      "voi introduceste",
+      "loro introdussero"
+    ],
+    "Trapassato remoto": [
+      "io ebbi introdotto",
+      "tu avesti introdotto",
+      "lui/lei ebbe introdotto",
+      "noi avemmo introdotto",
+      "voi aveste introdotto",
+      "loro ebbero introdotto"
+    ],
+    "Futuro semplice": [
+      "io introdurrò",
+      "tu introdurrai",
+      "lui/lei introdurrà",
+      "noi introdurremo",
+      "voi introdurrete",
+      "loro introdurranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò introdotto",
+      "tu avrai introdotto",
+      "lui/lei avrà introdotto",
+      "noi avremo introdotto",
+      "voi avrete introdotto",
+      "loro avranno introdotto"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io introdurrei",
+      "tu introdurresti",
+      "lui/lei introdurrebbe",
+      "noi introdurremmo",
+      "voi introdurreste",
+      "loro introdurrebbero"
+    ],
+    "Passato": [
+      "io avrei introdotto",
+      "tu avresti introdotto",
+      "lui/lei avrebbe introdotto",
+      "noi avremmo introdotto",
+      "voi avreste introdotto",
+      "loro avrebbero introdotto"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io introduca",
+      "che tu introduca",
+      "che lui/lei introduca",
+      "che noi introduciamo",
+      "che voi introduciate",
+      "che loro introducano"
+    ],
+    "Passato": [
+      "che io abbia introdotto",
+      "che tu abbia introdotto",
+      "che lui/lei abbia introdotto",
+      "che noi abbiamo introdotto",
+      "che voi abbiate introdotto",
+      "che loro abbiano introdotto"
+    ],
+    "Imperfetto": [
+      "che io introducessi",
+      "che tu introducessi",
+      "che lui/lei introducesse",
+      "che noi introducessimo",
+      "che voi introducesste",
+      "che loro introducessero"
+    ],
+    "Trapassato": [
+      "che io avessi introdotto",
+      "che tu avessi introdotto",
+      "che lui/lei avesse introdotto",
+      "che noi avessimo introdotto",
+      "che voi aveste introdotto",
+      "che loro avessero introdotto"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "introduci",
+      "introduca",
+      "introduciamo",
+      "introducete",
+      "introducano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "introdurre"
+    ],
+    "Passato": [
+      "avere introdotto"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "introduente"
+    ],
+    "Passato": [
+      "introdotto"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "introducendo"
+    ],
+    "Passato": [
+      "avendo introdotto"
+    ]
+  }
+}

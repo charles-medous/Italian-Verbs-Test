@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "porter",
+  "target_lemma": "portare",
+  "meta": {
+    "regularity": {
+      "fr": "1er groupe régulier (approx.)",
+      "it": "prima coniugazione regolare"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io porto",
+      "tu porti",
+      "lui/lei porta",
+      "noi portiamo",
+      "voi portate",
+      "loro portano"
+    ],
+    "Passato prossimo": [
+      "io ho portato",
+      "tu hai portato",
+      "lui/lei ha portato",
+      "noi abbiamo portato",
+      "voi avete portato",
+      "loro hanno portato"
+    ],
+    "Imperfetto": [
+      "io portavo",
+      "tu portavi",
+      "lui/lei portava",
+      "noi portavamo",
+      "voi portavate",
+      "loro portavano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo portato",
+      "tu avevi portato",
+      "lui/lei aveva portato",
+      "noi avevamo portato",
+      "voi avevate portato",
+      "loro avevano portato"
+    ],
+    "Passato remoto": [
+      "io portai",
+      "tu portasti",
+      "lui/lei portò",
+      "noi portammo",
+      "voi portaste",
+      "loro portarono"
+    ],
+    "Trapassato remoto": [
+      "io ebbi portato",
+      "tu avesti portato",
+      "lui/lei ebbe portato",
+      "noi avemmo portato",
+      "voi aveste portato",
+      "loro ebbero portato"
+    ],
+    "Futuro semplice": [
+      "io porterò",
+      "tu porterai",
+      "lui/lei porterà",
+      "noi porteremo",
+      "voi porterete",
+      "loro porteranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò portato",
+      "tu avrai portato",
+      "lui/lei avrà portato",
+      "noi avremo portato",
+      "voi avrete portato",
+      "loro avranno portato"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io porterei",
+      "tu porteresti",
+      "lui/lei porterebbe",
+      "noi porteremmo",
+      "voi portereste",
+      "loro porterebbero"
+    ],
+    "Passato": [
+      "io avrei portato",
+      "tu avresti portato",
+      "lui/lei avrebbe portato",
+      "noi avremmo portato",
+      "voi avreste portato",
+      "loro avrebbero portato"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io porti",
+      "che tu porti",
+      "che lui/lei porti",
+      "che noi portiamo",
+      "che voi portiate",
+      "che loro portino"
+    ],
+    "Passato": [
+      "che io abbia portato",
+      "che tu abbia portato",
+      "che lui/lei abbia portato",
+      "che noi abbiamo portato",
+      "che voi abbiate portato",
+      "che loro abbiano portato"
+    ],
+    "Imperfetto": [
+      "che io portassi",
+      "che tu portassi",
+      "che lui/lei portasse",
+      "che noi portassimo",
+      "che voi portaste",
+      "che loro portassero"
+    ],
+    "Trapassato": [
+      "che io avessi portato",
+      "che tu avessi portato",
+      "che lui/lei avesse portato",
+      "che noi avessimo portato",
+      "che voi aveste portato",
+      "che loro avessero portato"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "porta",
+      "porti",
+      "portiamo",
+      "portate",
+      "portino"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "portare"
+    ],
+    "Passato": [
+      "avere portato"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "portante"
+    ],
+    "Passato": [
+      "portato"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "portando"
+    ],
+    "Passato": [
+      "avendo portato"
+    ]
+  }
+}

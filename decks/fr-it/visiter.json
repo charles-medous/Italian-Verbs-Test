@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "visiter",
+  "target_lemma": "visitare",
+  "meta": {
+    "regularity": {
+      "fr": "1er groupe régulier (approx.)",
+      "it": "prima coniugazione regolare"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io visito",
+      "tu visiti",
+      "lui/lei visita",
+      "noi visitiamo",
+      "voi visitate",
+      "loro visitano"
+    ],
+    "Passato prossimo": [
+      "io ho visitato",
+      "tu hai visitato",
+      "lui/lei ha visitato",
+      "noi abbiamo visitato",
+      "voi avete visitato",
+      "loro hanno visitato"
+    ],
+    "Imperfetto": [
+      "io visitavo",
+      "tu visitavi",
+      "lui/lei visitava",
+      "noi visitavamo",
+      "voi visitavate",
+      "loro visitavano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo visitato",
+      "tu avevi visitato",
+      "lui/lei aveva visitato",
+      "noi avevamo visitato",
+      "voi avevate visitato",
+      "loro avevano visitato"
+    ],
+    "Passato remoto": [
+      "io visitai",
+      "tu visitasti",
+      "lui/lei visitò",
+      "noi visitammo",
+      "voi visitaste",
+      "loro visitarono"
+    ],
+    "Trapassato remoto": [
+      "io ebbi visitato",
+      "tu avesti visitato",
+      "lui/lei ebbe visitato",
+      "noi avemmo visitato",
+      "voi aveste visitato",
+      "loro ebbero visitato"
+    ],
+    "Futuro semplice": [
+      "io visiterò",
+      "tu visiterai",
+      "lui/lei visiterà",
+      "noi visiteremo",
+      "voi visiterete",
+      "loro visiteranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò visitato",
+      "tu avrai visitato",
+      "lui/lei avrà visitato",
+      "noi avremo visitato",
+      "voi avrete visitato",
+      "loro avranno visitato"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io visiterei",
+      "tu visiteresti",
+      "lui/lei visiterebbe",
+      "noi visiteremmo",
+      "voi visitereste",
+      "loro visiterebbero"
+    ],
+    "Passato": [
+      "io avrei visitato",
+      "tu avresti visitato",
+      "lui/lei avrebbe visitato",
+      "noi avremmo visitato",
+      "voi avreste visitato",
+      "loro avrebbero visitato"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io visiti",
+      "che tu visiti",
+      "che lui/lei visiti",
+      "che noi visitiamo",
+      "che voi visitiate",
+      "che loro visitino"
+    ],
+    "Passato": [
+      "che io abbia visitato",
+      "che tu abbia visitato",
+      "che lui/lei abbia visitato",
+      "che noi abbiamo visitato",
+      "che voi abbiate visitato",
+      "che loro abbiano visitato"
+    ],
+    "Imperfetto": [
+      "che io visitassi",
+      "che tu visitassi",
+      "che lui/lei visitasse",
+      "che noi visitassimo",
+      "che voi visitaste",
+      "che loro visitassero"
+    ],
+    "Trapassato": [
+      "che io avessi visitato",
+      "che tu avessi visitato",
+      "che lui/lei avesse visitato",
+      "che noi avessimo visitato",
+      "che voi aveste visitato",
+      "che loro avessero visitato"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "visita",
+      "visiti",
+      "visitiamo",
+      "visitate",
+      "visitino"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "visitare"
+    ],
+    "Passato": [
+      "avere visitato"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "visitante"
+    ],
+    "Passato": [
+      "visitato"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "visitando"
+    ],
+    "Passato": [
+      "avendo visitato"
+    ]
+  }
+}

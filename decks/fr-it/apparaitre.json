@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "apparaître",
+  "target_lemma": "apparire",
+  "meta": {
+    "regularity": {
+      "fr": "irrégulier",
+      "it": "verbo irregolare"
+    },
+    "auxiliary": {
+      "fr": "être",
+      "it": "essere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io appaio",
+      "tu appari",
+      "lui/lei appare",
+      "noi appariamo",
+      "voi apparite",
+      "loro appaiono"
+    ],
+    "Passato prossimo": [
+      "io sono apparsi",
+      "tu sei apparso",
+      "lui/lei è apparso",
+      "noi siamo apparsi",
+      "voi siete apparsi",
+      "loro sono apparsi"
+    ],
+    "Imperfetto": [
+      "io apparvo",
+      "tu apparvi",
+      "lui/lei apparva",
+      "noi apparvamo",
+      "voi apparvate",
+      "loro apparvano"
+    ],
+    "Trapassato prossimo": [
+      "io ero apparso",
+      "tu eri apparso",
+      "lui/lei era apparso",
+      "noi eravamo apparsi",
+      "voi eravate apparsi",
+      "loro erano apparsi"
+    ],
+    "Passato remoto": [
+      "io apparvi",
+      "tu apparisti",
+      "lui/lei apparve",
+      "noi apparimmo",
+      "voi appariste",
+      "loro apparvero"
+    ],
+    "Trapassato remoto": [
+      "io fui apparso",
+      "tu fosti apparso",
+      "lui/lei fu apparso",
+      "noi fummo apparsi",
+      "voi foste apparsi",
+      "loro furono apparsi"
+    ],
+    "Futuro semplice": [
+      "io apparirò",
+      "tu apparirai",
+      "lui/lei apparirà",
+      "noi appariremo",
+      "voi apparirete",
+      "loro appariranno"
+    ],
+    "Futuro anteriore": [
+      "io sarò apparso",
+      "tu sarai apparso",
+      "lui/lei sarà apparso",
+      "noi saremo apparsi",
+      "voi sarete apparsi",
+      "loro saranno apparsi"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io apparirei",
+      "tu appariresti",
+      "lui/lei apparirebbe",
+      "noi appariremmo",
+      "voi apparireste",
+      "loro apparirebbero"
+    ],
+    "Passato": [
+      "io sarei apparso",
+      "tu saresti apparso",
+      "lui/lei sarebbe apparso",
+      "noi saremmo apparsi",
+      "voi sareste apparsi",
+      "loro sarebbero apparso"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io appaia",
+      "che tu appaia",
+      "che lui/lei appaia",
+      "che noi appariamo",
+      "che voi appariate",
+      "che loro appaiano"
+    ],
+    "Passato": [
+      "che io sia apparso",
+      "che tu sia apparso",
+      "che lui/lei sia apparso",
+      "che noi siamo apparso",
+      "che voi siate apparso",
+      "che loro siano apparso"
+    ],
+    "Imperfetto": [
+      "che io apparissi",
+      "che tu apparissi",
+      "che lui/lei apparisse",
+      "che noi apparissimo",
+      "che voi apparisste",
+      "che loro apparissero"
+    ],
+    "Trapassato": [
+      "che io fossi apparso",
+      "che tu fossi apparso",
+      "che lui/lei fosse apparso",
+      "che noi fossimo apparso",
+      "che voi foste apparso",
+      "che loro fossero apparso"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "appari",
+      "appaia",
+      "appariamo",
+      "apparite",
+      "appaiano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "apparire"
+    ],
+    "Passato": [
+      "essere apparso"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "apparente"
+    ],
+    "Passato": [
+      "apparso"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "apparendo"
+    ],
+    "Passato": [
+      "essendo apparso"
+    ]
+  }
+}

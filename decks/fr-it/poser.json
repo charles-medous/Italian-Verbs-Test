@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "poser",
+  "target_lemma": "porre",
+  "meta": {
+    "regularity": {
+      "fr": "irrégulier",
+      "it": "verbo irregolare"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io pongo",
+      "tu poni",
+      "lui/lei pone",
+      "noi poniamo",
+      "voi ponete",
+      "loro pongono"
+    ],
+    "Passato prossimo": [
+      "io ho posto",
+      "tu hai posto",
+      "lui/lei ha posto",
+      "noi abbiamo posto",
+      "voi avete posto",
+      "loro hanno posto"
+    ],
+    "Imperfetto": [
+      "io ponevo",
+      "tu ponevi",
+      "lui/lei poneva",
+      "noi ponevamo",
+      "voi ponevate",
+      "loro ponevano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo posto",
+      "tu avevi posto",
+      "lui/lei aveva posto",
+      "noi avevamo posto",
+      "voi avevate posto",
+      "loro avevano posto"
+    ],
+    "Passato remoto": [
+      "io posi",
+      "tu ponesti",
+      "lui/lei pose",
+      "noi ponemmo",
+      "voi poneste",
+      "loro posero"
+    ],
+    "Trapassato remoto": [
+      "io ebbi posto",
+      "tu avesti posto",
+      "lui/lei ebbe posto",
+      "noi avemmo posto",
+      "voi aveste posto",
+      "loro ebbero posto"
+    ],
+    "Futuro semplice": [
+      "io porrò",
+      "tu porrai",
+      "lui/lei porrà",
+      "noi porremo",
+      "voi porrete",
+      "loro porranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò posto",
+      "tu avrai posto",
+      "lui/lei avrà posto",
+      "noi avremo posto",
+      "voi avrete posto",
+      "loro avranno posto"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io porrei",
+      "tu porresti",
+      "lui/lei porrebbe",
+      "noi porremmo",
+      "voi porreste",
+      "loro porrebbero"
+    ],
+    "Passato": [
+      "io avrei posto",
+      "tu avresti posto",
+      "lui/lei avrebbe posto",
+      "noi avremmo posto",
+      "voi avreste posto",
+      "loro avrebbero posto"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io ponga",
+      "che tu ponga",
+      "che lui/lei ponga",
+      "che noi poniamo",
+      "che voi poniate",
+      "che loro pongano"
+    ],
+    "Passato": [
+      "che io abbia posto",
+      "che tu abbia posto",
+      "che lui/lei abbia posto",
+      "che noi abbiamo posto",
+      "che voi abbiate posto",
+      "che loro abbiano posto"
+    ],
+    "Imperfetto": [
+      "che io ponessi",
+      "che tu ponessi",
+      "che lui/lei ponesse",
+      "che noi ponessimo",
+      "che voi ponesste",
+      "che loro ponessero"
+    ],
+    "Trapassato": [
+      "che io avessi posto",
+      "che tu avessi posto",
+      "che lui/lei avesse posto",
+      "che noi avessimo posto",
+      "che voi aveste posto",
+      "che loro avessero posto"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "poni",
+      "ponga",
+      "poniamo",
+      "ponete",
+      "pongano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "porre"
+    ],
+    "Passato": [
+      "avere posto"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "poente"
+    ],
+    "Passato": [
+      "posto"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "ponendo"
+    ],
+    "Passato": [
+      "avendo posto"
+    ]
+  }
+}

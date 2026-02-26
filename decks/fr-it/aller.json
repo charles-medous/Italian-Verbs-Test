@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "aller",
+  "target_lemma": "andare",
+  "meta": {
+    "regularity": {
+      "fr": "irrégulier",
+      "it": "verbo irregolare"
+    },
+    "auxiliary": {
+      "fr": "être",
+      "it": "essere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io vado",
+      "tu vai",
+      "lui/lei va",
+      "noi andiamo",
+      "voi andate",
+      "loro vanno"
+    ],
+    "Passato prossimo": [
+      "io sono andati",
+      "tu sei andato",
+      "lui/lei è andato",
+      "noi siamo andati",
+      "voi siete andati",
+      "loro sono andati"
+    ],
+    "Imperfetto": [
+      "io andvo",
+      "tu andvi",
+      "lui/lei andva",
+      "noi andvamo",
+      "voi andvate",
+      "loro andvano"
+    ],
+    "Trapassato prossimo": [
+      "io ero andato",
+      "tu eri andato",
+      "lui/lei era andato",
+      "noi eravamo andati",
+      "voi eravate andati",
+      "loro erano andati"
+    ],
+    "Passato remoto": [
+      "io andai",
+      "tu andasti",
+      "lui/lei andò",
+      "noi andammo",
+      "voi andaste",
+      "loro andarono"
+    ],
+    "Trapassato remoto": [
+      "io fui andato",
+      "tu fosti andato",
+      "lui/lei fu andato",
+      "noi fummo andati",
+      "voi foste andati",
+      "loro furono andati"
+    ],
+    "Futuro semplice": [
+      "io andrò",
+      "tu andrai",
+      "lui/lei andrà",
+      "noi andremo",
+      "voi andrete",
+      "loro andranno"
+    ],
+    "Futuro anteriore": [
+      "io sarò andato",
+      "tu sarai andato",
+      "lui/lei sarà andato",
+      "noi saremo andati",
+      "voi sarete andati",
+      "loro saranno andati"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io andrei",
+      "tu andresti",
+      "lui/lei andrebbe",
+      "noi andremmo",
+      "voi andreste",
+      "loro andrebbero"
+    ],
+    "Passato": [
+      "io sarei andato",
+      "tu saresti andato",
+      "lui/lei sarebbe andato",
+      "noi saremmo andati",
+      "voi sareste andati",
+      "loro sarebbero andato"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io vada",
+      "che tu vada",
+      "che lui/lei vada",
+      "che noi andiamo",
+      "che voi andiate",
+      "che loro vadano"
+    ],
+    "Passato": [
+      "che io sia andato",
+      "che tu sia andato",
+      "che lui/lei sia andato",
+      "che noi siamo andato",
+      "che voi siate andato",
+      "che loro siano andato"
+    ],
+    "Imperfetto": [
+      "che io andassi",
+      "che tu andassi",
+      "che lui/lei andasse",
+      "che noi andassimo",
+      "che voi andasste",
+      "che loro andassero"
+    ],
+    "Trapassato": [
+      "che io fossi andato",
+      "che tu fossi andato",
+      "che lui/lei fosse andato",
+      "che noi fossimo andato",
+      "che voi foste andato",
+      "che loro fossero andato"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "vai",
+      "vada",
+      "andiamo",
+      "andate",
+      "vadano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "andare"
+    ],
+    "Passato": [
+      "essere andato"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "andente"
+    ],
+    "Passato": [
+      "andato"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "andando"
+    ],
+    "Passato": [
+      "essendo andato"
+    ]
+  }
+}

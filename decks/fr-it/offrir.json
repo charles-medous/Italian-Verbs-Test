@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "offrir",
+  "target_lemma": "offrire",
+  "meta": {
+    "regularity": {
+      "fr": "3e groupe (-ire)",
+      "it": "terza coniugazione (-ire)"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io offro",
+      "tu offri",
+      "lui/lei offre",
+      "noi offriamo",
+      "voi offrite",
+      "loro offrono"
+    ],
+    "Passato prossimo": [
+      "io ho offerto",
+      "tu hai offerto",
+      "lui/lei ha offerto",
+      "noi abbiamo offerto",
+      "voi avete offerto",
+      "loro hanno offerto"
+    ],
+    "Imperfetto": [
+      "io offrivo",
+      "tu offrivi",
+      "lui/lei offriva",
+      "noi offrivamo",
+      "voi offrivate",
+      "loro offrivano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo offerto",
+      "tu avevi offerto",
+      "lui/lei aveva offerto",
+      "noi avevamo offerto",
+      "voi avevate offerto",
+      "loro avevano offerto"
+    ],
+    "Passato remoto": [
+      "io offrii",
+      "tu offristi",
+      "lui/lei offrì",
+      "noi offrimmo",
+      "voi offriste",
+      "loro offrirono"
+    ],
+    "Trapassato remoto": [
+      "io ebbi offerto",
+      "tu avesti offerto",
+      "lui/lei ebbe offerto",
+      "noi avemmo offerto",
+      "voi aveste offerto",
+      "loro ebbero offerto"
+    ],
+    "Futuro semplice": [
+      "io offrirò",
+      "tu offrirai",
+      "lui/lei offrirà",
+      "noi offriremo",
+      "voi offrirete",
+      "loro offriranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò offerto",
+      "tu avrai offerto",
+      "lui/lei avrà offerto",
+      "noi avremo offerto",
+      "voi avrete offerto",
+      "loro avranno offerto"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io offrirei",
+      "tu offriresti",
+      "lui/lei offrirebbe",
+      "noi offriremmo",
+      "voi offrireste",
+      "loro offrirebbero"
+    ],
+    "Passato": [
+      "io avrei offerto",
+      "tu avresti offerto",
+      "lui/lei avrebbe offerto",
+      "noi avremmo offerto",
+      "voi avreste offerto",
+      "loro avrebbero offerto"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io offra",
+      "che tu offra",
+      "che lui/lei offra",
+      "che noi offriamo",
+      "che voi offriate",
+      "che loro offrano"
+    ],
+    "Passato": [
+      "che io abbia offerto",
+      "che tu abbia offerto",
+      "che lui/lei abbia offerto",
+      "che noi abbiamo offerto",
+      "che voi abbiate offerto",
+      "che loro abbiano offerto"
+    ],
+    "Imperfetto": [
+      "che io offrissi",
+      "che tu offrissi",
+      "che lui/lei offrisse",
+      "che noi offrissimo",
+      "che voi offriste",
+      "che loro offrissero"
+    ],
+    "Trapassato": [
+      "che io avessi offerto",
+      "che tu avessi offerto",
+      "che lui/lei avesse offerto",
+      "che noi avessimo offerto",
+      "che voi aveste offerto",
+      "che loro avessero offerto"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "offri",
+      "offra",
+      "offriamo",
+      "offrite",
+      "offrano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "offrire"
+    ],
+    "Passato": [
+      "avere offerto"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "offrente"
+    ],
+    "Passato": [
+      "offerto"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "offrendo"
+    ],
+    "Passato": [
+      "avendo offerto"
+    ]
+  }
+}

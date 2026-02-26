@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "laver",
+  "target_lemma": "lavare",
+  "meta": {
+    "regularity": {
+      "fr": "1er groupe régulier (approx.)",
+      "it": "prima coniugazione regolare"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io lavo",
+      "tu lavi",
+      "lui/lei lava",
+      "noi laviamo",
+      "voi lavate",
+      "loro lavano"
+    ],
+    "Passato prossimo": [
+      "io ho lavato",
+      "tu hai lavato",
+      "lui/lei ha lavato",
+      "noi abbiamo lavato",
+      "voi avete lavato",
+      "loro hanno lavato"
+    ],
+    "Imperfetto": [
+      "io lavavo",
+      "tu lavavi",
+      "lui/lei lavava",
+      "noi lavavamo",
+      "voi lavavate",
+      "loro lavavano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo lavato",
+      "tu avevi lavato",
+      "lui/lei aveva lavato",
+      "noi avevamo lavato",
+      "voi avevate lavato",
+      "loro avevano lavato"
+    ],
+    "Passato remoto": [
+      "io lavai",
+      "tu lavasti",
+      "lui/lei lavò",
+      "noi lavammo",
+      "voi lavaste",
+      "loro lavarono"
+    ],
+    "Trapassato remoto": [
+      "io ebbi lavato",
+      "tu avesti lavato",
+      "lui/lei ebbe lavato",
+      "noi avemmo lavato",
+      "voi aveste lavato",
+      "loro ebbero lavato"
+    ],
+    "Futuro semplice": [
+      "io laverò",
+      "tu laverai",
+      "lui/lei laverà",
+      "noi laveremo",
+      "voi laverete",
+      "loro laveranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò lavato",
+      "tu avrai lavato",
+      "lui/lei avrà lavato",
+      "noi avremo lavato",
+      "voi avrete lavato",
+      "loro avranno lavato"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io laverei",
+      "tu laveresti",
+      "lui/lei laverebbe",
+      "noi laveremmo",
+      "voi lavereste",
+      "loro laverebbero"
+    ],
+    "Passato": [
+      "io avrei lavato",
+      "tu avresti lavato",
+      "lui/lei avrebbe lavato",
+      "noi avremmo lavato",
+      "voi avreste lavato",
+      "loro avrebbero lavato"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io lavi",
+      "che tu lavi",
+      "che lui/lei lavi",
+      "che noi laviamo",
+      "che voi laviate",
+      "che loro lavino"
+    ],
+    "Passato": [
+      "che io abbia lavato",
+      "che tu abbia lavato",
+      "che lui/lei abbia lavato",
+      "che noi abbiamo lavato",
+      "che voi abbiate lavato",
+      "che loro abbiano lavato"
+    ],
+    "Imperfetto": [
+      "che io lavassi",
+      "che tu lavassi",
+      "che lui/lei lavasse",
+      "che noi lavassimo",
+      "che voi lavaste",
+      "che loro lavassero"
+    ],
+    "Trapassato": [
+      "che io avessi lavato",
+      "che tu avessi lavato",
+      "che lui/lei avesse lavato",
+      "che noi avessimo lavato",
+      "che voi aveste lavato",
+      "che loro avessero lavato"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "lava",
+      "lavi",
+      "laviamo",
+      "lavate",
+      "lavino"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "lavare"
+    ],
+    "Passato": [
+      "avere lavato"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "lavante"
+    ],
+    "Passato": [
+      "lavato"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "lavando"
+    ],
+    "Passato": [
+      "avendo lavato"
+    ]
+  }
+}

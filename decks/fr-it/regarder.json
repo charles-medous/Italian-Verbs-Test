@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "regarder",
+  "target_lemma": "guardare",
+  "meta": {
+    "regularity": {
+      "fr": "1er groupe régulier (approx.)",
+      "it": "prima coniugazione regolare"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io guardo",
+      "tu guardi",
+      "lui/lei guarda",
+      "noi guardiamo",
+      "voi guardate",
+      "loro guardano"
+    ],
+    "Passato prossimo": [
+      "io ho guardato",
+      "tu hai guardato",
+      "lui/lei ha guardato",
+      "noi abbiamo guardato",
+      "voi avete guardato",
+      "loro hanno guardato"
+    ],
+    "Imperfetto": [
+      "io guardavo",
+      "tu guardavi",
+      "lui/lei guardava",
+      "noi guardavamo",
+      "voi guardavate",
+      "loro guardavano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo guardato",
+      "tu avevi guardato",
+      "lui/lei aveva guardato",
+      "noi avevamo guardato",
+      "voi avevate guardato",
+      "loro avevano guardato"
+    ],
+    "Passato remoto": [
+      "io guardai",
+      "tu guardasti",
+      "lui/lei guardò",
+      "noi guardammo",
+      "voi guardaste",
+      "loro guardarono"
+    ],
+    "Trapassato remoto": [
+      "io ebbi guardato",
+      "tu avesti guardato",
+      "lui/lei ebbe guardato",
+      "noi avemmo guardato",
+      "voi aveste guardato",
+      "loro ebbero guardato"
+    ],
+    "Futuro semplice": [
+      "io guarderò",
+      "tu guarderai",
+      "lui/lei guarderà",
+      "noi guarderemo",
+      "voi guarderete",
+      "loro guarderanno"
+    ],
+    "Futuro anteriore": [
+      "io avrò guardato",
+      "tu avrai guardato",
+      "lui/lei avrà guardato",
+      "noi avremo guardato",
+      "voi avrete guardato",
+      "loro avranno guardato"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io guarderei",
+      "tu guarderesti",
+      "lui/lei guarderebbe",
+      "noi guarderemmo",
+      "voi guardereste",
+      "loro guarderebbero"
+    ],
+    "Passato": [
+      "io avrei guardato",
+      "tu avresti guardato",
+      "lui/lei avrebbe guardato",
+      "noi avremmo guardato",
+      "voi avreste guardato",
+      "loro avrebbero guardato"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io guardi",
+      "che tu guardi",
+      "che lui/lei guardi",
+      "che noi guardiamo",
+      "che voi guardiate",
+      "che loro guardino"
+    ],
+    "Passato": [
+      "che io abbia guardato",
+      "che tu abbia guardato",
+      "che lui/lei abbia guardato",
+      "che noi abbiamo guardato",
+      "che voi abbiate guardato",
+      "che loro abbiano guardato"
+    ],
+    "Imperfetto": [
+      "che io guardassi",
+      "che tu guardassi",
+      "che lui/lei guardasse",
+      "che noi guardassimo",
+      "che voi guardaste",
+      "che loro guardassero"
+    ],
+    "Trapassato": [
+      "che io avessi guardato",
+      "che tu avessi guardato",
+      "che lui/lei avesse guardato",
+      "che noi avessimo guardato",
+      "che voi aveste guardato",
+      "che loro avessero guardato"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "guarda",
+      "guardi",
+      "guardiamo",
+      "guardate",
+      "guardino"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "guardare"
+    ],
+    "Passato": [
+      "avere guardato"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "guardante"
+    ],
+    "Passato": [
+      "guardato"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "guardando"
+    ],
+    "Passato": [
+      "avendo guardato"
+    ]
+  }
+}

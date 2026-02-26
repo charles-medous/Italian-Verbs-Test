@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "finir",
+  "target_lemma": "finire",
+  "meta": {
+    "regularity": {
+      "fr": "irrégulier",
+      "it": "verbo irregolare"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io finisco",
+      "tu finisci",
+      "lui/lei finisce",
+      "noi finiamo",
+      "voi finite",
+      "loro finiscono"
+    ],
+    "Passato prossimo": [
+      "io ho finito",
+      "tu hai finito",
+      "lui/lei ha finito",
+      "noi abbiamo finito",
+      "voi avete finito",
+      "loro hanno finito"
+    ],
+    "Imperfetto": [
+      "io finvo",
+      "tu finvi",
+      "lui/lei finva",
+      "noi finvamo",
+      "voi finvate",
+      "loro finvano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo finito",
+      "tu avevi finito",
+      "lui/lei aveva finito",
+      "noi avevamo finito",
+      "voi avevate finito",
+      "loro avevano finito"
+    ],
+    "Passato remoto": [
+      "io finii",
+      "tu finisti",
+      "lui/lei finì",
+      "noi finimmo",
+      "voi finiste",
+      "loro finirono"
+    ],
+    "Trapassato remoto": [
+      "io ebbi finito",
+      "tu avesti finito",
+      "lui/lei ebbe finito",
+      "noi avemmo finito",
+      "voi aveste finito",
+      "loro ebbero finito"
+    ],
+    "Futuro semplice": [
+      "io finirò",
+      "tu finirai",
+      "lui/lei finirà",
+      "noi finiremo",
+      "voi finirete",
+      "loro finiranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò finito",
+      "tu avrai finito",
+      "lui/lei avrà finito",
+      "noi avremo finito",
+      "voi avrete finito",
+      "loro avranno finito"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io finirei",
+      "tu finiresti",
+      "lui/lei finirebbe",
+      "noi finiremmo",
+      "voi finireste",
+      "loro finirebbero"
+    ],
+    "Passato": [
+      "io avrei finito",
+      "tu avresti finito",
+      "lui/lei avrebbe finito",
+      "noi avremmo finito",
+      "voi avreste finito",
+      "loro avrebbero finito"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io finisca",
+      "che tu finisca",
+      "che lui/lei finisca",
+      "che noi finiamo",
+      "che voi finiate",
+      "che loro finiscano"
+    ],
+    "Passato": [
+      "che io abbia finito",
+      "che tu abbia finito",
+      "che lui/lei abbia finito",
+      "che noi abbiamo finito",
+      "che voi abbiate finito",
+      "che loro abbiano finito"
+    ],
+    "Imperfetto": [
+      "che io finissi",
+      "che tu finissi",
+      "che lui/lei finisse",
+      "che noi finissimo",
+      "che voi finisste",
+      "che loro finissero"
+    ],
+    "Trapassato": [
+      "che io avessi finito",
+      "che tu avessi finito",
+      "che lui/lei avesse finito",
+      "che noi avessimo finito",
+      "che voi aveste finito",
+      "che loro avessero finito"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "finisci",
+      "finisca",
+      "finiamo",
+      "finite",
+      "finiscano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "finire"
+    ],
+    "Passato": [
+      "avere finito"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "finente"
+    ],
+    "Passato": [
+      "finito"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "finendo"
+    ],
+    "Passato": [
+      "avendo finito"
+    ]
+  }
+}

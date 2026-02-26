@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "essayer",
+  "target_lemma": "provare",
+  "meta": {
+    "regularity": {
+      "fr": "1er groupe régulier (approx.)",
+      "it": "prima coniugazione regolare"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io provo",
+      "tu provi",
+      "lui/lei prova",
+      "noi proviamo",
+      "voi provate",
+      "loro provano"
+    ],
+    "Passato prossimo": [
+      "io ho provato",
+      "tu hai provato",
+      "lui/lei ha provato",
+      "noi abbiamo provato",
+      "voi avete provato",
+      "loro hanno provato"
+    ],
+    "Imperfetto": [
+      "io provavo",
+      "tu provavi",
+      "lui/lei provava",
+      "noi provavamo",
+      "voi provavate",
+      "loro provavano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo provato",
+      "tu avevi provato",
+      "lui/lei aveva provato",
+      "noi avevamo provato",
+      "voi avevate provato",
+      "loro avevano provato"
+    ],
+    "Passato remoto": [
+      "io provai",
+      "tu provasti",
+      "lui/lei provò",
+      "noi provammo",
+      "voi provaste",
+      "loro provarono"
+    ],
+    "Trapassato remoto": [
+      "io ebbi provato",
+      "tu avesti provato",
+      "lui/lei ebbe provato",
+      "noi avemmo provato",
+      "voi aveste provato",
+      "loro ebbero provato"
+    ],
+    "Futuro semplice": [
+      "io proverò",
+      "tu proverai",
+      "lui/lei proverà",
+      "noi proveremo",
+      "voi proverete",
+      "loro proveranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò provato",
+      "tu avrai provato",
+      "lui/lei avrà provato",
+      "noi avremo provato",
+      "voi avrete provato",
+      "loro avranno provato"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io proverei",
+      "tu proveresti",
+      "lui/lei proverebbe",
+      "noi proveremmo",
+      "voi provereste",
+      "loro proverebbero"
+    ],
+    "Passato": [
+      "io avrei provato",
+      "tu avresti provato",
+      "lui/lei avrebbe provato",
+      "noi avremmo provato",
+      "voi avreste provato",
+      "loro avrebbero provato"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io provi",
+      "che tu provi",
+      "che lui/lei provi",
+      "che noi proviamo",
+      "che voi proviate",
+      "che loro provino"
+    ],
+    "Passato": [
+      "che io abbia provato",
+      "che tu abbia provato",
+      "che lui/lei abbia provato",
+      "che noi abbiamo provato",
+      "che voi abbiate provato",
+      "che loro abbiano provato"
+    ],
+    "Imperfetto": [
+      "che io provassi",
+      "che tu provassi",
+      "che lui/lei provasse",
+      "che noi provassimo",
+      "che voi provaste",
+      "che loro provassero"
+    ],
+    "Trapassato": [
+      "che io avessi provato",
+      "che tu avessi provato",
+      "che lui/lei avesse provato",
+      "che noi avessimo provato",
+      "che voi aveste provato",
+      "che loro avessero provato"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "prova",
+      "provi",
+      "proviamo",
+      "provate",
+      "provino"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "provare"
+    ],
+    "Passato": [
+      "avere provato"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "provante"
+    ],
+    "Passato": [
+      "provato"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "provando"
+    ],
+    "Passato": [
+      "avendo provato"
+    ]
+  }
+}

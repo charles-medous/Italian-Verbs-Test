@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "rentrer",
+  "target_lemma": "tornare",
+  "meta": {
+    "regularity": {
+      "fr": "1er groupe régulier (approx.)",
+      "it": "prima coniugazione regolare"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "essere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io torno",
+      "tu torni",
+      "lui/lei torna",
+      "noi torniamo",
+      "voi tornate",
+      "loro tornano"
+    ],
+    "Passato prossimo": [
+      "io sono tornato",
+      "tu sei tornato",
+      "lui/lei è tornato",
+      "noi siamo tornati",
+      "voi siete tornati",
+      "loro sono tornato"
+    ],
+    "Imperfetto": [
+      "io tornavo",
+      "tu tornavi",
+      "lui/lei tornava",
+      "noi tornavamo",
+      "voi tornavate",
+      "loro tornavano"
+    ],
+    "Trapassato prossimo": [
+      "io ero tornato",
+      "tu eri tornato",
+      "lui/lei era tornato",
+      "noi eravamo tornati",
+      "voi eravate tornati",
+      "loro erano tornato"
+    ],
+    "Passato remoto": [
+      "io tornai",
+      "tu tornasti",
+      "lui/lei tornò",
+      "noi tornammo",
+      "voi tornaste",
+      "loro tornarono"
+    ],
+    "Trapassato remoto": [
+      "io fui tornato",
+      "tu fosti tornato",
+      "lui/lei fu tornato",
+      "noi fummo tornati",
+      "voi foste tornati",
+      "loro furono tornati"
+    ],
+    "Futuro semplice": [
+      "io tornerò",
+      "tu tornerai",
+      "lui/lei tornerà",
+      "noi torneremo",
+      "voi tornerete",
+      "loro torneranno"
+    ],
+    "Futuro anteriore": [
+      "io sarò tornato",
+      "tu sarai tornato",
+      "lui/lei sarà tornato",
+      "noi saremo tornati",
+      "voi sarete tornati",
+      "loro saranno tornato"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io tornerei",
+      "tu torneresti",
+      "lui/lei tornerebbe",
+      "noi torneremmo",
+      "voi tornereste",
+      "loro tornerebbero"
+    ],
+    "Passato": [
+      "io sarei tornato",
+      "tu saresti tornato",
+      "lui/lei sarebbe tornato",
+      "noi saremmo tornato",
+      "voi sareste tornato",
+      "loro sarebbero tornato"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io torni",
+      "che tu torni",
+      "che lui/lei torni",
+      "che noi torniamo",
+      "che voi torniate",
+      "che loro tornino"
+    ],
+    "Passato": [
+      "che io sia tornato",
+      "che tu sia tornato",
+      "che lui/lei sia tornato",
+      "che noi siamo tornato",
+      "che voi siate tornato",
+      "che loro siano tornato"
+    ],
+    "Imperfetto": [
+      "che io tornassi",
+      "che tu tornassi",
+      "che lui/lei tornasse",
+      "che noi tornassimo",
+      "che voi tornaste",
+      "che loro tornassero"
+    ],
+    "Trapassato": [
+      "che io fossi tornato",
+      "che tu fossi tornato",
+      "che lui/lei fosse tornato",
+      "che noi fossimo tornato",
+      "che voi foste tornato",
+      "che loro fossero tornato"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "torna",
+      "torni",
+      "torniamo",
+      "tornate",
+      "tornino"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "tornare"
+    ],
+    "Passato": [
+      "essere tornato"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "tornante"
+    ],
+    "Passato": [
+      "tornato"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "tornando"
+    ],
+    "Passato": [
+      "essendo tornato"
+    ]
+  }
+}

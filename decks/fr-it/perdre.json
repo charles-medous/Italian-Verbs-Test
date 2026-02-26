@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "perdre",
+  "target_lemma": "perdere",
+  "meta": {
+    "regularity": {
+      "fr": "2e groupe (-ere) avec irrégularités",
+      "it": "seconda coniugazione (-ere)"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io perdo",
+      "tu perdi",
+      "lui/lei perde",
+      "noi perdiamo",
+      "voi perdete",
+      "loro perdono"
+    ],
+    "Passato prossimo": [
+      "io ho perso",
+      "tu hai perso",
+      "lui/lei ha perso",
+      "noi abbiamo perso",
+      "voi avete perso",
+      "loro hanno perso"
+    ],
+    "Imperfetto": [
+      "io perdevo",
+      "tu perdevi",
+      "lui/lei perdeva",
+      "noi perdevamo",
+      "voi perdevate",
+      "loro perdevano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo perso",
+      "tu avevi perso",
+      "lui/lei aveva perso",
+      "noi avevamo perso",
+      "voi avevate perso",
+      "loro avevano perso"
+    ],
+    "Passato remoto": [
+      "io persi",
+      "tu perdesti",
+      "lui/lei perse",
+      "noi perdemmo",
+      "voi perdeste",
+      "loro persero"
+    ],
+    "Trapassato remoto": [
+      "io ebbi perso",
+      "tu avesti perso",
+      "lui/lei ebbe perso",
+      "noi avemmo perso",
+      "voi aveste perso",
+      "loro ebbero perso"
+    ],
+    "Futuro semplice": [
+      "io perderò",
+      "tu perderai",
+      "lui/lei perderà",
+      "noi perderemo",
+      "voi perderete",
+      "loro perderanno"
+    ],
+    "Futuro anteriore": [
+      "io avrò perso",
+      "tu avrai perso",
+      "lui/lei avrà perso",
+      "noi avremo perso",
+      "voi avrete perso",
+      "loro avranno perso"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io perderei",
+      "tu perderesti",
+      "lui/lei perderebbe",
+      "noi perderemmo",
+      "voi perdereste",
+      "loro perderebbero"
+    ],
+    "Passato": [
+      "io avrei perso",
+      "tu avresti perso",
+      "lui/lei avrebbe perso",
+      "noi avremmo perso",
+      "voi avreste perso",
+      "loro avrebbero perso"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io perda",
+      "che tu perda",
+      "che lui/lei perda",
+      "che noi perdiamo",
+      "che voi perdiate",
+      "che loro perdano"
+    ],
+    "Passato": [
+      "che io abbia perso",
+      "che tu abbia perso",
+      "che lui/lei abbia perso",
+      "che noi abbiamo perso",
+      "che voi abbiate perso",
+      "che loro abbiano perso"
+    ],
+    "Imperfetto": [
+      "che io perdessi",
+      "che tu perdessi",
+      "che lui/lei perdesse",
+      "che noi perdessimo",
+      "che voi perdeste",
+      "che loro perdessero"
+    ],
+    "Trapassato": [
+      "che io avessi perso",
+      "che tu avessi perso",
+      "che lui/lei avesse perso",
+      "che noi avessimo perso",
+      "che voi aveste perso",
+      "che loro avessero perso"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "perdi",
+      "perda",
+      "perdiamo",
+      "perdete",
+      "perdano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "perdere"
+    ],
+    "Passato": [
+      "avere perso"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "perdente"
+    ],
+    "Passato": [
+      "perso"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "perdendo"
+    ],
+    "Passato": [
+      "avendo perso"
+    ]
+  }
+}

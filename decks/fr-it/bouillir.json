@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "bouillir",
+  "target_lemma": "bollire",
+  "meta": {
+    "regularity": {
+      "fr": "3e groupe (-ire)",
+      "it": "terza coniugazione (-ire)"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io bollo",
+      "tu bolli",
+      "lui/lei bolle",
+      "noi bolliamo",
+      "voi bollite",
+      "loro bollono"
+    ],
+    "Passato prossimo": [
+      "io ho bollito",
+      "tu hai bollito",
+      "lui/lei ha bollito",
+      "noi abbiamo bollito",
+      "voi avete bollito",
+      "loro hanno bollito"
+    ],
+    "Imperfetto": [
+      "io bollivo",
+      "tu bollivi",
+      "lui/lei bolliva",
+      "noi bollivamo",
+      "voi bollivate",
+      "loro bollivano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo bollito",
+      "tu avevi bollito",
+      "lui/lei aveva bollito",
+      "noi avevamo bollito",
+      "voi avevate bollito",
+      "loro avevano bollito"
+    ],
+    "Passato remoto": [
+      "io bollii",
+      "tu bollisti",
+      "lui/lei bollì",
+      "noi bollimmo",
+      "voi bolliste",
+      "loro bollirono"
+    ],
+    "Trapassato remoto": [
+      "io ebbi bollito",
+      "tu avesti bollito",
+      "lui/lei ebbe bollito",
+      "noi avemmo bollito",
+      "voi aveste bollito",
+      "loro ebbero bollito"
+    ],
+    "Futuro semplice": [
+      "io bollirò",
+      "tu bollirai",
+      "lui/lei bollirà",
+      "noi bolliremo",
+      "voi bollirete",
+      "loro bolliranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò bollito",
+      "tu avrai bollito",
+      "lui/lei avrà bollito",
+      "noi avremo bollito",
+      "voi avrete bollito",
+      "loro avranno bollito"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io bollirei",
+      "tu bolliresti",
+      "lui/lei bollirebbe",
+      "noi bolliremmo",
+      "voi bollireste",
+      "loro bollirebbero"
+    ],
+    "Passato": [
+      "io avrei bollito",
+      "tu avresti bollito",
+      "lui/lei avrebbe bollito",
+      "noi avremmo bollito",
+      "voi avreste bollito",
+      "loro avrebbero bollito"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io bolla",
+      "che tu bolla",
+      "che lui/lei bolla",
+      "che noi bolliamo",
+      "che voi bolliate",
+      "che loro bollano"
+    ],
+    "Passato": [
+      "che io abbia bollito",
+      "che tu abbia bollito",
+      "che lui/lei abbia bollito",
+      "che noi abbiamo bollito",
+      "che voi abbiate bollito",
+      "che loro abbiano bollito"
+    ],
+    "Imperfetto": [
+      "che io bollissi",
+      "che tu bollissi",
+      "che lui/lei bollisse",
+      "che noi bollissimo",
+      "che voi bolliste",
+      "che loro bollissero"
+    ],
+    "Trapassato": [
+      "che io avessi bollito",
+      "che tu avessi bollito",
+      "che lui/lei avesse bollito",
+      "che noi avessimo bollito",
+      "che voi aveste bollito",
+      "che loro avessero bollito"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "bolli",
+      "bolla",
+      "bolliamo",
+      "bollite",
+      "bollano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "bollire"
+    ],
+    "Passato": [
+      "avere bollito"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "bollente"
+    ],
+    "Passato": [
+      "bollito"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "bollendo"
+    ],
+    "Passato": [
+      "avendo bollito"
+    ]
+  }
+}

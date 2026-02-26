@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "mettre",
+  "target_lemma": "mettere",
+  "meta": {
+    "regularity": {
+      "fr": "2e groupe (-ere) avec irrégularités",
+      "it": "seconda coniugazione (-ere)"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io metto",
+      "tu metti",
+      "lui/lei mette",
+      "noi mettiamo",
+      "voi mettete",
+      "loro mettono"
+    ],
+    "Passato prossimo": [
+      "io ho messo",
+      "tu hai messo",
+      "lui/lei ha messo",
+      "noi abbiamo messo",
+      "voi avete messo",
+      "loro hanno messo"
+    ],
+    "Imperfetto": [
+      "io mettevo",
+      "tu mettevi",
+      "lui/lei metteva",
+      "noi mettevamo",
+      "voi mettevate",
+      "loro mettevano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo messo",
+      "tu avevi messo",
+      "lui/lei aveva messo",
+      "noi avevamo messo",
+      "voi avevate messo",
+      "loro avevano messo"
+    ],
+    "Passato remoto": [
+      "io misi",
+      "tu mettesti",
+      "lui/lei mise",
+      "noi mettemmo",
+      "voi metteste",
+      "loro misero"
+    ],
+    "Trapassato remoto": [
+      "io ebbi messo",
+      "tu avesti messo",
+      "lui/lei ebbe messo",
+      "noi avemmo messo",
+      "voi aveste messo",
+      "loro ebbero messo"
+    ],
+    "Futuro semplice": [
+      "io metterò",
+      "tu metterai",
+      "lui/lei metterà",
+      "noi metteremo",
+      "voi metterete",
+      "loro metteranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò messo",
+      "tu avrai messo",
+      "lui/lei avrà messo",
+      "noi avremo messo",
+      "voi avrete messo",
+      "loro avranno messo"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io metterei",
+      "tu metteresti",
+      "lui/lei metterebbe",
+      "noi metteremmo",
+      "voi mettereste",
+      "loro metterebbero"
+    ],
+    "Passato": [
+      "io avrei messo",
+      "tu avresti messo",
+      "lui/lei avrebbe messo",
+      "noi avremmo messo",
+      "voi avreste messo",
+      "loro avrebbero messo"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io metta",
+      "che tu metta",
+      "che lui/lei metta",
+      "che noi mettiamo",
+      "che voi mettiate",
+      "che loro mettano"
+    ],
+    "Passato": [
+      "che io abbia messo",
+      "che tu abbia messo",
+      "che lui/lei abbia messo",
+      "che noi abbiamo messo",
+      "che voi abbiate messo",
+      "che loro abbiano messo"
+    ],
+    "Imperfetto": [
+      "che io mettessi",
+      "che tu mettessi",
+      "che lui/lei mettesse",
+      "che noi mettessimo",
+      "che voi metteste",
+      "che loro mettessero"
+    ],
+    "Trapassato": [
+      "che io avessi messo",
+      "che tu avessi messo",
+      "che lui/lei avesse messo",
+      "che noi avessimo messo",
+      "che voi aveste messo",
+      "che loro avessero messo"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "metti",
+      "metta",
+      "mettiamo",
+      "mettete",
+      "mettano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "mettere"
+    ],
+    "Passato": [
+      "avere messo"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "mettente"
+    ],
+    "Passato": [
+      "messo"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "mettendo"
+    ],
+    "Passato": [
+      "avendo messo"
+    ]
+  }
+}

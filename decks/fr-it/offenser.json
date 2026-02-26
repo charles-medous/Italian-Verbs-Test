@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "offenser",
+  "target_lemma": "offendere",
+  "meta": {
+    "regularity": {
+      "fr": "2e groupe (-ere) avec irrégularités",
+      "it": "seconda coniugazione (-ere)"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io offendo",
+      "tu offendi",
+      "lui/lei offende",
+      "noi offendiamo",
+      "voi offendete",
+      "loro offendono"
+    ],
+    "Passato prossimo": [
+      "io ho offeso",
+      "tu hai offeso",
+      "lui/lei ha offeso",
+      "noi abbiamo offeso",
+      "voi avete offeso",
+      "loro hanno offeso"
+    ],
+    "Imperfetto": [
+      "io offendevo",
+      "tu offendevi",
+      "lui/lei offendeva",
+      "noi offendevamo",
+      "voi offendevate",
+      "loro offendevano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo offeso",
+      "tu avevi offeso",
+      "lui/lei aveva offeso",
+      "noi avevamo offeso",
+      "voi avevate offeso",
+      "loro avevano offeso"
+    ],
+    "Passato remoto": [
+      "io offesi",
+      "tu offendesti",
+      "lui/lei offese",
+      "noi offendemmo",
+      "voi offendeste",
+      "loro offesero"
+    ],
+    "Trapassato remoto": [
+      "io ebbi offeso",
+      "tu avesti offeso",
+      "lui/lei ebbe offeso",
+      "noi avemmo offeso",
+      "voi aveste offeso",
+      "loro ebbero offeso"
+    ],
+    "Futuro semplice": [
+      "io offenderò",
+      "tu offenderai",
+      "lui/lei offenderà",
+      "noi offenderemo",
+      "voi offenderete",
+      "loro offenderanno"
+    ],
+    "Futuro anteriore": [
+      "io avrò offeso",
+      "tu avrai offeso",
+      "lui/lei avrà offeso",
+      "noi avremo offeso",
+      "voi avrete offeso",
+      "loro avranno offeso"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io offenderei",
+      "tu offenderesti",
+      "lui/lei offenderebbe",
+      "noi offenderemmo",
+      "voi offendereste",
+      "loro offenderebbero"
+    ],
+    "Passato": [
+      "io avrei offeso",
+      "tu avresti offeso",
+      "lui/lei avrebbe offeso",
+      "noi avremmo offeso",
+      "voi avreste offeso",
+      "loro avrebbero offeso"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io offenda",
+      "che tu offenda",
+      "che lui/lei offenda",
+      "che noi offendiamo",
+      "che voi offendiate",
+      "che loro offendano"
+    ],
+    "Passato": [
+      "che io abbia offeso",
+      "che tu abbia offeso",
+      "che lui/lei abbia offeso",
+      "che noi abbiamo offeso",
+      "che voi abbiate offeso",
+      "che loro abbiano offeso"
+    ],
+    "Imperfetto": [
+      "che io offendessi",
+      "che tu offendessi",
+      "che lui/lei offendesse",
+      "che noi offendessimo",
+      "che voi offendeste",
+      "che loro offendessero"
+    ],
+    "Trapassato": [
+      "che io avessi offeso",
+      "che tu avessi offeso",
+      "che lui/lei avesse offeso",
+      "che noi avessimo offeso",
+      "che voi aveste offeso",
+      "che loro avessero offeso"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "offendi",
+      "offenda",
+      "offendiamo",
+      "offendete",
+      "offendano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "offendere"
+    ],
+    "Passato": [
+      "avere offeso"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "offendente"
+    ],
+    "Passato": [
+      "offeso"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "offendendo"
+    ],
+    "Passato": [
+      "avendo offeso"
+    ]
+  }
+}

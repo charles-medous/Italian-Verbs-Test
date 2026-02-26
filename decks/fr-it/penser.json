@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "penser",
+  "target_lemma": "pensare",
+  "meta": {
+    "regularity": {
+      "fr": "1er groupe régulier (approx.)",
+      "it": "prima coniugazione regolare"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io penso",
+      "tu pensi",
+      "lui/lei pensa",
+      "noi pensiamo",
+      "voi pensate",
+      "loro pensano"
+    ],
+    "Passato prossimo": [
+      "io ho pensato",
+      "tu hai pensato",
+      "lui/lei ha pensato",
+      "noi abbiamo pensato",
+      "voi avete pensato",
+      "loro hanno pensato"
+    ],
+    "Imperfetto": [
+      "io pensavo",
+      "tu pensavi",
+      "lui/lei pensava",
+      "noi pensavamo",
+      "voi pensavate",
+      "loro pensavano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo pensato",
+      "tu avevi pensato",
+      "lui/lei aveva pensato",
+      "noi avevamo pensato",
+      "voi avevate pensato",
+      "loro avevano pensato"
+    ],
+    "Passato remoto": [
+      "io pensai",
+      "tu pensasti",
+      "lui/lei pensò",
+      "noi pensammo",
+      "voi pensaste",
+      "loro pensarono"
+    ],
+    "Trapassato remoto": [
+      "io ebbi pensato",
+      "tu avesti pensato",
+      "lui/lei ebbe pensato",
+      "noi avemmo pensato",
+      "voi aveste pensato",
+      "loro ebbero pensato"
+    ],
+    "Futuro semplice": [
+      "io penserò",
+      "tu penserai",
+      "lui/lei penserà",
+      "noi penseremo",
+      "voi penserete",
+      "loro penseranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò pensato",
+      "tu avrai pensato",
+      "lui/lei avrà pensato",
+      "noi avremo pensato",
+      "voi avrete pensato",
+      "loro avranno pensato"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io penserei",
+      "tu penseresti",
+      "lui/lei penserebbe",
+      "noi penseremmo",
+      "voi pensereste",
+      "loro penserebbero"
+    ],
+    "Passato": [
+      "io avrei pensato",
+      "tu avresti pensato",
+      "lui/lei avrebbe pensato",
+      "noi avremmo pensato",
+      "voi avreste pensato",
+      "loro avrebbero pensato"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io pensi",
+      "che tu pensi",
+      "che lui/lei pensi",
+      "che noi pensiamo",
+      "che voi pensiate",
+      "che loro pensino"
+    ],
+    "Passato": [
+      "che io abbia pensato",
+      "che tu abbia pensato",
+      "che lui/lei abbia pensato",
+      "che noi abbiamo pensato",
+      "che voi abbiate pensato",
+      "che loro abbiano pensato"
+    ],
+    "Imperfetto": [
+      "che io pensassi",
+      "che tu pensassi",
+      "che lui/lei pensasse",
+      "che noi pensassimo",
+      "che voi pensaste",
+      "che loro pensassero"
+    ],
+    "Trapassato": [
+      "che io avessi pensato",
+      "che tu avessi pensato",
+      "che lui/lei avesse pensato",
+      "che noi avessimo pensato",
+      "che voi aveste pensato",
+      "che loro avessero pensato"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "pensa",
+      "pensi",
+      "pensiamo",
+      "pensate",
+      "pensino"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "pensare"
+    ],
+    "Passato": [
+      "avere pensato"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "pensante"
+    ],
+    "Passato": [
+      "pensato"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "pensando"
+    ],
+    "Passato": [
+      "avendo pensato"
+    ]
+  }
+}

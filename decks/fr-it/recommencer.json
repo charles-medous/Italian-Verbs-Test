@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "recommencer",
+  "target_lemma": "ricominciare",
+  "meta": {
+    "regularity": {
+      "fr": "1er groupe régulier (approx.)",
+      "it": "prima coniugazione regolare (ciare/giare)"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io ricomincio",
+      "tu ricomincii",
+      "lui/lei ricomincia",
+      "noi ricominciiamo",
+      "voi ricominciate",
+      "loro ricominciano"
+    ],
+    "Passato prossimo": [
+      "io ho ricominciato",
+      "tu hai ricominciato",
+      "lui/lei ha ricominciato",
+      "noi abbiamo ricominciato",
+      "voi avete ricominciato",
+      "loro hanno ricominciato"
+    ],
+    "Imperfetto": [
+      "io ricominciavo",
+      "tu ricominciavi",
+      "lui/lei ricominciava",
+      "noi ricominciavamo",
+      "voi ricominciavate",
+      "loro ricominciavano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo ricominciato",
+      "tu avevi ricominciato",
+      "lui/lei aveva ricominciato",
+      "noi avevamo ricominciato",
+      "voi avevate ricominciato",
+      "loro avevano ricominciato"
+    ],
+    "Passato remoto": [
+      "io ricominciai",
+      "tu ricominciasti",
+      "lui/lei ricominciò",
+      "noi ricominciammo",
+      "voi ricominciaste",
+      "loro ricominciarono"
+    ],
+    "Trapassato remoto": [
+      "io ebbi ricominciato",
+      "tu avesti ricominciato",
+      "lui/lei ebbe ricominciato",
+      "noi avemmo ricominciato",
+      "voi aveste ricominciato",
+      "loro ebbero ricominciato"
+    ],
+    "Futuro semplice": [
+      "io ricomincerò",
+      "tu ricomincerai",
+      "lui/lei ricomincerà",
+      "noi ricominceremo",
+      "voi ricomincerete",
+      "loro ricominceranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò ricominciato",
+      "tu avrai ricominciato",
+      "lui/lei avrà ricominciato",
+      "noi avremo ricominciato",
+      "voi avrete ricominciato",
+      "loro avranno ricominciato"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io ricomincerei",
+      "tu ricominceresti",
+      "lui/lei ricomincerebbe",
+      "noi ricominceremmo",
+      "voi ricomincereste",
+      "loro ricomincerebbero"
+    ],
+    "Passato": [
+      "io avrei ricominciato",
+      "tu avresti ricominciato",
+      "lui/lei avrebbe ricominciato",
+      "noi avremmo ricominciato",
+      "voi avreste ricominciato",
+      "loro avrebbero ricominciato"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io ricomincii",
+      "che tu ricomincii",
+      "che lui/lei ricomincii",
+      "che noi ricominciiamo",
+      "che voi ricominciiate",
+      "che loro ricominciino"
+    ],
+    "Passato": [
+      "che io abbia ricominciato",
+      "che tu abbia ricominciato",
+      "che lui/lei abbia ricominciato",
+      "che noi abbiamo ricominciato",
+      "che voi abbiate ricominciato",
+      "che loro abbiano ricominciato"
+    ],
+    "Imperfetto": [
+      "che io ricominciassi",
+      "che tu ricominciassi",
+      "che lui/lei ricominciasse",
+      "che noi ricominciassimo",
+      "che voi ricominciaste",
+      "che loro ricominciassero"
+    ],
+    "Trapassato": [
+      "che io avessi ricominciato",
+      "che tu avessi ricominciato",
+      "che lui/lei avesse ricominciato",
+      "che noi avessimo ricominciato",
+      "che voi aveste ricominciato",
+      "che loro avessero ricominciato"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "ricomincia",
+      "ricomincii",
+      "ricominciiamo",
+      "ricominciate",
+      "ricominciino"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "ricominciare"
+    ],
+    "Passato": [
+      "avere ricominciato"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "ricominciante"
+    ],
+    "Passato": [
+      "ricominciato"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "ricominciando"
+    ],
+    "Passato": [
+      "avendo ricominciato"
+    ]
+  }
+}

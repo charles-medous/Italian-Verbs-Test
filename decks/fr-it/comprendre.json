@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "comprendre",
+  "target_lemma": "capire",
+  "meta": {
+    "regularity": {
+      "fr": "3e groupe (-ire)",
+      "it": "terza coniugazione (-ire) con -isc-"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io capisco",
+      "tu capisci",
+      "lui/lei capisce",
+      "noi capiamo",
+      "voi capite",
+      "loro capiscono"
+    ],
+    "Passato prossimo": [
+      "io ho capito",
+      "tu hai capito",
+      "lui/lei ha capito",
+      "noi abbiamo capito",
+      "voi avete capito",
+      "loro hanno capito"
+    ],
+    "Imperfetto": [
+      "io capivo",
+      "tu capivi",
+      "lui/lei capiva",
+      "noi capivamo",
+      "voi capivate",
+      "loro capivano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo capito",
+      "tu avevi capito",
+      "lui/lei aveva capito",
+      "noi avevamo capito",
+      "voi avevate capito",
+      "loro avevano capito"
+    ],
+    "Passato remoto": [
+      "io capii",
+      "tu capisti",
+      "lui/lei capì",
+      "noi capimmo",
+      "voi capiste",
+      "loro capirono"
+    ],
+    "Trapassato remoto": [
+      "io ebbi capito",
+      "tu avesti capito",
+      "lui/lei ebbe capito",
+      "noi avemmo capito",
+      "voi aveste capito",
+      "loro ebbero capito"
+    ],
+    "Futuro semplice": [
+      "io capirò",
+      "tu capirai",
+      "lui/lei capirà",
+      "noi capiremo",
+      "voi capirete",
+      "loro capiranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò capito",
+      "tu avrai capito",
+      "lui/lei avrà capito",
+      "noi avremo capito",
+      "voi avrete capito",
+      "loro avranno capito"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io capirei",
+      "tu capiresti",
+      "lui/lei capirebbe",
+      "noi capiremmo",
+      "voi capireste",
+      "loro capirebbero"
+    ],
+    "Passato": [
+      "io avrei capito",
+      "tu avresti capito",
+      "lui/lei avrebbe capito",
+      "noi avremmo capito",
+      "voi avreste capito",
+      "loro avrebbero capito"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io capisca",
+      "che tu capisca",
+      "che lui/lei capisca",
+      "che noi capiamo",
+      "che voi capiate",
+      "che loro capiscano"
+    ],
+    "Passato": [
+      "che io abbia capito",
+      "che tu abbia capito",
+      "che lui/lei abbia capito",
+      "che noi abbiamo capito",
+      "che voi abbiate capito",
+      "che loro abbiano capito"
+    ],
+    "Imperfetto": [
+      "che io capissi",
+      "che tu capissi",
+      "che lui/lei capisse",
+      "che noi capissimo",
+      "che voi capiste",
+      "che loro capissero"
+    ],
+    "Trapassato": [
+      "che io avessi capito",
+      "che tu avessi capito",
+      "che lui/lei avesse capito",
+      "che noi avessimo capito",
+      "che voi aveste capito",
+      "che loro avessero capito"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "capisci",
+      "capisca",
+      "capiamo",
+      "capite",
+      "capiscano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "capire"
+    ],
+    "Passato": [
+      "avere capito"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "capente"
+    ],
+    "Passato": [
+      "capito"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "capendo"
+    ],
+    "Passato": [
+      "avendo capito"
+    ]
+  }
+}

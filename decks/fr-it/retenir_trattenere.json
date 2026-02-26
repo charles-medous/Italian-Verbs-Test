@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "retenir (trattenere)",
+  "target_lemma": "trattenere",
+  "meta": {
+    "regularity": {
+      "fr": "irrégulier",
+      "it": "verbo irregolare"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io trattengo",
+      "tu trattieni",
+      "lui/lei trattiene",
+      "noi tratteniamo",
+      "voi trattenete",
+      "loro trattengono"
+    ],
+    "Passato prossimo": [
+      "io ho trattenuto",
+      "tu hai trattenuto",
+      "lui/lei ha trattenuto",
+      "noi abbiamo trattenuto",
+      "voi avete trattenuto",
+      "loro hanno trattenuto"
+    ],
+    "Imperfetto": [
+      "io trattenvo",
+      "tu trattenvi",
+      "lui/lei trattenva",
+      "noi trattenvamo",
+      "voi trattenvate",
+      "loro trattenvano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo trattenuto",
+      "tu avevi trattenuto",
+      "lui/lei aveva trattenuto",
+      "noi avevamo trattenuto",
+      "voi avevate trattenuto",
+      "loro avevano trattenuto"
+    ],
+    "Passato remoto": [
+      "io trattenni",
+      "tu trattenesti",
+      "lui/lei trattenne",
+      "noi trattenemmo",
+      "voi tratteneste",
+      "loro trattennero"
+    ],
+    "Trapassato remoto": [
+      "io ebbi trattenuto",
+      "tu avesti trattenuto",
+      "lui/lei ebbe trattenuto",
+      "noi avemmo trattenuto",
+      "voi aveste trattenuto",
+      "loro ebbero trattenuto"
+    ],
+    "Futuro semplice": [
+      "io tratterrò",
+      "tu tratterrai",
+      "lui/lei tratterrà",
+      "noi tratterremo",
+      "voi tratterrete",
+      "loro tratterranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò trattenuto",
+      "tu avrai trattenuto",
+      "lui/lei avrà trattenuto",
+      "noi avremo trattenuto",
+      "voi avrete trattenuto",
+      "loro avranno trattenuto"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io tratterrei",
+      "tu tratterresti",
+      "lui/lei tratterrebbe",
+      "noi tratterremmo",
+      "voi tratterreste",
+      "loro tratterrebbero"
+    ],
+    "Passato": [
+      "io avrei trattenuto",
+      "tu avresti trattenuto",
+      "lui/lei avrebbe trattenuto",
+      "noi avremmo trattenuto",
+      "voi avreste trattenuto",
+      "loro avrebbero trattenuto"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io trattenga",
+      "che tu trattenga",
+      "che lui/lei trattenga",
+      "che noi tratteniamo",
+      "che voi tratteniate",
+      "che loro trattengano"
+    ],
+    "Passato": [
+      "che io abbia trattenuto",
+      "che tu abbia trattenuto",
+      "che lui/lei abbia trattenuto",
+      "che noi abbiamo trattenuto",
+      "che voi abbiate trattenuto",
+      "che loro abbiano trattenuto"
+    ],
+    "Imperfetto": [
+      "che io trattenessi",
+      "che tu trattenessi",
+      "che lui/lei trattenesse",
+      "che noi trattenessimo",
+      "che voi trattenesste",
+      "che loro trattenessero"
+    ],
+    "Trapassato": [
+      "che io avessi trattenuto",
+      "che tu avessi trattenuto",
+      "che lui/lei avesse trattenuto",
+      "che noi avessimo trattenuto",
+      "che voi aveste trattenuto",
+      "che loro avessero trattenuto"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "trattieni",
+      "trattenga",
+      "tratteniamo",
+      "trattenete",
+      "trattengano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "trattenere"
+    ],
+    "Passato": [
+      "avere trattenuto"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "trattenente"
+    ],
+    "Passato": [
+      "trattenuto"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "trattenendo"
+    ],
+    "Passato": [
+      "avendo trattenuto"
+    ]
+  }
+}

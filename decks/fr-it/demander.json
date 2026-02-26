@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "demander",
+  "target_lemma": "chiedere",
+  "meta": {
+    "regularity": {
+      "fr": "2e groupe (-ere) avec irrégularités",
+      "it": "seconda coniugazione (-ere)"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io chiedo",
+      "tu chiedi",
+      "lui/lei chiede",
+      "noi chiediamo",
+      "voi chiedete",
+      "loro chiedono"
+    ],
+    "Passato prossimo": [
+      "io ho chiesto",
+      "tu hai chiesto",
+      "lui/lei ha chiesto",
+      "noi abbiamo chiesto",
+      "voi avete chiesto",
+      "loro hanno chiesto"
+    ],
+    "Imperfetto": [
+      "io chiedevo",
+      "tu chiedevi",
+      "lui/lei chiedeva",
+      "noi chiedevamo",
+      "voi chiedevate",
+      "loro chiedevano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo chiesto",
+      "tu avevi chiesto",
+      "lui/lei aveva chiesto",
+      "noi avevamo chiesto",
+      "voi avevate chiesto",
+      "loro avevano chiesto"
+    ],
+    "Passato remoto": [
+      "io chiesi",
+      "tu chiedesti",
+      "lui/lei chiese",
+      "noi chiedemmo",
+      "voi chiedeste",
+      "loro chiesero"
+    ],
+    "Trapassato remoto": [
+      "io ebbi chiesto",
+      "tu avesti chiesto",
+      "lui/lei ebbe chiesto",
+      "noi avemmo chiesto",
+      "voi aveste chiesto",
+      "loro ebbero chiesto"
+    ],
+    "Futuro semplice": [
+      "io chiederò",
+      "tu chiederai",
+      "lui/lei chiederà",
+      "noi chiederemo",
+      "voi chiederete",
+      "loro chiederanno"
+    ],
+    "Futuro anteriore": [
+      "io avrò chiesto",
+      "tu avrai chiesto",
+      "lui/lei avrà chiesto",
+      "noi avremo chiesto",
+      "voi avrete chiesto",
+      "loro avranno chiesto"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io chiederei",
+      "tu chiederesti",
+      "lui/lei chiederebbe",
+      "noi chiederemmo",
+      "voi chiedereste",
+      "loro chiederebbero"
+    ],
+    "Passato": [
+      "io avrei chiesto",
+      "tu avresti chiesto",
+      "lui/lei avrebbe chiesto",
+      "noi avremmo chiesto",
+      "voi avreste chiesto",
+      "loro avrebbero chiesto"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io chieda",
+      "che tu chieda",
+      "che lui/lei chieda",
+      "che noi chiediamo",
+      "che voi chiediate",
+      "che loro chiedano"
+    ],
+    "Passato": [
+      "che io abbia chiesto",
+      "che tu abbia chiesto",
+      "che lui/lei abbia chiesto",
+      "che noi abbiamo chiesto",
+      "che voi abbiate chiesto",
+      "che loro abbiano chiesto"
+    ],
+    "Imperfetto": [
+      "che io chiedessi",
+      "che tu chiedessi",
+      "che lui/lei chiedesse",
+      "che noi chiedessimo",
+      "che voi chiedeste",
+      "che loro chiedessero"
+    ],
+    "Trapassato": [
+      "che io avessi chiesto",
+      "che tu avessi chiesto",
+      "che lui/lei avesse chiesto",
+      "che noi avessimo chiesto",
+      "che voi aveste chiesto",
+      "che loro avessero chiesto"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "chiedi",
+      "chieda",
+      "chiediamo",
+      "chiedete",
+      "chiedano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "chiedere"
+    ],
+    "Passato": [
+      "avere chiesto"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "chiedente"
+    ],
+    "Passato": [
+      "chiesto"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "chiedendo"
+    ],
+    "Passato": [
+      "avendo chiesto"
+    ]
+  }
+}

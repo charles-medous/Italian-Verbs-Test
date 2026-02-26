@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "fermer",
+  "target_lemma": "chiudere",
+  "meta": {
+    "regularity": {
+      "fr": "2e groupe (-ere) avec irrégularités",
+      "it": "seconda coniugazione (-ere)"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io chiudo",
+      "tu chiudi",
+      "lui/lei chiude",
+      "noi chiudiamo",
+      "voi chiudete",
+      "loro chiudono"
+    ],
+    "Passato prossimo": [
+      "io ho chiuso",
+      "tu hai chiuso",
+      "lui/lei ha chiuso",
+      "noi abbiamo chiuso",
+      "voi avete chiuso",
+      "loro hanno chiuso"
+    ],
+    "Imperfetto": [
+      "io chiudevo",
+      "tu chiudevi",
+      "lui/lei chiudeva",
+      "noi chiudevamo",
+      "voi chiudevate",
+      "loro chiudevano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo chiuso",
+      "tu avevi chiuso",
+      "lui/lei aveva chiuso",
+      "noi avevamo chiuso",
+      "voi avevate chiuso",
+      "loro avevano chiuso"
+    ],
+    "Passato remoto": [
+      "io chiusi",
+      "tu chiudesti",
+      "lui/lei chiuse",
+      "noi chiudemmo",
+      "voi chiudeste",
+      "loro chiusero"
+    ],
+    "Trapassato remoto": [
+      "io ebbi chiuso",
+      "tu avesti chiuso",
+      "lui/lei ebbe chiuso",
+      "noi avemmo chiuso",
+      "voi aveste chiuso",
+      "loro ebbero chiuso"
+    ],
+    "Futuro semplice": [
+      "io chiuderò",
+      "tu chiuderai",
+      "lui/lei chiuderà",
+      "noi chiuderemo",
+      "voi chiuderete",
+      "loro chiuderanno"
+    ],
+    "Futuro anteriore": [
+      "io avrò chiuso",
+      "tu avrai chiuso",
+      "lui/lei avrà chiuso",
+      "noi avremo chiuso",
+      "voi avrete chiuso",
+      "loro avranno chiuso"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io chiuderei",
+      "tu chiuderesti",
+      "lui/lei chiuderebbe",
+      "noi chiuderemmo",
+      "voi chiudereste",
+      "loro chiuderebbero"
+    ],
+    "Passato": [
+      "io avrei chiuso",
+      "tu avresti chiuso",
+      "lui/lei avrebbe chiuso",
+      "noi avremmo chiuso",
+      "voi avreste chiuso",
+      "loro avrebbero chiuso"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io chiuda",
+      "che tu chiuda",
+      "che lui/lei chiuda",
+      "che noi chiudiamo",
+      "che voi chiudiate",
+      "che loro chiudano"
+    ],
+    "Passato": [
+      "che io abbia chiuso",
+      "che tu abbia chiuso",
+      "che lui/lei abbia chiuso",
+      "che noi abbiamo chiuso",
+      "che voi abbiate chiuso",
+      "che loro abbiano chiuso"
+    ],
+    "Imperfetto": [
+      "che io chiudessi",
+      "che tu chiudessi",
+      "che lui/lei chiudesse",
+      "che noi chiudessimo",
+      "che voi chiudeste",
+      "che loro chiudessero"
+    ],
+    "Trapassato": [
+      "che io avessi chiuso",
+      "che tu avessi chiuso",
+      "che lui/lei avesse chiuso",
+      "che noi avessimo chiuso",
+      "che voi aveste chiuso",
+      "che loro avessero chiuso"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "chiudi",
+      "chiuda",
+      "chiudiamo",
+      "chiudete",
+      "chiudano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "chiudere"
+    ],
+    "Passato": [
+      "avere chiuso"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "chiudente"
+    ],
+    "Passato": [
+      "chiuso"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "chiudendo"
+    ],
+    "Passato": [
+      "avendo chiuso"
+    ]
+  }
+}

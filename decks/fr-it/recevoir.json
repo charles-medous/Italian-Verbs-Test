@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "recevoir",
+  "target_lemma": "ricevere",
+  "meta": {
+    "regularity": {
+      "fr": "2e groupe (-ere) avec irrégularités",
+      "it": "seconda coniugazione (-ere)"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io ricevo",
+      "tu ricevi",
+      "lui/lei riceve",
+      "noi riceviamo",
+      "voi ricevete",
+      "loro ricevono"
+    ],
+    "Passato prossimo": [
+      "io ho ricevuto",
+      "tu hai ricevuto",
+      "lui/lei ha ricevuto",
+      "noi abbiamo ricevuto",
+      "voi avete ricevuto",
+      "loro hanno ricevuto"
+    ],
+    "Imperfetto": [
+      "io ricevevo",
+      "tu ricevevi",
+      "lui/lei riceveva",
+      "noi ricevevamo",
+      "voi ricevevate",
+      "loro ricevevano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo ricevuto",
+      "tu avevi ricevuto",
+      "lui/lei aveva ricevuto",
+      "noi avevamo ricevuto",
+      "voi avevate ricevuto",
+      "loro avevano ricevuto"
+    ],
+    "Passato remoto": [
+      "io ricevetti",
+      "tu ricevesti",
+      "lui/lei ricevette",
+      "noi ricevemmo",
+      "voi riceveste",
+      "loro ricevettero"
+    ],
+    "Trapassato remoto": [
+      "io ebbi ricevuto",
+      "tu avesti ricevuto",
+      "lui/lei ebbe ricevuto",
+      "noi avemmo ricevuto",
+      "voi aveste ricevuto",
+      "loro ebbero ricevuto"
+    ],
+    "Futuro semplice": [
+      "io riceverò",
+      "tu riceverai",
+      "lui/lei riceverà",
+      "noi riceveremo",
+      "voi riceverete",
+      "loro riceveranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò ricevuto",
+      "tu avrai ricevuto",
+      "lui/lei avrà ricevuto",
+      "noi avremo ricevuto",
+      "voi avrete ricevuto",
+      "loro avranno ricevuto"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io riceverei",
+      "tu riceveresti",
+      "lui/lei riceverebbe",
+      "noi riceveremmo",
+      "voi ricevereste",
+      "loro riceverebbero"
+    ],
+    "Passato": [
+      "io avrei ricevuto",
+      "tu avresti ricevuto",
+      "lui/lei avrebbe ricevuto",
+      "noi avremmo ricevuto",
+      "voi avreste ricevuto",
+      "loro avrebbero ricevuto"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io riceva",
+      "che tu riceva",
+      "che lui/lei riceva",
+      "che noi riceviamo",
+      "che voi riceviate",
+      "che loro ricevano"
+    ],
+    "Passato": [
+      "che io abbia ricevuto",
+      "che tu abbia ricevuto",
+      "che lui/lei abbia ricevuto",
+      "che noi abbiamo ricevuto",
+      "che voi abbiate ricevuto",
+      "che loro abbiano ricevuto"
+    ],
+    "Imperfetto": [
+      "che io ricevessi",
+      "che tu ricevessi",
+      "che lui/lei ricevesse",
+      "che noi ricevessimo",
+      "che voi riceveste",
+      "che loro ricevessero"
+    ],
+    "Trapassato": [
+      "che io avessi ricevuto",
+      "che tu avessi ricevuto",
+      "che lui/lei avesse ricevuto",
+      "che noi avessimo ricevuto",
+      "che voi aveste ricevuto",
+      "che loro avessero ricevuto"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "ricevi",
+      "riceva",
+      "riceviamo",
+      "ricevete",
+      "ricevano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "ricevere"
+    ],
+    "Passato": [
+      "avere ricevuto"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "ricevente"
+    ],
+    "Passato": [
+      "ricevuto"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "ricevendo"
+    ],
+    "Passato": [
+      "avendo ricevuto"
+    ]
+  }
+}

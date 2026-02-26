@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "entendre",
+  "target_lemma": "sentire",
+  "meta": {
+    "regularity": {
+      "fr": "3e groupe (-ire)",
+      "it": "terza coniugazione (-ire)"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io sento",
+      "tu senti",
+      "lui/lei sente",
+      "noi sentiamo",
+      "voi sentite",
+      "loro sentono"
+    ],
+    "Passato prossimo": [
+      "io ho sentito",
+      "tu hai sentito",
+      "lui/lei ha sentito",
+      "noi abbiamo sentito",
+      "voi avete sentito",
+      "loro hanno sentito"
+    ],
+    "Imperfetto": [
+      "io sentivo",
+      "tu sentivi",
+      "lui/lei sentiva",
+      "noi sentivamo",
+      "voi sentivate",
+      "loro sentivano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo sentito",
+      "tu avevi sentito",
+      "lui/lei aveva sentito",
+      "noi avevamo sentito",
+      "voi avevate sentito",
+      "loro avevano sentito"
+    ],
+    "Passato remoto": [
+      "io sentii",
+      "tu sentisti",
+      "lui/lei sentì",
+      "noi sentimmo",
+      "voi sentiste",
+      "loro sentirono"
+    ],
+    "Trapassato remoto": [
+      "io ebbi sentito",
+      "tu avesti sentito",
+      "lui/lei ebbe sentito",
+      "noi avemmo sentito",
+      "voi aveste sentito",
+      "loro ebbero sentito"
+    ],
+    "Futuro semplice": [
+      "io sentirò",
+      "tu sentirai",
+      "lui/lei sentirà",
+      "noi sentiremo",
+      "voi sentirete",
+      "loro sentiranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò sentito",
+      "tu avrai sentito",
+      "lui/lei avrà sentito",
+      "noi avremo sentito",
+      "voi avrete sentito",
+      "loro avranno sentito"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io sentirei",
+      "tu sentiresti",
+      "lui/lei sentirebbe",
+      "noi sentiremmo",
+      "voi sentireste",
+      "loro sentirebbero"
+    ],
+    "Passato": [
+      "io avrei sentito",
+      "tu avresti sentito",
+      "lui/lei avrebbe sentito",
+      "noi avremmo sentito",
+      "voi avreste sentito",
+      "loro avrebbero sentito"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io senta",
+      "che tu senta",
+      "che lui/lei senta",
+      "che noi sentiamo",
+      "che voi sentiate",
+      "che loro sentano"
+    ],
+    "Passato": [
+      "che io abbia sentito",
+      "che tu abbia sentito",
+      "che lui/lei abbia sentito",
+      "che noi abbiamo sentito",
+      "che voi abbiate sentito",
+      "che loro abbiano sentito"
+    ],
+    "Imperfetto": [
+      "che io sentissi",
+      "che tu sentissi",
+      "che lui/lei sentisse",
+      "che noi sentissimo",
+      "che voi sentiste",
+      "che loro sentissero"
+    ],
+    "Trapassato": [
+      "che io avessi sentito",
+      "che tu avessi sentito",
+      "che lui/lei avesse sentito",
+      "che noi avessimo sentito",
+      "che voi aveste sentito",
+      "che loro avessero sentito"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "senti",
+      "senta",
+      "sentiamo",
+      "sentite",
+      "sentano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "sentire"
+    ],
+    "Passato": [
+      "avere sentito"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "sentente"
+    ],
+    "Passato": [
+      "sentito"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "sentendo"
+    ],
+    "Passato": [
+      "avendo sentito"
+    ]
+  }
+}

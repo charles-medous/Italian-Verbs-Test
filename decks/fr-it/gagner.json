@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "gagner",
+  "target_lemma": "vincere",
+  "meta": {
+    "regularity": {
+      "fr": "2e groupe (-ere) avec irrégularités",
+      "it": "seconda coniugazione (-ere)"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io vinco",
+      "tu vinci",
+      "lui/lei vince",
+      "noi vinciamo",
+      "voi vincete",
+      "loro vincono"
+    ],
+    "Passato prossimo": [
+      "io ho vinto",
+      "tu hai vinto",
+      "lui/lei ha vinto",
+      "noi abbiamo vinto",
+      "voi avete vinto",
+      "loro hanno vinto"
+    ],
+    "Imperfetto": [
+      "io vincevo",
+      "tu vincevi",
+      "lui/lei vinceva",
+      "noi vincevamo",
+      "voi vincevate",
+      "loro vincevano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo vinto",
+      "tu avevi vinto",
+      "lui/lei aveva vinto",
+      "noi avevamo vinto",
+      "voi avevate vinto",
+      "loro avevano vinto"
+    ],
+    "Passato remoto": [
+      "io vinsi",
+      "tu vincesti",
+      "lui/lei vinse",
+      "noi vincemmo",
+      "voi vinceste",
+      "loro vinsero"
+    ],
+    "Trapassato remoto": [
+      "io ebbi vinto",
+      "tu avesti vinto",
+      "lui/lei ebbe vinto",
+      "noi avemmo vinto",
+      "voi aveste vinto",
+      "loro ebbero vinto"
+    ],
+    "Futuro semplice": [
+      "io vincerò",
+      "tu vincerai",
+      "lui/lei vincerà",
+      "noi vinceremo",
+      "voi vincerete",
+      "loro vinceranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò vinto",
+      "tu avrai vinto",
+      "lui/lei avrà vinto",
+      "noi avremo vinto",
+      "voi avrete vinto",
+      "loro avranno vinto"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io vincerei",
+      "tu vinceresti",
+      "lui/lei vincerebbe",
+      "noi vinceremmo",
+      "voi vincereste",
+      "loro vincerebbero"
+    ],
+    "Passato": [
+      "io avrei vinto",
+      "tu avresti vinto",
+      "lui/lei avrebbe vinto",
+      "noi avremmo vinto",
+      "voi avreste vinto",
+      "loro avrebbero vinto"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io vinca",
+      "che tu vinca",
+      "che lui/lei vinca",
+      "che noi vinciamo",
+      "che voi vinciate",
+      "che loro vincano"
+    ],
+    "Passato": [
+      "che io abbia vinto",
+      "che tu abbia vinto",
+      "che lui/lei abbia vinto",
+      "che noi abbiamo vinto",
+      "che voi abbiate vinto",
+      "che loro abbiano vinto"
+    ],
+    "Imperfetto": [
+      "che io vincessi",
+      "che tu vincessi",
+      "che lui/lei vincesse",
+      "che noi vincessimo",
+      "che voi vinceste",
+      "che loro vincessero"
+    ],
+    "Trapassato": [
+      "che io avessi vinto",
+      "che tu avessi vinto",
+      "che lui/lei avesse vinto",
+      "che noi avessimo vinto",
+      "che voi aveste vinto",
+      "che loro avessero vinto"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "vinci",
+      "vinca",
+      "vinciamo",
+      "vincete",
+      "vincano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "vincere"
+    ],
+    "Passato": [
+      "avere vinto"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "vincente"
+    ],
+    "Passato": [
+      "vinto"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "vincendo"
+    ],
+    "Passato": [
+      "avendo vinto"
+    ]
+  }
+}

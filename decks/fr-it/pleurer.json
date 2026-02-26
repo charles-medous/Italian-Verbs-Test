@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "pleurer",
+  "target_lemma": "piangere",
+  "meta": {
+    "regularity": {
+      "fr": "2e groupe (-ere) avec irrégularités",
+      "it": "seconda coniugazione (-ere)"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io piango",
+      "tu piangi",
+      "lui/lei piange",
+      "noi piangiamo",
+      "voi piangete",
+      "loro piangono"
+    ],
+    "Passato prossimo": [
+      "io ho pianto",
+      "tu hai pianto",
+      "lui/lei ha pianto",
+      "noi abbiamo pianto",
+      "voi avete pianto",
+      "loro hanno pianto"
+    ],
+    "Imperfetto": [
+      "io piangevo",
+      "tu piangevi",
+      "lui/lei piangeva",
+      "noi piangevamo",
+      "voi piangevate",
+      "loro piangevano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo pianto",
+      "tu avevi pianto",
+      "lui/lei aveva pianto",
+      "noi avevamo pianto",
+      "voi avevate pianto",
+      "loro avevano pianto"
+    ],
+    "Passato remoto": [
+      "io piansi",
+      "tu piangesti",
+      "lui/lei pianse",
+      "noi piangemmo",
+      "voi piangeste",
+      "loro piansero"
+    ],
+    "Trapassato remoto": [
+      "io ebbi pianto",
+      "tu avesti pianto",
+      "lui/lei ebbe pianto",
+      "noi avemmo pianto",
+      "voi aveste pianto",
+      "loro ebbero pianto"
+    ],
+    "Futuro semplice": [
+      "io piangerò",
+      "tu piangerai",
+      "lui/lei piangerà",
+      "noi piangeremo",
+      "voi piangerete",
+      "loro piangeranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò pianto",
+      "tu avrai pianto",
+      "lui/lei avrà pianto",
+      "noi avremo pianto",
+      "voi avrete pianto",
+      "loro avranno pianto"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io piangerei",
+      "tu piangeresti",
+      "lui/lei piangerebbe",
+      "noi piangeremmo",
+      "voi piangereste",
+      "loro piangerebbero"
+    ],
+    "Passato": [
+      "io avrei pianto",
+      "tu avresti pianto",
+      "lui/lei avrebbe pianto",
+      "noi avremmo pianto",
+      "voi avreste pianto",
+      "loro avrebbero pianto"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io pianga",
+      "che tu pianga",
+      "che lui/lei pianga",
+      "che noi piangiamo",
+      "che voi piangiate",
+      "che loro piangano"
+    ],
+    "Passato": [
+      "che io abbia pianto",
+      "che tu abbia pianto",
+      "che lui/lei abbia pianto",
+      "che noi abbiamo pianto",
+      "che voi abbiate pianto",
+      "che loro abbiano pianto"
+    ],
+    "Imperfetto": [
+      "che io piangessi",
+      "che tu piangessi",
+      "che lui/lei piangesse",
+      "che noi piangessimo",
+      "che voi piangeste",
+      "che loro piangessero"
+    ],
+    "Trapassato": [
+      "che io avessi pianto",
+      "che tu avessi pianto",
+      "che lui/lei avesse pianto",
+      "che noi avessimo pianto",
+      "che voi aveste pianto",
+      "che loro avessero pianto"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "piangi",
+      "pianga",
+      "piangiamo",
+      "piangete",
+      "piangano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "piangere"
+    ],
+    "Passato": [
+      "avere pianto"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "piangente"
+    ],
+    "Passato": [
+      "pianto"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "piangendo"
+    ],
+    "Passato": [
+      "avendo pianto"
+    ]
+  }
+}

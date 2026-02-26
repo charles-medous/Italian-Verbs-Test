@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "rester (rimanere)",
+  "target_lemma": "rimanere",
+  "meta": {
+    "regularity": {
+      "fr": "irrégulier",
+      "it": "verbo irregolare"
+    },
+    "auxiliary": {
+      "fr": "être",
+      "it": "essere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io rimango",
+      "tu rimani",
+      "lui/lei rimane",
+      "noi rimaniamo",
+      "voi rimanete",
+      "loro rimangono"
+    ],
+    "Passato prossimo": [
+      "io sono rimasti",
+      "tu sei rimasto",
+      "lui/lei è rimasto",
+      "noi siamo rimasti",
+      "voi siete rimasti",
+      "loro sono rimasti"
+    ],
+    "Imperfetto": [
+      "io rimanvo",
+      "tu rimanvi",
+      "lui/lei rimanva",
+      "noi rimanvamo",
+      "voi rimanvate",
+      "loro rimanvano"
+    ],
+    "Trapassato prossimo": [
+      "io ero rimasto",
+      "tu eri rimasto",
+      "lui/lei era rimasto",
+      "noi eravamo rimasti",
+      "voi eravate rimasti",
+      "loro erano rimasti"
+    ],
+    "Passato remoto": [
+      "io rimasi",
+      "tu rimanesti",
+      "lui/lei rimase",
+      "noi rimanemmo",
+      "voi rimaneste",
+      "loro rimasero"
+    ],
+    "Trapassato remoto": [
+      "io fui rimasto",
+      "tu fosti rimasto",
+      "lui/lei fu rimasto",
+      "noi fummo rimasti",
+      "voi foste rimasti",
+      "loro furono rimasti"
+    ],
+    "Futuro semplice": [
+      "io rimarrò",
+      "tu rimarrai",
+      "lui/lei rimarrà",
+      "noi rimarremo",
+      "voi rimarrete",
+      "loro rimarranno"
+    ],
+    "Futuro anteriore": [
+      "io sarò rimasto",
+      "tu sarai rimasto",
+      "lui/lei sarà rimasto",
+      "noi saremo rimasti",
+      "voi sarete rimasti",
+      "loro saranno rimasti"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io rimarrei",
+      "tu rimarresti",
+      "lui/lei rimarrebbe",
+      "noi rimarremmo",
+      "voi rimarreste",
+      "loro rimarrebbero"
+    ],
+    "Passato": [
+      "io sarei rimasto",
+      "tu saresti rimasto",
+      "lui/lei sarebbe rimasto",
+      "noi saremmo rimasti",
+      "voi sareste rimasti",
+      "loro sarebbero rimasto"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io rimanga",
+      "che tu rimanga",
+      "che lui/lei rimanga",
+      "che noi rimaniamo",
+      "che voi rimaniate",
+      "che loro rimangano"
+    ],
+    "Passato": [
+      "che io sia rimasto",
+      "che tu sia rimasto",
+      "che lui/lei sia rimasto",
+      "che noi siamo rimasto",
+      "che voi siate rimasto",
+      "che loro siano rimasto"
+    ],
+    "Imperfetto": [
+      "che io rimanessi",
+      "che tu rimanessi",
+      "che lui/lei rimanesse",
+      "che noi rimanessimo",
+      "che voi rimanesste",
+      "che loro rimanessero"
+    ],
+    "Trapassato": [
+      "che io fossi rimasto",
+      "che tu fossi rimasto",
+      "che lui/lei fosse rimasto",
+      "che noi fossimo rimasto",
+      "che voi foste rimasto",
+      "che loro fossero rimasto"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "rimani",
+      "rimanga",
+      "rimaniamo",
+      "rimanete",
+      "rimangano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "rimanere"
+    ],
+    "Passato": [
+      "essere rimasto"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "rimanente"
+    ],
+    "Passato": [
+      "rimasto"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "rimanendo"
+    ],
+    "Passato": [
+      "essendo rimasto"
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "approcher",
+  "target_lemma": "avvicinare",
+  "meta": {
+    "regularity": {
+      "fr": "1er groupe régulier (approx.)",
+      "it": "prima coniugazione regolare"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io avvicino",
+      "tu avvicini",
+      "lui/lei avvicina",
+      "noi avviciniamo",
+      "voi avvicinate",
+      "loro avvicinano"
+    ],
+    "Passato prossimo": [
+      "io ho avvicinato",
+      "tu hai avvicinato",
+      "lui/lei ha avvicinato",
+      "noi abbiamo avvicinato",
+      "voi avete avvicinato",
+      "loro hanno avvicinato"
+    ],
+    "Imperfetto": [
+      "io avvicinavo",
+      "tu avvicinavi",
+      "lui/lei avvicinava",
+      "noi avvicinavamo",
+      "voi avvicinavate",
+      "loro avvicinavano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo avvicinato",
+      "tu avevi avvicinato",
+      "lui/lei aveva avvicinato",
+      "noi avevamo avvicinato",
+      "voi avevate avvicinato",
+      "loro avevano avvicinato"
+    ],
+    "Passato remoto": [
+      "io avvicinai",
+      "tu avvicinasti",
+      "lui/lei avvicinò",
+      "noi avvicinammo",
+      "voi avvicinaste",
+      "loro avvicinarono"
+    ],
+    "Trapassato remoto": [
+      "io ebbi avvicinato",
+      "tu avesti avvicinato",
+      "lui/lei ebbe avvicinato",
+      "noi avemmo avvicinato",
+      "voi aveste avvicinato",
+      "loro ebbero avvicinato"
+    ],
+    "Futuro semplice": [
+      "io avvicinerò",
+      "tu avvicinerai",
+      "lui/lei avvicinerà",
+      "noi avvicineremo",
+      "voi avvicinerete",
+      "loro avvicineranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò avvicinato",
+      "tu avrai avvicinato",
+      "lui/lei avrà avvicinato",
+      "noi avremo avvicinato",
+      "voi avrete avvicinato",
+      "loro avranno avvicinato"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io avvicinerei",
+      "tu avvicineresti",
+      "lui/lei avvicinerebbe",
+      "noi avvicineremmo",
+      "voi avvicinereste",
+      "loro avvicinerebbero"
+    ],
+    "Passato": [
+      "io avrei avvicinato",
+      "tu avresti avvicinato",
+      "lui/lei avrebbe avvicinato",
+      "noi avremmo avvicinato",
+      "voi avreste avvicinato",
+      "loro avrebbero avvicinato"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io avvicini",
+      "che tu avvicini",
+      "che lui/lei avvicini",
+      "che noi avviciniamo",
+      "che voi avviciniate",
+      "che loro avvicinino"
+    ],
+    "Passato": [
+      "che io abbia avvicinato",
+      "che tu abbia avvicinato",
+      "che lui/lei abbia avvicinato",
+      "che noi abbiamo avvicinato",
+      "che voi abbiate avvicinato",
+      "che loro abbiano avvicinato"
+    ],
+    "Imperfetto": [
+      "che io avvicinassi",
+      "che tu avvicinassi",
+      "che lui/lei avvicinasse",
+      "che noi avvicinassimo",
+      "che voi avvicinaste",
+      "che loro avvicinassero"
+    ],
+    "Trapassato": [
+      "che io avessi avvicinato",
+      "che tu avessi avvicinato",
+      "che lui/lei avesse avvicinato",
+      "che noi avessimo avvicinato",
+      "che voi aveste avvicinato",
+      "che loro avessero avvicinato"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "avvicina",
+      "avvicini",
+      "avviciniamo",
+      "avvicinate",
+      "avvicinino"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "avvicinare"
+    ],
+    "Passato": [
+      "avere avvicinato"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "avvicinante"
+    ],
+    "Passato": [
+      "avvicinato"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "avvicinando"
+    ],
+    "Passato": [
+      "avendo avvicinato"
+    ]
+  }
+}

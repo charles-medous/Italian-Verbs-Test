@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "sortir",
+  "target_lemma": "uscire",
+  "meta": {
+    "regularity": {
+      "fr": "irrégulier",
+      "it": "verbo irregolare"
+    },
+    "auxiliary": {
+      "fr": "être",
+      "it": "essere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io esco",
+      "tu esci",
+      "lui/lei esce",
+      "noi usciamo",
+      "voi uscite",
+      "loro escono"
+    ],
+    "Passato prossimo": [
+      "io sono usciti",
+      "tu sei uscito",
+      "lui/lei è uscito",
+      "noi siamo usciti",
+      "voi siete usciti",
+      "loro sono usciti"
+    ],
+    "Imperfetto": [
+      "io uscvo",
+      "tu uscvi",
+      "lui/lei uscva",
+      "noi uscvamo",
+      "voi uscvate",
+      "loro uscvano"
+    ],
+    "Trapassato prossimo": [
+      "io ero uscito",
+      "tu eri uscito",
+      "lui/lei era uscito",
+      "noi eravamo usciti",
+      "voi eravate usciti",
+      "loro erano usciti"
+    ],
+    "Passato remoto": [
+      "io uscii",
+      "tu uscisti",
+      "lui/lei uscì",
+      "noi uscimmo",
+      "voi usciste",
+      "loro uscirono"
+    ],
+    "Trapassato remoto": [
+      "io fui uscito",
+      "tu fosti uscito",
+      "lui/lei fu uscito",
+      "noi fummo usciti",
+      "voi foste usciti",
+      "loro furono usciti"
+    ],
+    "Futuro semplice": [
+      "io uscirò",
+      "tu uscirai",
+      "lui/lei uscirà",
+      "noi usciremo",
+      "voi uscirete",
+      "loro usciranno"
+    ],
+    "Futuro anteriore": [
+      "io sarò uscito",
+      "tu sarai uscito",
+      "lui/lei sarà uscito",
+      "noi saremo usciti",
+      "voi sarete usciti",
+      "loro saranno usciti"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io uscirei",
+      "tu usciresti",
+      "lui/lei uscirebbe",
+      "noi usciremmo",
+      "voi uscireste",
+      "loro uscirebbero"
+    ],
+    "Passato": [
+      "io sarei uscito",
+      "tu saresti uscito",
+      "lui/lei sarebbe uscito",
+      "noi saremmo usciti",
+      "voi sareste usciti",
+      "loro sarebbero uscito"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io esca",
+      "che tu esca",
+      "che lui/lei esca",
+      "che noi usciamo",
+      "che voi usciate",
+      "che loro escano"
+    ],
+    "Passato": [
+      "che io sia uscito",
+      "che tu sia uscito",
+      "che lui/lei sia uscito",
+      "che noi siamo uscito",
+      "che voi siate uscito",
+      "che loro siano uscito"
+    ],
+    "Imperfetto": [
+      "che io uscissi",
+      "che tu uscissi",
+      "che lui/lei uscisse",
+      "che noi uscissimo",
+      "che voi uscisste",
+      "che loro uscissero"
+    ],
+    "Trapassato": [
+      "che io fossi uscito",
+      "che tu fossi uscito",
+      "che lui/lei fosse uscito",
+      "che noi fossimo uscito",
+      "che voi foste uscito",
+      "che loro fossero uscito"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "esci",
+      "esca",
+      "usciamo",
+      "uscite",
+      "escano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "uscire"
+    ],
+    "Passato": [
+      "essere uscito"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "uscente"
+    ],
+    "Passato": [
+      "uscito"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "uscendo"
+    ],
+    "Passato": [
+      "essendo uscito"
+    ]
+  }
+}

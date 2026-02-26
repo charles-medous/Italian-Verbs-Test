@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "connaître",
+  "target_lemma": "conoscere",
+  "meta": {
+    "regularity": {
+      "fr": "2e groupe (-ere) avec irrégularités",
+      "it": "seconda coniugazione (-ere)"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io conosco",
+      "tu conosci",
+      "lui/lei conosce",
+      "noi conosciamo",
+      "voi conoscete",
+      "loro conoscono"
+    ],
+    "Passato prossimo": [
+      "io ho conosciuto",
+      "tu hai conosciuto",
+      "lui/lei ha conosciuto",
+      "noi abbiamo conosciuto",
+      "voi avete conosciuto",
+      "loro hanno conosciuto"
+    ],
+    "Imperfetto": [
+      "io conoscevo",
+      "tu conoscevi",
+      "lui/lei conosceva",
+      "noi conoscevamo",
+      "voi conoscevate",
+      "loro conoscevano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo conosciuto",
+      "tu avevi conosciuto",
+      "lui/lei aveva conosciuto",
+      "noi avevamo conosciuto",
+      "voi avevate conosciuto",
+      "loro avevano conosciuto"
+    ],
+    "Passato remoto": [
+      "io conobbi",
+      "tu conoscesti",
+      "lui/lei conobbe",
+      "noi conoscemmo",
+      "voi conosceste",
+      "loro conobbero"
+    ],
+    "Trapassato remoto": [
+      "io ebbi conosciuto",
+      "tu avesti conosciuto",
+      "lui/lei ebbe conosciuto",
+      "noi avemmo conosciuto",
+      "voi aveste conosciuto",
+      "loro ebbero conosciuto"
+    ],
+    "Futuro semplice": [
+      "io conoscerò",
+      "tu conoscerai",
+      "lui/lei conoscerà",
+      "noi conosceremo",
+      "voi conoscerete",
+      "loro conosceranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò conosciuto",
+      "tu avrai conosciuto",
+      "lui/lei avrà conosciuto",
+      "noi avremo conosciuto",
+      "voi avrete conosciuto",
+      "loro avranno conosciuto"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io conoscerei",
+      "tu conosceresti",
+      "lui/lei conoscerebbe",
+      "noi conosceremmo",
+      "voi conoscereste",
+      "loro conoscerebbero"
+    ],
+    "Passato": [
+      "io avrei conosciuto",
+      "tu avresti conosciuto",
+      "lui/lei avrebbe conosciuto",
+      "noi avremmo conosciuto",
+      "voi avreste conosciuto",
+      "loro avrebbero conosciuto"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io conosca",
+      "che tu conosca",
+      "che lui/lei conosca",
+      "che noi conosciamo",
+      "che voi conosciate",
+      "che loro conoscano"
+    ],
+    "Passato": [
+      "che io abbia conosciuto",
+      "che tu abbia conosciuto",
+      "che lui/lei abbia conosciuto",
+      "che noi abbiamo conosciuto",
+      "che voi abbiate conosciuto",
+      "che loro abbiano conosciuto"
+    ],
+    "Imperfetto": [
+      "che io conoscessi",
+      "che tu conoscessi",
+      "che lui/lei conoscesse",
+      "che noi conoscessimo",
+      "che voi conosceste",
+      "che loro conoscessero"
+    ],
+    "Trapassato": [
+      "che io avessi conosciuto",
+      "che tu avessi conosciuto",
+      "che lui/lei avesse conosciuto",
+      "che noi avessimo conosciuto",
+      "che voi aveste conosciuto",
+      "che loro avessero conosciuto"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "conosci",
+      "conosca",
+      "conosciamo",
+      "conoscete",
+      "conoscano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "conoscere"
+    ],
+    "Passato": [
+      "avere conosciuto"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "conoscente"
+    ],
+    "Passato": [
+      "conosciuto"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "conoscendo"
+    ],
+    "Passato": [
+      "avendo conosciuto"
+    ]
+  }
+}

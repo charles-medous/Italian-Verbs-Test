@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "commencer",
+  "target_lemma": "iniziare",
+  "meta": {
+    "regularity": {
+      "fr": "1er groupe régulier (approx.)",
+      "it": "prima coniugazione regolare (ciare/giare)"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io inizio",
+      "tu inizii",
+      "lui/lei inizia",
+      "noi iniziiamo",
+      "voi iniziate",
+      "loro iniziano"
+    ],
+    "Passato prossimo": [
+      "io ho iniziato",
+      "tu hai iniziato",
+      "lui/lei ha iniziato",
+      "noi abbiamo iniziato",
+      "voi avete iniziato",
+      "loro hanno iniziato"
+    ],
+    "Imperfetto": [
+      "io iniziavo",
+      "tu iniziavi",
+      "lui/lei iniziava",
+      "noi iniziavamo",
+      "voi iniziavate",
+      "loro iniziavano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo iniziato",
+      "tu avevi iniziato",
+      "lui/lei aveva iniziato",
+      "noi avevamo iniziato",
+      "voi avevate iniziato",
+      "loro avevano iniziato"
+    ],
+    "Passato remoto": [
+      "io iniziai",
+      "tu iniziasti",
+      "lui/lei iniziò",
+      "noi iniziammo",
+      "voi iniziaste",
+      "loro iniziarono"
+    ],
+    "Trapassato remoto": [
+      "io ebbi iniziato",
+      "tu avesti iniziato",
+      "lui/lei ebbe iniziato",
+      "noi avemmo iniziato",
+      "voi aveste iniziato",
+      "loro ebbero iniziato"
+    ],
+    "Futuro semplice": [
+      "io inizierò",
+      "tu inizierai",
+      "lui/lei inizierà",
+      "noi inizieremo",
+      "voi inizierete",
+      "loro inizieranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò iniziato",
+      "tu avrai iniziato",
+      "lui/lei avrà iniziato",
+      "noi avremo iniziato",
+      "voi avrete iniziato",
+      "loro avranno iniziato"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io inizierei",
+      "tu inizieresti",
+      "lui/lei inizierebbe",
+      "noi inizieremmo",
+      "voi iniziereste",
+      "loro inizierebbero"
+    ],
+    "Passato": [
+      "io avrei iniziato",
+      "tu avresti iniziato",
+      "lui/lei avrebbe iniziato",
+      "noi avremmo iniziato",
+      "voi avreste iniziato",
+      "loro avrebbero iniziato"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io inizii",
+      "che tu inizii",
+      "che lui/lei inizii",
+      "che noi iniziiamo",
+      "che voi iniziiate",
+      "che loro iniziino"
+    ],
+    "Passato": [
+      "che io abbia iniziato",
+      "che tu abbia iniziato",
+      "che lui/lei abbia iniziato",
+      "che noi abbiamo iniziato",
+      "che voi abbiate iniziato",
+      "che loro abbiano iniziato"
+    ],
+    "Imperfetto": [
+      "che io iniziassi",
+      "che tu iniziassi",
+      "che lui/lei iniziasse",
+      "che noi iniziassimo",
+      "che voi iniziaste",
+      "che loro iniziassero"
+    ],
+    "Trapassato": [
+      "che io avessi iniziato",
+      "che tu avessi iniziato",
+      "che lui/lei avesse iniziato",
+      "che noi avessimo iniziato",
+      "che voi aveste iniziato",
+      "che loro avessero iniziato"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "inizia",
+      "inizii",
+      "iniziiamo",
+      "iniziate",
+      "iniziino"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "iniziare"
+    ],
+    "Passato": [
+      "avere iniziato"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "iniziante"
+    ],
+    "Passato": [
+      "iniziato"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "iniziando"
+    ],
+    "Passato": [
+      "avendo iniziato"
+    ]
+  }
+}

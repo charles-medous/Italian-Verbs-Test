@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "acheter",
+  "target_lemma": "comprare",
+  "meta": {
+    "regularity": {
+      "fr": "1er groupe régulier (approx.)",
+      "it": "prima coniugazione regolare"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io compro",
+      "tu compri",
+      "lui/lei compra",
+      "noi compriamo",
+      "voi comprate",
+      "loro comprano"
+    ],
+    "Passato prossimo": [
+      "io ho comprato",
+      "tu hai comprato",
+      "lui/lei ha comprato",
+      "noi abbiamo comprato",
+      "voi avete comprato",
+      "loro hanno comprato"
+    ],
+    "Imperfetto": [
+      "io compravo",
+      "tu compravi",
+      "lui/lei comprava",
+      "noi compravamo",
+      "voi compravate",
+      "loro compravano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo comprato",
+      "tu avevi comprato",
+      "lui/lei aveva comprato",
+      "noi avevamo comprato",
+      "voi avevate comprato",
+      "loro avevano comprato"
+    ],
+    "Passato remoto": [
+      "io comprai",
+      "tu comprasti",
+      "lui/lei comprò",
+      "noi comprammo",
+      "voi compraste",
+      "loro comprarono"
+    ],
+    "Trapassato remoto": [
+      "io ebbi comprato",
+      "tu avesti comprato",
+      "lui/lei ebbe comprato",
+      "noi avemmo comprato",
+      "voi aveste comprato",
+      "loro ebbero comprato"
+    ],
+    "Futuro semplice": [
+      "io comprerò",
+      "tu comprerai",
+      "lui/lei comprerà",
+      "noi compreremo",
+      "voi comprerete",
+      "loro compreranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò comprato",
+      "tu avrai comprato",
+      "lui/lei avrà comprato",
+      "noi avremo comprato",
+      "voi avrete comprato",
+      "loro avranno comprato"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io comprerei",
+      "tu compreresti",
+      "lui/lei comprerebbe",
+      "noi compreremmo",
+      "voi comprereste",
+      "loro comprerebbero"
+    ],
+    "Passato": [
+      "io avrei comprato",
+      "tu avresti comprato",
+      "lui/lei avrebbe comprato",
+      "noi avremmo comprato",
+      "voi avreste comprato",
+      "loro avrebbero comprato"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io compri",
+      "che tu compri",
+      "che lui/lei compri",
+      "che noi compriamo",
+      "che voi compriate",
+      "che loro comprino"
+    ],
+    "Passato": [
+      "che io abbia comprato",
+      "che tu abbia comprato",
+      "che lui/lei abbia comprato",
+      "che noi abbiamo comprato",
+      "che voi abbiate comprato",
+      "che loro abbiano comprato"
+    ],
+    "Imperfetto": [
+      "che io comprassi",
+      "che tu comprassi",
+      "che lui/lei comprasse",
+      "che noi comprassimo",
+      "che voi compraste",
+      "che loro comprassero"
+    ],
+    "Trapassato": [
+      "che io avessi comprato",
+      "che tu avessi comprato",
+      "che lui/lei avesse comprato",
+      "che noi avessimo comprato",
+      "che voi aveste comprato",
+      "che loro avessero comprato"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "compra",
+      "compri",
+      "compriamo",
+      "comprate",
+      "comprino"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "comprare"
+    ],
+    "Passato": [
+      "avere comprato"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "comprante"
+    ],
+    "Passato": [
+      "comprato"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "comprando"
+    ],
+    "Passato": [
+      "avendo comprato"
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "courir",
+  "target_lemma": "correre",
+  "meta": {
+    "regularity": {
+      "fr": "2e groupe (-ere) avec irrégularités",
+      "it": "seconda coniugazione (-ere)"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io corro",
+      "tu corri",
+      "lui/lei corre",
+      "noi corriamo",
+      "voi correte",
+      "loro corrono"
+    ],
+    "Passato prossimo": [
+      "io ho corso",
+      "tu hai corso",
+      "lui/lei ha corso",
+      "noi abbiamo corso",
+      "voi avete corso",
+      "loro hanno corso"
+    ],
+    "Imperfetto": [
+      "io correvo",
+      "tu correvi",
+      "lui/lei correva",
+      "noi correvamo",
+      "voi correvate",
+      "loro correvano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo corso",
+      "tu avevi corso",
+      "lui/lei aveva corso",
+      "noi avevamo corso",
+      "voi avevate corso",
+      "loro avevano corso"
+    ],
+    "Passato remoto": [
+      "io corsi",
+      "tu corresti",
+      "lui/lei corse",
+      "noi corremmo",
+      "voi correste",
+      "loro corsero"
+    ],
+    "Trapassato remoto": [
+      "io ebbi corso",
+      "tu avesti corso",
+      "lui/lei ebbe corso",
+      "noi avemmo corso",
+      "voi aveste corso",
+      "loro ebbero corso"
+    ],
+    "Futuro semplice": [
+      "io correrò",
+      "tu correrai",
+      "lui/lei correrà",
+      "noi correremo",
+      "voi correrete",
+      "loro correranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò corso",
+      "tu avrai corso",
+      "lui/lei avrà corso",
+      "noi avremo corso",
+      "voi avrete corso",
+      "loro avranno corso"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io correrei",
+      "tu correresti",
+      "lui/lei correrebbe",
+      "noi correremmo",
+      "voi correreste",
+      "loro correrebbero"
+    ],
+    "Passato": [
+      "io avrei corso",
+      "tu avresti corso",
+      "lui/lei avrebbe corso",
+      "noi avremmo corso",
+      "voi avreste corso",
+      "loro avrebbero corso"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io corra",
+      "che tu corra",
+      "che lui/lei corra",
+      "che noi corriamo",
+      "che voi corriate",
+      "che loro corrano"
+    ],
+    "Passato": [
+      "che io abbia corso",
+      "che tu abbia corso",
+      "che lui/lei abbia corso",
+      "che noi abbiamo corso",
+      "che voi abbiate corso",
+      "che loro abbiano corso"
+    ],
+    "Imperfetto": [
+      "che io corressi",
+      "che tu corressi",
+      "che lui/lei corresse",
+      "che noi corressimo",
+      "che voi correste",
+      "che loro corressero"
+    ],
+    "Trapassato": [
+      "che io avessi corso",
+      "che tu avessi corso",
+      "che lui/lei avesse corso",
+      "che noi avessimo corso",
+      "che voi aveste corso",
+      "che loro avessero corso"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "corri",
+      "corra",
+      "corriamo",
+      "correte",
+      "corrano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "correre"
+    ],
+    "Passato": [
+      "avere corso"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "corrente"
+    ],
+    "Passato": [
+      "corso"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "correndo"
+    ],
+    "Passato": [
+      "avendo corso"
+    ]
+  }
+}

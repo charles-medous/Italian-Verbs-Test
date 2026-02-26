@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "manger",
+  "target_lemma": "mangiare",
+  "meta": {
+    "regularity": {
+      "fr": "1er groupe régulier (approx.)",
+      "it": "prima coniugazione regolare (ciare/giare)"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io mangio",
+      "tu mangii",
+      "lui/lei mangia",
+      "noi mangiiamo",
+      "voi mangiate",
+      "loro mangiano"
+    ],
+    "Passato prossimo": [
+      "io ho mangiato",
+      "tu hai mangiato",
+      "lui/lei ha mangiato",
+      "noi abbiamo mangiato",
+      "voi avete mangiato",
+      "loro hanno mangiato"
+    ],
+    "Imperfetto": [
+      "io mangiavo",
+      "tu mangiavi",
+      "lui/lei mangiava",
+      "noi mangiavamo",
+      "voi mangiavate",
+      "loro mangiavano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo mangiato",
+      "tu avevi mangiato",
+      "lui/lei aveva mangiato",
+      "noi avevamo mangiato",
+      "voi avevate mangiato",
+      "loro avevano mangiato"
+    ],
+    "Passato remoto": [
+      "io mangiai",
+      "tu mangiasti",
+      "lui/lei mangiò",
+      "noi mangiammo",
+      "voi mangiaste",
+      "loro mangiarono"
+    ],
+    "Trapassato remoto": [
+      "io ebbi mangiato",
+      "tu avesti mangiato",
+      "lui/lei ebbe mangiato",
+      "noi avemmo mangiato",
+      "voi aveste mangiato",
+      "loro ebbero mangiato"
+    ],
+    "Futuro semplice": [
+      "io mangerò",
+      "tu mangerai",
+      "lui/lei mangerà",
+      "noi mangeremo",
+      "voi mangerete",
+      "loro mangeranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò mangiato",
+      "tu avrai mangiato",
+      "lui/lei avrà mangiato",
+      "noi avremo mangiato",
+      "voi avrete mangiato",
+      "loro avranno mangiato"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io mangerei",
+      "tu mangeresti",
+      "lui/lei mangerebbe",
+      "noi mangeremmo",
+      "voi mangereste",
+      "loro mangerebbero"
+    ],
+    "Passato": [
+      "io avrei mangiato",
+      "tu avresti mangiato",
+      "lui/lei avrebbe mangiato",
+      "noi avremmo mangiato",
+      "voi avreste mangiato",
+      "loro avrebbero mangiato"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io mangii",
+      "che tu mangii",
+      "che lui/lei mangii",
+      "che noi mangiiamo",
+      "che voi mangiiate",
+      "che loro mangiino"
+    ],
+    "Passato": [
+      "che io abbia mangiato",
+      "che tu abbia mangiato",
+      "che lui/lei abbia mangiato",
+      "che noi abbiamo mangiato",
+      "che voi abbiate mangiato",
+      "che loro abbiano mangiato"
+    ],
+    "Imperfetto": [
+      "che io mangiassi",
+      "che tu mangiassi",
+      "che lui/lei mangiasse",
+      "che noi mangiassimo",
+      "che voi mangiaste",
+      "che loro mangiassero"
+    ],
+    "Trapassato": [
+      "che io avessi mangiato",
+      "che tu avessi mangiato",
+      "che lui/lei avesse mangiato",
+      "che noi avessimo mangiato",
+      "che voi aveste mangiato",
+      "che loro avessero mangiato"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "mangia",
+      "mangii",
+      "mangiiamo",
+      "mangiate",
+      "mangiino"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "mangiare"
+    ],
+    "Passato": [
+      "avere mangiato"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "mangiante"
+    ],
+    "Passato": [
+      "mangiato"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "mangiando"
+    ],
+    "Passato": [
+      "avendo mangiato"
+    ]
+  }
+}

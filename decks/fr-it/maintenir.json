@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "maintenir",
+  "target_lemma": "mantenere",
+  "meta": {
+    "regularity": {
+      "fr": "irrégulier",
+      "it": "verbo irregolare"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io mantengo",
+      "tu mantieni",
+      "lui/lei mantiene",
+      "noi manteniamo",
+      "voi mantenete",
+      "loro mantengono"
+    ],
+    "Passato prossimo": [
+      "io ho mantenuto",
+      "tu hai mantenuto",
+      "lui/lei ha mantenuto",
+      "noi abbiamo mantenuto",
+      "voi avete mantenuto",
+      "loro hanno mantenuto"
+    ],
+    "Imperfetto": [
+      "io mantenvo",
+      "tu mantenvi",
+      "lui/lei mantenva",
+      "noi mantenvamo",
+      "voi mantenvate",
+      "loro mantenvano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo mantenuto",
+      "tu avevi mantenuto",
+      "lui/lei aveva mantenuto",
+      "noi avevamo mantenuto",
+      "voi avevate mantenuto",
+      "loro avevano mantenuto"
+    ],
+    "Passato remoto": [
+      "io mantenni",
+      "tu mantenesti",
+      "lui/lei mantenne",
+      "noi mantenemmo",
+      "voi manteneste",
+      "loro mantennero"
+    ],
+    "Trapassato remoto": [
+      "io ebbi mantenuto",
+      "tu avesti mantenuto",
+      "lui/lei ebbe mantenuto",
+      "noi avemmo mantenuto",
+      "voi aveste mantenuto",
+      "loro ebbero mantenuto"
+    ],
+    "Futuro semplice": [
+      "io manterrò",
+      "tu manterrai",
+      "lui/lei manterrà",
+      "noi manterremo",
+      "voi manterrete",
+      "loro manterranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò mantenuto",
+      "tu avrai mantenuto",
+      "lui/lei avrà mantenuto",
+      "noi avremo mantenuto",
+      "voi avrete mantenuto",
+      "loro avranno mantenuto"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io manterrei",
+      "tu manterresti",
+      "lui/lei manterrebbe",
+      "noi manterremmo",
+      "voi manterreste",
+      "loro manterrebbero"
+    ],
+    "Passato": [
+      "io avrei mantenuto",
+      "tu avresti mantenuto",
+      "lui/lei avrebbe mantenuto",
+      "noi avremmo mantenuto",
+      "voi avreste mantenuto",
+      "loro avrebbero mantenuto"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io mantenga",
+      "che tu mantenga",
+      "che lui/lei mantenga",
+      "che noi manteniamo",
+      "che voi manteniate",
+      "che loro mantengano"
+    ],
+    "Passato": [
+      "che io abbia mantenuto",
+      "che tu abbia mantenuto",
+      "che lui/lei abbia mantenuto",
+      "che noi abbiamo mantenuto",
+      "che voi abbiate mantenuto",
+      "che loro abbiano mantenuto"
+    ],
+    "Imperfetto": [
+      "che io mantenessi",
+      "che tu mantenessi",
+      "che lui/lei mantenesse",
+      "che noi mantenessimo",
+      "che voi mantenesste",
+      "che loro mantenessero"
+    ],
+    "Trapassato": [
+      "che io avessi mantenuto",
+      "che tu avessi mantenuto",
+      "che lui/lei avesse mantenuto",
+      "che noi avessimo mantenuto",
+      "che voi aveste mantenuto",
+      "che loro avessero mantenuto"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "mantieni",
+      "mantenga",
+      "manteniamo",
+      "mantenete",
+      "mantengano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "mantenere"
+    ],
+    "Passato": [
+      "avere mantenuto"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "mantenente"
+    ],
+    "Passato": [
+      "mantenuto"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "mantenendo"
+    ],
+    "Passato": [
+      "avendo mantenuto"
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "répondre",
+  "target_lemma": "rispondere",
+  "meta": {
+    "regularity": {
+      "fr": "2e groupe (-ere) avec irrégularités",
+      "it": "seconda coniugazione (-ere)"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io rispondo",
+      "tu rispondi",
+      "lui/lei risponde",
+      "noi rispondiamo",
+      "voi rispondete",
+      "loro rispondono"
+    ],
+    "Passato prossimo": [
+      "io ho risposto",
+      "tu hai risposto",
+      "lui/lei ha risposto",
+      "noi abbiamo risposto",
+      "voi avete risposto",
+      "loro hanno risposto"
+    ],
+    "Imperfetto": [
+      "io rispondevo",
+      "tu rispondevi",
+      "lui/lei rispondeva",
+      "noi rispondevamo",
+      "voi rispondevate",
+      "loro rispondevano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo risposto",
+      "tu avevi risposto",
+      "lui/lei aveva risposto",
+      "noi avevamo risposto",
+      "voi avevate risposto",
+      "loro avevano risposto"
+    ],
+    "Passato remoto": [
+      "io risposi",
+      "tu rispondesti",
+      "lui/lei rispose",
+      "noi rispondemmo",
+      "voi rispondeste",
+      "loro risposero"
+    ],
+    "Trapassato remoto": [
+      "io ebbi risposto",
+      "tu avesti risposto",
+      "lui/lei ebbe risposto",
+      "noi avemmo risposto",
+      "voi aveste risposto",
+      "loro ebbero risposto"
+    ],
+    "Futuro semplice": [
+      "io risponderò",
+      "tu risponderai",
+      "lui/lei risponderà",
+      "noi risponderemo",
+      "voi risponderete",
+      "loro risponderanno"
+    ],
+    "Futuro anteriore": [
+      "io avrò risposto",
+      "tu avrai risposto",
+      "lui/lei avrà risposto",
+      "noi avremo risposto",
+      "voi avrete risposto",
+      "loro avranno risposto"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io risponderei",
+      "tu risponderesti",
+      "lui/lei risponderebbe",
+      "noi risponderemmo",
+      "voi rispondereste",
+      "loro risponderebbero"
+    ],
+    "Passato": [
+      "io avrei risposto",
+      "tu avresti risposto",
+      "lui/lei avrebbe risposto",
+      "noi avremmo risposto",
+      "voi avreste risposto",
+      "loro avrebbero risposto"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io risponda",
+      "che tu risponda",
+      "che lui/lei risponda",
+      "che noi rispondiamo",
+      "che voi rispondiate",
+      "che loro rispondano"
+    ],
+    "Passato": [
+      "che io abbia risposto",
+      "che tu abbia risposto",
+      "che lui/lei abbia risposto",
+      "che noi abbiamo risposto",
+      "che voi abbiate risposto",
+      "che loro abbiano risposto"
+    ],
+    "Imperfetto": [
+      "che io rispondessi",
+      "che tu rispondessi",
+      "che lui/lei rispondesse",
+      "che noi rispondessimo",
+      "che voi rispondeste",
+      "che loro rispondessero"
+    ],
+    "Trapassato": [
+      "che io avessi risposto",
+      "che tu avessi risposto",
+      "che lui/lei avesse risposto",
+      "che noi avessimo risposto",
+      "che voi aveste risposto",
+      "che loro avessero risposto"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "rispondi",
+      "risponda",
+      "rispondiamo",
+      "rispondete",
+      "rispondano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "rispondere"
+    ],
+    "Passato": [
+      "avere risposto"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "rispondente"
+    ],
+    "Passato": [
+      "risposto"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "rispondendo"
+    ],
+    "Passato": [
+      "avendo risposto"
+    ]
+  }
+}

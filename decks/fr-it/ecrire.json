@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "écrire",
+  "target_lemma": "scrivere",
+  "meta": {
+    "regularity": {
+      "fr": "2e groupe (-ere) avec irrégularités",
+      "it": "seconda coniugazione (-ere)"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io scrivo",
+      "tu scrivi",
+      "lui/lei scrive",
+      "noi scriviamo",
+      "voi scrivete",
+      "loro scrivono"
+    ],
+    "Passato prossimo": [
+      "io ho scritto",
+      "tu hai scritto",
+      "lui/lei ha scritto",
+      "noi abbiamo scritto",
+      "voi avete scritto",
+      "loro hanno scritto"
+    ],
+    "Imperfetto": [
+      "io scrivevo",
+      "tu scrivevi",
+      "lui/lei scriveva",
+      "noi scrivevamo",
+      "voi scrivevate",
+      "loro scrivevano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo scritto",
+      "tu avevi scritto",
+      "lui/lei aveva scritto",
+      "noi avevamo scritto",
+      "voi avevate scritto",
+      "loro avevano scritto"
+    ],
+    "Passato remoto": [
+      "io scrissi",
+      "tu scrivesti",
+      "lui/lei scrisse",
+      "noi scrivemmo",
+      "voi scriveste",
+      "loro scrissero"
+    ],
+    "Trapassato remoto": [
+      "io ebbi scritto",
+      "tu avesti scritto",
+      "lui/lei ebbe scritto",
+      "noi avemmo scritto",
+      "voi aveste scritto",
+      "loro ebbero scritto"
+    ],
+    "Futuro semplice": [
+      "io scriverò",
+      "tu scriverai",
+      "lui/lei scriverà",
+      "noi scriveremo",
+      "voi scriverete",
+      "loro scriveranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò scritto",
+      "tu avrai scritto",
+      "lui/lei avrà scritto",
+      "noi avremo scritto",
+      "voi avrete scritto",
+      "loro avranno scritto"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io scriverei",
+      "tu scriveresti",
+      "lui/lei scriverebbe",
+      "noi scriveremmo",
+      "voi scrivereste",
+      "loro scriverebbero"
+    ],
+    "Passato": [
+      "io avrei scritto",
+      "tu avresti scritto",
+      "lui/lei avrebbe scritto",
+      "noi avremmo scritto",
+      "voi avreste scritto",
+      "loro avrebbero scritto"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io scriva",
+      "che tu scriva",
+      "che lui/lei scriva",
+      "che noi scriviamo",
+      "che voi scriviate",
+      "che loro scrivano"
+    ],
+    "Passato": [
+      "che io abbia scritto",
+      "che tu abbia scritto",
+      "che lui/lei abbia scritto",
+      "che noi abbiamo scritto",
+      "che voi abbiate scritto",
+      "che loro abbiano scritto"
+    ],
+    "Imperfetto": [
+      "che io scrivessi",
+      "che tu scrivessi",
+      "che lui/lei scrivesse",
+      "che noi scrivessimo",
+      "che voi scriveste",
+      "che loro scrivessero"
+    ],
+    "Trapassato": [
+      "che io avessi scritto",
+      "che tu avessi scritto",
+      "che lui/lei avesse scritto",
+      "che noi avessimo scritto",
+      "che voi aveste scritto",
+      "che loro avessero scritto"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "scrivi",
+      "scriva",
+      "scriviamo",
+      "scrivete",
+      "scrivano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "scrivere"
+    ],
+    "Passato": [
+      "avere scritto"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "scrivente"
+    ],
+    "Passato": [
+      "scritto"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "scrivendo"
+    ],
+    "Passato": [
+      "avendo scritto"
+    ]
+  }
+}

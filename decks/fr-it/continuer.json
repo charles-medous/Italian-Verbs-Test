@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "continuer",
+  "target_lemma": "continuare",
+  "meta": {
+    "regularity": {
+      "fr": "1er groupe régulier (approx.)",
+      "it": "prima coniugazione regolare"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io continuo",
+      "tu continui",
+      "lui/lei continua",
+      "noi continuiamo",
+      "voi continuate",
+      "loro continuano"
+    ],
+    "Passato prossimo": [
+      "io ho continuato",
+      "tu hai continuato",
+      "lui/lei ha continuato",
+      "noi abbiamo continuato",
+      "voi avete continuato",
+      "loro hanno continuato"
+    ],
+    "Imperfetto": [
+      "io continuavo",
+      "tu continuavi",
+      "lui/lei continuava",
+      "noi continuavamo",
+      "voi continuavate",
+      "loro continuavano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo continuato",
+      "tu avevi continuato",
+      "lui/lei aveva continuato",
+      "noi avevamo continuato",
+      "voi avevate continuato",
+      "loro avevano continuato"
+    ],
+    "Passato remoto": [
+      "io continuai",
+      "tu continuasti",
+      "lui/lei continuò",
+      "noi continuammo",
+      "voi continuaste",
+      "loro continuarono"
+    ],
+    "Trapassato remoto": [
+      "io ebbi continuato",
+      "tu avesti continuato",
+      "lui/lei ebbe continuato",
+      "noi avemmo continuato",
+      "voi aveste continuato",
+      "loro ebbero continuato"
+    ],
+    "Futuro semplice": [
+      "io continuerò",
+      "tu continuerai",
+      "lui/lei continuerà",
+      "noi continueremo",
+      "voi continuerete",
+      "loro continueranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò continuato",
+      "tu avrai continuato",
+      "lui/lei avrà continuato",
+      "noi avremo continuato",
+      "voi avrete continuato",
+      "loro avranno continuato"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io continuerei",
+      "tu continueresti",
+      "lui/lei continuerebbe",
+      "noi continueremmo",
+      "voi continuereste",
+      "loro continuerebbero"
+    ],
+    "Passato": [
+      "io avrei continuato",
+      "tu avresti continuato",
+      "lui/lei avrebbe continuato",
+      "noi avremmo continuato",
+      "voi avreste continuato",
+      "loro avrebbero continuato"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io continui",
+      "che tu continui",
+      "che lui/lei continui",
+      "che noi continuiamo",
+      "che voi continuiate",
+      "che loro continuino"
+    ],
+    "Passato": [
+      "che io abbia continuato",
+      "che tu abbia continuato",
+      "che lui/lei abbia continuato",
+      "che noi abbiamo continuato",
+      "che voi abbiate continuato",
+      "che loro abbiano continuato"
+    ],
+    "Imperfetto": [
+      "che io continuassi",
+      "che tu continuassi",
+      "che lui/lei continuasse",
+      "che noi continuassimo",
+      "che voi continuaste",
+      "che loro continuassero"
+    ],
+    "Trapassato": [
+      "che io avessi continuato",
+      "che tu avessi continuato",
+      "che lui/lei avesse continuato",
+      "che noi avessimo continuato",
+      "che voi aveste continuato",
+      "che loro avessero continuato"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "continua",
+      "continui",
+      "continuiamo",
+      "continuate",
+      "continuino"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "continuare"
+    ],
+    "Passato": [
+      "avere continuato"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "continuante"
+    ],
+    "Passato": [
+      "continuato"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "continuando"
+    ],
+    "Passato": [
+      "avendo continuato"
+    ]
+  }
+}

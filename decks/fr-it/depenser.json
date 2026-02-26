@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "dépenser",
+  "target_lemma": "spendere",
+  "meta": {
+    "regularity": {
+      "fr": "2e groupe (-ere) avec irrégularités",
+      "it": "seconda coniugazione (-ere)"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io spendo",
+      "tu spendi",
+      "lui/lei spende",
+      "noi spendiamo",
+      "voi spendete",
+      "loro spendono"
+    ],
+    "Passato prossimo": [
+      "io ho speso",
+      "tu hai speso",
+      "lui/lei ha speso",
+      "noi abbiamo speso",
+      "voi avete speso",
+      "loro hanno speso"
+    ],
+    "Imperfetto": [
+      "io spendevo",
+      "tu spendevi",
+      "lui/lei spendeva",
+      "noi spendevamo",
+      "voi spendevate",
+      "loro spendevano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo speso",
+      "tu avevi speso",
+      "lui/lei aveva speso",
+      "noi avevamo speso",
+      "voi avevate speso",
+      "loro avevano speso"
+    ],
+    "Passato remoto": [
+      "io spesi",
+      "tu spendesti",
+      "lui/lei spese",
+      "noi spendemmo",
+      "voi spendeste",
+      "loro spesero"
+    ],
+    "Trapassato remoto": [
+      "io ebbi speso",
+      "tu avesti speso",
+      "lui/lei ebbe speso",
+      "noi avemmo speso",
+      "voi aveste speso",
+      "loro ebbero speso"
+    ],
+    "Futuro semplice": [
+      "io spenderò",
+      "tu spenderai",
+      "lui/lei spenderà",
+      "noi spenderemo",
+      "voi spenderete",
+      "loro spenderanno"
+    ],
+    "Futuro anteriore": [
+      "io avrò speso",
+      "tu avrai speso",
+      "lui/lei avrà speso",
+      "noi avremo speso",
+      "voi avrete speso",
+      "loro avranno speso"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io spenderei",
+      "tu spenderesti",
+      "lui/lei spenderebbe",
+      "noi spenderemmo",
+      "voi spendereste",
+      "loro spenderebbero"
+    ],
+    "Passato": [
+      "io avrei speso",
+      "tu avresti speso",
+      "lui/lei avrebbe speso",
+      "noi avremmo speso",
+      "voi avreste speso",
+      "loro avrebbero speso"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io spenda",
+      "che tu spenda",
+      "che lui/lei spenda",
+      "che noi spendiamo",
+      "che voi spendiate",
+      "che loro spendano"
+    ],
+    "Passato": [
+      "che io abbia speso",
+      "che tu abbia speso",
+      "che lui/lei abbia speso",
+      "che noi abbiamo speso",
+      "che voi abbiate speso",
+      "che loro abbiano speso"
+    ],
+    "Imperfetto": [
+      "che io spendessi",
+      "che tu spendessi",
+      "che lui/lei spendesse",
+      "che noi spendessimo",
+      "che voi spendeste",
+      "che loro spendessero"
+    ],
+    "Trapassato": [
+      "che io avessi speso",
+      "che tu avessi speso",
+      "che lui/lei avesse speso",
+      "che noi avessimo speso",
+      "che voi aveste speso",
+      "che loro avessero speso"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "spendi",
+      "spenda",
+      "spendiamo",
+      "spendete",
+      "spendano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "spendere"
+    ],
+    "Passato": [
+      "avere speso"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "spendente"
+    ],
+    "Passato": [
+      "speso"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "spendendo"
+    ],
+    "Passato": [
+      "avendo speso"
+    ]
+  }
+}

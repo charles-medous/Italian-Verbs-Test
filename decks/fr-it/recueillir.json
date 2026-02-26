@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "recueillir",
+  "target_lemma": "raccogliere",
+  "meta": {
+    "regularity": {
+      "fr": "irrégulier",
+      "it": "verbo irregolare"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io raccolgo",
+      "tu raccogli",
+      "lui/lei raccoglie",
+      "noi raccogliamo",
+      "voi raccogliete",
+      "loro raccolgono"
+    ],
+    "Passato prossimo": [
+      "io ho raccolto",
+      "tu hai raccolto",
+      "lui/lei ha raccolto",
+      "noi abbiamo raccolto",
+      "voi avete raccolto",
+      "loro hanno raccolto"
+    ],
+    "Imperfetto": [
+      "io raccoglivo",
+      "tu raccoglivi",
+      "lui/lei raccogliva",
+      "noi raccoglivamo",
+      "voi raccoglivate",
+      "loro raccoglivano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo raccolto",
+      "tu avevi raccolto",
+      "lui/lei aveva raccolto",
+      "noi avevamo raccolto",
+      "voi avevate raccolto",
+      "loro avevano raccolto"
+    ],
+    "Passato remoto": [
+      "io raccolsi",
+      "tu raccogliesti",
+      "lui/lei raccolse",
+      "noi raccogliemmo",
+      "voi raccoglieste",
+      "loro raccolsero"
+    ],
+    "Trapassato remoto": [
+      "io ebbi raccolto",
+      "tu avesti raccolto",
+      "lui/lei ebbe raccolto",
+      "noi avemmo raccolto",
+      "voi aveste raccolto",
+      "loro ebbero raccolto"
+    ],
+    "Futuro semplice": [
+      "io raccoglierò",
+      "tu raccoglierai",
+      "lui/lei raccoglierà",
+      "noi raccoglieremo",
+      "voi raccoglierete",
+      "loro raccoglieranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò raccolto",
+      "tu avrai raccolto",
+      "lui/lei avrà raccolto",
+      "noi avremo raccolto",
+      "voi avrete raccolto",
+      "loro avranno raccolto"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io raccoglierei",
+      "tu raccoglieresti",
+      "lui/lei raccoglierebbe",
+      "noi raccoglieremmo",
+      "voi raccogliereste",
+      "loro raccoglierebbero"
+    ],
+    "Passato": [
+      "io avrei raccolto",
+      "tu avresti raccolto",
+      "lui/lei avrebbe raccolto",
+      "noi avremmo raccolto",
+      "voi avreste raccolto",
+      "loro avrebbero raccolto"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io raccolga",
+      "che tu raccolga",
+      "che lui/lei raccolga",
+      "che noi raccogliamo",
+      "che voi raccogliate",
+      "che loro raccolgano"
+    ],
+    "Passato": [
+      "che io abbia raccolto",
+      "che tu abbia raccolto",
+      "che lui/lei abbia raccolto",
+      "che noi abbiamo raccolto",
+      "che voi abbiate raccolto",
+      "che loro abbiano raccolto"
+    ],
+    "Imperfetto": [
+      "che io raccogliessi",
+      "che tu raccogliessi",
+      "che lui/lei raccogliesse",
+      "che noi raccogliessimo",
+      "che voi raccogliesste",
+      "che loro raccogliessero"
+    ],
+    "Trapassato": [
+      "che io avessi raccolto",
+      "che tu avessi raccolto",
+      "che lui/lei avesse raccolto",
+      "che noi avessimo raccolto",
+      "che voi aveste raccolto",
+      "che loro avessero raccolto"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "raccogli",
+      "raccolga",
+      "raccogliamo",
+      "raccogliete",
+      "raccolgano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "raccogliere"
+    ],
+    "Passato": [
+      "avere raccolto"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "raccogliente"
+    ],
+    "Passato": [
+      "raccolto"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "raccogliendo"
+    ],
+    "Passato": [
+      "avendo raccolto"
+    ]
+  }
+}

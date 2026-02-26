@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "construire",
+  "target_lemma": "costruire",
+  "meta": {
+    "regularity": {
+      "fr": "3e groupe (-ire)",
+      "it": "terza coniugazione (-ire) con -isc-"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io costruisco",
+      "tu costruisci",
+      "lui/lei costruisce",
+      "noi costruiamo",
+      "voi costruite",
+      "loro costruiscono"
+    ],
+    "Passato prossimo": [
+      "io ho costruito",
+      "tu hai costruito",
+      "lui/lei ha costruito",
+      "noi abbiamo costruito",
+      "voi avete costruito",
+      "loro hanno costruito"
+    ],
+    "Imperfetto": [
+      "io costruivo",
+      "tu costruivi",
+      "lui/lei costruiva",
+      "noi costruivamo",
+      "voi costruivate",
+      "loro costruivano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo costruito",
+      "tu avevi costruito",
+      "lui/lei aveva costruito",
+      "noi avevamo costruito",
+      "voi avevate costruito",
+      "loro avevano costruito"
+    ],
+    "Passato remoto": [
+      "io costruii",
+      "tu costruisti",
+      "lui/lei costruì",
+      "noi costruimmo",
+      "voi costruiste",
+      "loro costruirono"
+    ],
+    "Trapassato remoto": [
+      "io ebbi costruito",
+      "tu avesti costruito",
+      "lui/lei ebbe costruito",
+      "noi avemmo costruito",
+      "voi aveste costruito",
+      "loro ebbero costruito"
+    ],
+    "Futuro semplice": [
+      "io costruirò",
+      "tu costruirai",
+      "lui/lei costruirà",
+      "noi costruiremo",
+      "voi costruirete",
+      "loro costruiranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò costruito",
+      "tu avrai costruito",
+      "lui/lei avrà costruito",
+      "noi avremo costruito",
+      "voi avrete costruito",
+      "loro avranno costruito"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io costruirei",
+      "tu costruiresti",
+      "lui/lei costruirebbe",
+      "noi costruiremmo",
+      "voi costruireste",
+      "loro costruirebbero"
+    ],
+    "Passato": [
+      "io avrei costruito",
+      "tu avresti costruito",
+      "lui/lei avrebbe costruito",
+      "noi avremmo costruito",
+      "voi avreste costruito",
+      "loro avrebbero costruito"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io costruisca",
+      "che tu costruisca",
+      "che lui/lei costruisca",
+      "che noi costruiamo",
+      "che voi costruiate",
+      "che loro costruiscano"
+    ],
+    "Passato": [
+      "che io abbia costruito",
+      "che tu abbia costruito",
+      "che lui/lei abbia costruito",
+      "che noi abbiamo costruito",
+      "che voi abbiate costruito",
+      "che loro abbiano costruito"
+    ],
+    "Imperfetto": [
+      "che io costruissi",
+      "che tu costruissi",
+      "che lui/lei costruisse",
+      "che noi costruissimo",
+      "che voi costruiste",
+      "che loro costruissero"
+    ],
+    "Trapassato": [
+      "che io avessi costruito",
+      "che tu avessi costruito",
+      "che lui/lei avesse costruito",
+      "che noi avessimo costruito",
+      "che voi aveste costruito",
+      "che loro avessero costruito"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "costruisci",
+      "costruisca",
+      "costruiamo",
+      "costruite",
+      "costruiscano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "costruire"
+    ],
+    "Passato": [
+      "avere costruito"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "costruente"
+    ],
+    "Passato": [
+      "costruito"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "costruendo"
+    ],
+    "Passato": [
+      "avendo costruito"
+    ]
+  }
+}

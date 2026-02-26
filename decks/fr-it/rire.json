@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "rire",
+  "target_lemma": "ridere",
+  "meta": {
+    "regularity": {
+      "fr": "2e groupe (-ere) avec irrégularités",
+      "it": "seconda coniugazione (-ere)"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io rido",
+      "tu ridi",
+      "lui/lei ride",
+      "noi ridiamo",
+      "voi ridete",
+      "loro ridono"
+    ],
+    "Passato prossimo": [
+      "io ho riso",
+      "tu hai riso",
+      "lui/lei ha riso",
+      "noi abbiamo riso",
+      "voi avete riso",
+      "loro hanno riso"
+    ],
+    "Imperfetto": [
+      "io ridevo",
+      "tu ridevi",
+      "lui/lei rideva",
+      "noi ridevamo",
+      "voi ridevate",
+      "loro ridevano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo riso",
+      "tu avevi riso",
+      "lui/lei aveva riso",
+      "noi avevamo riso",
+      "voi avevate riso",
+      "loro avevano riso"
+    ],
+    "Passato remoto": [
+      "io risi",
+      "tu ridesti",
+      "lui/lei rise",
+      "noi ridemmo",
+      "voi rideste",
+      "loro risero"
+    ],
+    "Trapassato remoto": [
+      "io ebbi riso",
+      "tu avesti riso",
+      "lui/lei ebbe riso",
+      "noi avemmo riso",
+      "voi aveste riso",
+      "loro ebbero riso"
+    ],
+    "Futuro semplice": [
+      "io riderò",
+      "tu riderai",
+      "lui/lei riderà",
+      "noi rideremo",
+      "voi riderete",
+      "loro rideranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò riso",
+      "tu avrai riso",
+      "lui/lei avrà riso",
+      "noi avremo riso",
+      "voi avrete riso",
+      "loro avranno riso"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io riderei",
+      "tu rideresti",
+      "lui/lei riderebbe",
+      "noi rideremmo",
+      "voi ridereste",
+      "loro riderebbero"
+    ],
+    "Passato": [
+      "io avrei riso",
+      "tu avresti riso",
+      "lui/lei avrebbe riso",
+      "noi avremmo riso",
+      "voi avreste riso",
+      "loro avrebbero riso"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io rida",
+      "che tu rida",
+      "che lui/lei rida",
+      "che noi ridiamo",
+      "che voi ridiate",
+      "che loro ridano"
+    ],
+    "Passato": [
+      "che io abbia riso",
+      "che tu abbia riso",
+      "che lui/lei abbia riso",
+      "che noi abbiamo riso",
+      "che voi abbiate riso",
+      "che loro abbiano riso"
+    ],
+    "Imperfetto": [
+      "che io ridessi",
+      "che tu ridessi",
+      "che lui/lei ridesse",
+      "che noi ridessimo",
+      "che voi rideste",
+      "che loro ridessero"
+    ],
+    "Trapassato": [
+      "che io avessi riso",
+      "che tu avessi riso",
+      "che lui/lei avesse riso",
+      "che noi avessimo riso",
+      "che voi aveste riso",
+      "che loro avessero riso"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "ridi",
+      "rida",
+      "ridiamo",
+      "ridete",
+      "ridano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "ridere"
+    ],
+    "Passato": [
+      "avere riso"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "ridente"
+    ],
+    "Passato": [
+      "riso"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "ridendo"
+    ],
+    "Passato": [
+      "avendo riso"
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "être",
+  "target_lemma": "essere",
+  "meta": {
+    "regularity": {
+      "fr": "irrégulier",
+      "it": "verbo irregolare"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io sono",
+      "tu sei",
+      "lui/lei è",
+      "noi siamo",
+      "voi siete",
+      "loro sono"
+    ],
+    "Passato prossimo": [
+      "io ho stato",
+      "tu hai stato",
+      "lui/lei ha stato",
+      "noi abbiamo stato",
+      "voi avete stato",
+      "loro hanno stato"
+    ],
+    "Imperfetto": [
+      "io ero",
+      "tu eri",
+      "lui/lei era",
+      "noi eravamo",
+      "voi eravate",
+      "loro erano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo stato",
+      "tu avevi stato",
+      "lui/lei aveva stato",
+      "noi avevamo stato",
+      "voi avevate stato",
+      "loro avevano stato"
+    ],
+    "Passato remoto": [
+      "io fui",
+      "tu fosti",
+      "lui/lei fu",
+      "noi fummo",
+      "voi foste",
+      "loro furono"
+    ],
+    "Trapassato remoto": [
+      "io ebbi stato",
+      "tu avesti stato",
+      "lui/lei ebbe stato",
+      "noi avemmo stato",
+      "voi aveste stato",
+      "loro ebbero stato"
+    ],
+    "Futuro semplice": [
+      "io sarò",
+      "tu sarai",
+      "lui/lei sarà",
+      "noi saremo",
+      "voi sarete",
+      "loro saranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò stato",
+      "tu avrai stato",
+      "lui/lei avrà stato",
+      "noi avremo stato",
+      "voi avrete stato",
+      "loro avranno stato"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io sarei",
+      "tu saresti",
+      "lui/lei sarebbe",
+      "noi saremmo",
+      "voi sareste",
+      "loro sarebbero"
+    ],
+    "Passato": [
+      "io avrei stato",
+      "tu avresti stato",
+      "lui/lei avrebbe stato",
+      "noi avremmo stato",
+      "voi avreste stato",
+      "loro avrebbero stato"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io sia",
+      "che tu sia",
+      "che lui/lei sia",
+      "che noi siamo",
+      "che voi siate",
+      "che loro siano"
+    ],
+    "Passato": [
+      "che io abbia stato",
+      "che tu abbia stato",
+      "che lui/lei abbia stato",
+      "che noi abbiamo stato",
+      "che voi abbiate stato",
+      "che loro abbiano stato"
+    ],
+    "Imperfetto": [
+      "che io fossi",
+      "che tu fossi",
+      "che lui/lei fosse",
+      "che noi fossimo",
+      "che voi fosste",
+      "che loro fossero"
+    ],
+    "Trapassato": [
+      "che io avessi stato",
+      "che tu avessi stato",
+      "che lui/lei avesse stato",
+      "che noi avessimo stato",
+      "che voi aveste stato",
+      "che loro avessero stato"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "sii",
+      "sia",
+      "siamo",
+      "siate",
+      "siano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "essere"
+    ],
+    "Passato": [
+      "avere stato"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "essente"
+    ],
+    "Passato": [
+      "stato"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "essendo"
+    ],
+    "Passato": [
+      "avendo stato"
+    ]
+  }
+}

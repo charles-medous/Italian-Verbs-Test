@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "boire",
+  "target_lemma": "bere",
+  "meta": {
+    "regularity": {
+      "fr": "irrégulier",
+      "it": "verbo irregolare"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io bevo",
+      "tu bevi",
+      "lui/lei beve",
+      "noi beviamo",
+      "voi bevete",
+      "loro bevono"
+    ],
+    "Passato prossimo": [
+      "io ho bevuto",
+      "tu hai bevuto",
+      "lui/lei ha bevuto",
+      "noi abbiamo bevuto",
+      "voi avete bevuto",
+      "loro hanno bevuto"
+    ],
+    "Imperfetto": [
+      "io bevevo",
+      "tu bevevi",
+      "lui/lei beveva",
+      "noi bevevamo",
+      "voi bevevate",
+      "loro bevevano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo bevuto",
+      "tu avevi bevuto",
+      "lui/lei aveva bevuto",
+      "noi avevamo bevuto",
+      "voi avevate bevuto",
+      "loro avevano bevuto"
+    ],
+    "Passato remoto": [
+      "io bevvi",
+      "tu bevesti",
+      "lui/lei bevve",
+      "noi bevemmo",
+      "voi beveste",
+      "loro bevvero"
+    ],
+    "Trapassato remoto": [
+      "io ebbi bevuto",
+      "tu avesti bevuto",
+      "lui/lei ebbe bevuto",
+      "noi avemmo bevuto",
+      "voi aveste bevuto",
+      "loro ebbero bevuto"
+    ],
+    "Futuro semplice": [
+      "io berrò",
+      "tu berrai",
+      "lui/lei berrà",
+      "noi berremo",
+      "voi berrete",
+      "loro berranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò bevuto",
+      "tu avrai bevuto",
+      "lui/lei avrà bevuto",
+      "noi avremo bevuto",
+      "voi avrete bevuto",
+      "loro avranno bevuto"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io berrei",
+      "tu berresti",
+      "lui/lei berrebbe",
+      "noi berremmo",
+      "voi berreste",
+      "loro berrebbero"
+    ],
+    "Passato": [
+      "io avrei bevuto",
+      "tu avresti bevuto",
+      "lui/lei avrebbe bevuto",
+      "noi avremmo bevuto",
+      "voi avreste bevuto",
+      "loro avrebbero bevuto"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io beva",
+      "che tu beva",
+      "che lui/lei beva",
+      "che noi beviamo",
+      "che voi beviate",
+      "che loro bevano"
+    ],
+    "Passato": [
+      "che io abbia bevuto",
+      "che tu abbia bevuto",
+      "che lui/lei abbia bevuto",
+      "che noi abbiamo bevuto",
+      "che voi abbiate bevuto",
+      "che loro abbiano bevuto"
+    ],
+    "Imperfetto": [
+      "che io bevessi",
+      "che tu bevessi",
+      "che lui/lei bevesse",
+      "che noi bevessimo",
+      "che voi bevesste",
+      "che loro bevessero"
+    ],
+    "Trapassato": [
+      "che io avessi bevuto",
+      "che tu avessi bevuto",
+      "che lui/lei avesse bevuto",
+      "che noi avessimo bevuto",
+      "che voi aveste bevuto",
+      "che loro avessero bevuto"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "bevi",
+      "beva",
+      "beviamo",
+      "bevete",
+      "bevano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "bere"
+    ],
+    "Passato": [
+      "avere bevuto"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "bente"
+    ],
+    "Passato": [
+      "bevuto"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "bevendo"
+    ],
+    "Passato": [
+      "avendo bevuto"
+    ]
+  }
+}

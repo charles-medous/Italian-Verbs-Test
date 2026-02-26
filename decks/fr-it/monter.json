@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "monter",
+  "target_lemma": "salire",
+  "meta": {
+    "regularity": {
+      "fr": "irrégulier",
+      "it": "verbo irregolare"
+    },
+    "auxiliary": {
+      "fr": "être",
+      "it": "essere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io salgo",
+      "tu sali",
+      "lui/lei sale",
+      "noi saliamo",
+      "voi salite",
+      "loro salgono"
+    ],
+    "Passato prossimo": [
+      "io sono saliti",
+      "tu sei salito",
+      "lui/lei è salito",
+      "noi siamo saliti",
+      "voi siete saliti",
+      "loro sono saliti"
+    ],
+    "Imperfetto": [
+      "io salvo",
+      "tu salvi",
+      "lui/lei salva",
+      "noi salvamo",
+      "voi salvate",
+      "loro salvano"
+    ],
+    "Trapassato prossimo": [
+      "io ero salito",
+      "tu eri salito",
+      "lui/lei era salito",
+      "noi eravamo saliti",
+      "voi eravate saliti",
+      "loro erano saliti"
+    ],
+    "Passato remoto": [
+      "io salii",
+      "tu salisti",
+      "lui/lei salì",
+      "noi salimmo",
+      "voi saliste",
+      "loro salirono"
+    ],
+    "Trapassato remoto": [
+      "io fui salito",
+      "tu fosti salito",
+      "lui/lei fu salito",
+      "noi fummo saliti",
+      "voi foste saliti",
+      "loro furono saliti"
+    ],
+    "Futuro semplice": [
+      "io salirò",
+      "tu salirai",
+      "lui/lei salirà",
+      "noi saliremo",
+      "voi salirete",
+      "loro saliranno"
+    ],
+    "Futuro anteriore": [
+      "io sarò salito",
+      "tu sarai salito",
+      "lui/lei sarà salito",
+      "noi saremo saliti",
+      "voi sarete saliti",
+      "loro saranno saliti"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io salirei",
+      "tu saliresti",
+      "lui/lei salirebbe",
+      "noi saliremmo",
+      "voi salireste",
+      "loro salirebbero"
+    ],
+    "Passato": [
+      "io sarei salito",
+      "tu saresti salito",
+      "lui/lei sarebbe salito",
+      "noi saremmo saliti",
+      "voi sareste saliti",
+      "loro sarebbero salito"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io salga",
+      "che tu salga",
+      "che lui/lei salga",
+      "che noi saliamo",
+      "che voi salite",
+      "che loro salgano"
+    ],
+    "Passato": [
+      "che io sia salito",
+      "che tu sia salito",
+      "che lui/lei sia salito",
+      "che noi siamo salito",
+      "che voi siate salito",
+      "che loro siano salito"
+    ],
+    "Imperfetto": [
+      "che io salissi",
+      "che tu salissi",
+      "che lui/lei salisse",
+      "che noi salissimo",
+      "che voi salisste",
+      "che loro salissero"
+    ],
+    "Trapassato": [
+      "che io fossi salito",
+      "che tu fossi salito",
+      "che lui/lei fosse salito",
+      "che noi fossimo salito",
+      "che voi foste salito",
+      "che loro fossero salito"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "sali",
+      "salga",
+      "saliamo",
+      "salite",
+      "salgano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "salire"
+    ],
+    "Passato": [
+      "essere salito"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "salente"
+    ],
+    "Passato": [
+      "salito"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "salendo"
+    ],
+    "Passato": [
+      "essendo salito"
+    ]
+  }
+}

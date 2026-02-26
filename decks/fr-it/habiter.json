@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "habiter",
+  "target_lemma": "abitare",
+  "meta": {
+    "regularity": {
+      "fr": "1er groupe régulier (approx.)",
+      "it": "prima coniugazione regolare"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io abito",
+      "tu abiti",
+      "lui/lei abita",
+      "noi abitiamo",
+      "voi abitate",
+      "loro abitano"
+    ],
+    "Passato prossimo": [
+      "io ho abitato",
+      "tu hai abitato",
+      "lui/lei ha abitato",
+      "noi abbiamo abitato",
+      "voi avete abitato",
+      "loro hanno abitato"
+    ],
+    "Imperfetto": [
+      "io abitavo",
+      "tu abitavi",
+      "lui/lei abitava",
+      "noi abitavamo",
+      "voi abitavate",
+      "loro abitavano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo abitato",
+      "tu avevi abitato",
+      "lui/lei aveva abitato",
+      "noi avevamo abitato",
+      "voi avevate abitato",
+      "loro avevano abitato"
+    ],
+    "Passato remoto": [
+      "io abitai",
+      "tu abitasti",
+      "lui/lei abitò",
+      "noi abitammo",
+      "voi abitaste",
+      "loro abitarono"
+    ],
+    "Trapassato remoto": [
+      "io ebbi abitato",
+      "tu avesti abitato",
+      "lui/lei ebbe abitato",
+      "noi avemmo abitato",
+      "voi aveste abitato",
+      "loro ebbero abitato"
+    ],
+    "Futuro semplice": [
+      "io abiterò",
+      "tu abiterai",
+      "lui/lei abiterà",
+      "noi abiteremo",
+      "voi abiterete",
+      "loro abiteranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò abitato",
+      "tu avrai abitato",
+      "lui/lei avrà abitato",
+      "noi avremo abitato",
+      "voi avrete abitato",
+      "loro avranno abitato"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io abiterei",
+      "tu abiteresti",
+      "lui/lei abiterebbe",
+      "noi abiteremmo",
+      "voi abitereste",
+      "loro abiterebbero"
+    ],
+    "Passato": [
+      "io avrei abitato",
+      "tu avresti abitato",
+      "lui/lei avrebbe abitato",
+      "noi avremmo abitato",
+      "voi avreste abitato",
+      "loro avrebbero abitato"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io abiti",
+      "che tu abiti",
+      "che lui/lei abiti",
+      "che noi abitiamo",
+      "che voi abitiate",
+      "che loro abitino"
+    ],
+    "Passato": [
+      "che io abbia abitato",
+      "che tu abbia abitato",
+      "che lui/lei abbia abitato",
+      "che noi abbiamo abitato",
+      "che voi abbiate abitato",
+      "che loro abbiano abitato"
+    ],
+    "Imperfetto": [
+      "che io abitassi",
+      "che tu abitassi",
+      "che lui/lei abitasse",
+      "che noi abitassimo",
+      "che voi abitaste",
+      "che loro abitassero"
+    ],
+    "Trapassato": [
+      "che io avessi abitato",
+      "che tu avessi abitato",
+      "che lui/lei avesse abitato",
+      "che noi avessimo abitato",
+      "che voi aveste abitato",
+      "che loro avessero abitato"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "abita",
+      "abiti",
+      "abitiamo",
+      "abitate",
+      "abitino"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "abitare"
+    ],
+    "Passato": [
+      "avere abitato"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "abitante"
+    ],
+    "Passato": [
+      "abitato"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "abitando"
+    ],
+    "Passato": [
+      "avendo abitato"
+    ]
+  }
+}

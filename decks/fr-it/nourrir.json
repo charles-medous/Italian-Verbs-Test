@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "nourrir",
+  "target_lemma": "nutrire",
+  "meta": {
+    "regularity": {
+      "fr": "3e groupe (-ire)",
+      "it": "terza coniugazione (-ire)"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io nutro",
+      "tu nutri",
+      "lui/lei nutre",
+      "noi nutriamo",
+      "voi nutrite",
+      "loro nutrono"
+    ],
+    "Passato prossimo": [
+      "io ho nutrito",
+      "tu hai nutrito",
+      "lui/lei ha nutrito",
+      "noi abbiamo nutrito",
+      "voi avete nutrito",
+      "loro hanno nutrito"
+    ],
+    "Imperfetto": [
+      "io nutrivo",
+      "tu nutrivi",
+      "lui/lei nutriva",
+      "noi nutrivamo",
+      "voi nutrivate",
+      "loro nutrivano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo nutrito",
+      "tu avevi nutrito",
+      "lui/lei aveva nutrito",
+      "noi avevamo nutrito",
+      "voi avevate nutrito",
+      "loro avevano nutrito"
+    ],
+    "Passato remoto": [
+      "io nutrii",
+      "tu nutristi",
+      "lui/lei nutrì",
+      "noi nutrimmo",
+      "voi nutriste",
+      "loro nutrirono"
+    ],
+    "Trapassato remoto": [
+      "io ebbi nutrito",
+      "tu avesti nutrito",
+      "lui/lei ebbe nutrito",
+      "noi avemmo nutrito",
+      "voi aveste nutrito",
+      "loro ebbero nutrito"
+    ],
+    "Futuro semplice": [
+      "io nutrirò",
+      "tu nutrirai",
+      "lui/lei nutrirà",
+      "noi nutriremo",
+      "voi nutrirete",
+      "loro nutriranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò nutrito",
+      "tu avrai nutrito",
+      "lui/lei avrà nutrito",
+      "noi avremo nutrito",
+      "voi avrete nutrito",
+      "loro avranno nutrito"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io nutrirei",
+      "tu nutriresti",
+      "lui/lei nutrirebbe",
+      "noi nutriremmo",
+      "voi nutrireste",
+      "loro nutrirebbero"
+    ],
+    "Passato": [
+      "io avrei nutrito",
+      "tu avresti nutrito",
+      "lui/lei avrebbe nutrito",
+      "noi avremmo nutrito",
+      "voi avreste nutrito",
+      "loro avrebbero nutrito"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io nutra",
+      "che tu nutra",
+      "che lui/lei nutra",
+      "che noi nutriamo",
+      "che voi nutriate",
+      "che loro nutrano"
+    ],
+    "Passato": [
+      "che io abbia nutrito",
+      "che tu abbia nutrito",
+      "che lui/lei abbia nutrito",
+      "che noi abbiamo nutrito",
+      "che voi abbiate nutrito",
+      "che loro abbiano nutrito"
+    ],
+    "Imperfetto": [
+      "che io nutrissi",
+      "che tu nutrissi",
+      "che lui/lei nutrisse",
+      "che noi nutrissimo",
+      "che voi nutriste",
+      "che loro nutrissero"
+    ],
+    "Trapassato": [
+      "che io avessi nutrito",
+      "che tu avessi nutrito",
+      "che lui/lei avesse nutrito",
+      "che noi avessimo nutrito",
+      "che voi aveste nutrito",
+      "che loro avessero nutrito"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "nutri",
+      "nutra",
+      "nutriamo",
+      "nutrite",
+      "nutrano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "nutrire"
+    ],
+    "Passato": [
+      "avere nutrito"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "nutrente"
+    ],
+    "Passato": [
+      "nutrito"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "nutrendo"
+    ],
+    "Passato": [
+      "avendo nutrito"
+    ]
+  }
+}

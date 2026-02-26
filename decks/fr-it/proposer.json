@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "proposer",
+  "target_lemma": "proporre",
+  "meta": {
+    "regularity": {
+      "fr": "irrégulier",
+      "it": "verbo irregolare"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io propongo",
+      "tu proponi",
+      "lui/lei propone",
+      "noi proponiamo",
+      "voi proponete",
+      "loro propongono"
+    ],
+    "Passato prossimo": [
+      "io ho proposto",
+      "tu hai proposto",
+      "lui/lei ha proposto",
+      "noi abbiamo proposto",
+      "voi avete proposto",
+      "loro hanno proposto"
+    ],
+    "Imperfetto": [
+      "io proponevo",
+      "tu proponevi",
+      "lui/lei proponeva",
+      "noi proponevamo",
+      "voi proponevate",
+      "loro proponevano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo proposto",
+      "tu avevi proposto",
+      "lui/lei aveva proposto",
+      "noi avevamo proposto",
+      "voi avevate proposto",
+      "loro avevano proposto"
+    ],
+    "Passato remoto": [
+      "io proposi",
+      "tu proponesti",
+      "lui/lei propose",
+      "noi proponemmo",
+      "voi proponeste",
+      "loro proposero"
+    ],
+    "Trapassato remoto": [
+      "io ebbi proposto",
+      "tu avesti proposto",
+      "lui/lei ebbe proposto",
+      "noi avemmo proposto",
+      "voi aveste proposto",
+      "loro ebbero proposto"
+    ],
+    "Futuro semplice": [
+      "io proporrò",
+      "tu proporrai",
+      "lui/lei proporrà",
+      "noi proporremo",
+      "voi proporrete",
+      "loro proporranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò proposto",
+      "tu avrai proposto",
+      "lui/lei avrà proposto",
+      "noi avremo proposto",
+      "voi avrete proposto",
+      "loro avranno proposto"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io proporrei",
+      "tu proporresti",
+      "lui/lei proporrebbe",
+      "noi proporremmo",
+      "voi proporreste",
+      "loro proporrebbero"
+    ],
+    "Passato": [
+      "io avrei proposto",
+      "tu avresti proposto",
+      "lui/lei avrebbe proposto",
+      "noi avremmo proposto",
+      "voi avreste proposto",
+      "loro avrebbero proposto"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io proponga",
+      "che tu proponga",
+      "che lui/lei proponga",
+      "che noi proponiamo",
+      "che voi proponiate",
+      "che loro propongano"
+    ],
+    "Passato": [
+      "che io abbia proposto",
+      "che tu abbia proposto",
+      "che lui/lei abbia proposto",
+      "che noi abbiamo proposto",
+      "che voi abbiate proposto",
+      "che loro abbiano proposto"
+    ],
+    "Imperfetto": [
+      "che io proponessi",
+      "che tu proponessi",
+      "che lui/lei proponesse",
+      "che noi proponessimo",
+      "che voi proponesste",
+      "che loro proponessero"
+    ],
+    "Trapassato": [
+      "che io avessi proposto",
+      "che tu avessi proposto",
+      "che lui/lei avesse proposto",
+      "che noi avessimo proposto",
+      "che voi aveste proposto",
+      "che loro avessero proposto"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "proponi",
+      "proponga",
+      "proponiamo",
+      "proponete",
+      "propongano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "proporre"
+    ],
+    "Passato": [
+      "avere proposto"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "propoente"
+    ],
+    "Passato": [
+      "proposto"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "proponendo"
+    ],
+    "Passato": [
+      "avendo proposto"
+    ]
+  }
+}

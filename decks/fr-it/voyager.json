@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "voyager",
+  "target_lemma": "viaggiare",
+  "meta": {
+    "regularity": {
+      "fr": "1er groupe régulier (approx.)",
+      "it": "prima coniugazione regolare (ciare/giare)"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io viaggio",
+      "tu viaggii",
+      "lui/lei viaggia",
+      "noi viaggiiamo",
+      "voi viaggiate",
+      "loro viaggiano"
+    ],
+    "Passato prossimo": [
+      "io ho viaggiato",
+      "tu hai viaggiato",
+      "lui/lei ha viaggiato",
+      "noi abbiamo viaggiato",
+      "voi avete viaggiato",
+      "loro hanno viaggiato"
+    ],
+    "Imperfetto": [
+      "io viaggiavo",
+      "tu viaggiavi",
+      "lui/lei viaggiava",
+      "noi viaggiavamo",
+      "voi viaggiavate",
+      "loro viaggiavano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo viaggiato",
+      "tu avevi viaggiato",
+      "lui/lei aveva viaggiato",
+      "noi avevamo viaggiato",
+      "voi avevate viaggiato",
+      "loro avevano viaggiato"
+    ],
+    "Passato remoto": [
+      "io viaggiai",
+      "tu viaggiasti",
+      "lui/lei viaggiò",
+      "noi viaggiammo",
+      "voi viaggiaste",
+      "loro viaggiarono"
+    ],
+    "Trapassato remoto": [
+      "io ebbi viaggiato",
+      "tu avesti viaggiato",
+      "lui/lei ebbe viaggiato",
+      "noi avemmo viaggiato",
+      "voi aveste viaggiato",
+      "loro ebbero viaggiato"
+    ],
+    "Futuro semplice": [
+      "io viaggerò",
+      "tu viaggerai",
+      "lui/lei viaggerà",
+      "noi viaggeremo",
+      "voi viaggerete",
+      "loro viaggeranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò viaggiato",
+      "tu avrai viaggiato",
+      "lui/lei avrà viaggiato",
+      "noi avremo viaggiato",
+      "voi avrete viaggiato",
+      "loro avranno viaggiato"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io viaggerei",
+      "tu viaggeresti",
+      "lui/lei viaggerebbe",
+      "noi viaggeremmo",
+      "voi viaggereste",
+      "loro viaggerebbero"
+    ],
+    "Passato": [
+      "io avrei viaggiato",
+      "tu avresti viaggiato",
+      "lui/lei avrebbe viaggiato",
+      "noi avremmo viaggiato",
+      "voi avreste viaggiato",
+      "loro avrebbero viaggiato"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io viaggii",
+      "che tu viaggii",
+      "che lui/lei viaggii",
+      "che noi viaggiiamo",
+      "che voi viaggiiate",
+      "che loro viaggiino"
+    ],
+    "Passato": [
+      "che io abbia viaggiato",
+      "che tu abbia viaggiato",
+      "che lui/lei abbia viaggiato",
+      "che noi abbiamo viaggiato",
+      "che voi abbiate viaggiato",
+      "che loro abbiano viaggiato"
+    ],
+    "Imperfetto": [
+      "che io viaggiassi",
+      "che tu viaggiassi",
+      "che lui/lei viaggiasse",
+      "che noi viaggiassimo",
+      "che voi viaggiaste",
+      "che loro viaggiassero"
+    ],
+    "Trapassato": [
+      "che io avessi viaggiato",
+      "che tu avessi viaggiato",
+      "che lui/lei avesse viaggiato",
+      "che noi avessimo viaggiato",
+      "che voi aveste viaggiato",
+      "che loro avessero viaggiato"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "viaggia",
+      "viaggii",
+      "viaggiiamo",
+      "viaggiate",
+      "viaggiino"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "viaggiare"
+    ],
+    "Passato": [
+      "avere viaggiato"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "viaggiante"
+    ],
+    "Passato": [
+      "viaggiato"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "viaggiando"
+    ],
+    "Passato": [
+      "avendo viaggiato"
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "arrêter",
+  "target_lemma": "fermare",
+  "meta": {
+    "regularity": {
+      "fr": "1er groupe régulier (approx.)",
+      "it": "prima coniugazione regolare"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io fermo",
+      "tu fermi",
+      "lui/lei ferma",
+      "noi fermiamo",
+      "voi fermate",
+      "loro fermano"
+    ],
+    "Passato prossimo": [
+      "io ho fermato",
+      "tu hai fermato",
+      "lui/lei ha fermato",
+      "noi abbiamo fermato",
+      "voi avete fermato",
+      "loro hanno fermato"
+    ],
+    "Imperfetto": [
+      "io fermavo",
+      "tu fermavi",
+      "lui/lei fermava",
+      "noi fermavamo",
+      "voi fermavate",
+      "loro fermavano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo fermato",
+      "tu avevi fermato",
+      "lui/lei aveva fermato",
+      "noi avevamo fermato",
+      "voi avevate fermato",
+      "loro avevano fermato"
+    ],
+    "Passato remoto": [
+      "io fermai",
+      "tu fermasti",
+      "lui/lei fermò",
+      "noi fermammo",
+      "voi fermaste",
+      "loro fermarono"
+    ],
+    "Trapassato remoto": [
+      "io ebbi fermato",
+      "tu avesti fermato",
+      "lui/lei ebbe fermato",
+      "noi avemmo fermato",
+      "voi aveste fermato",
+      "loro ebbero fermato"
+    ],
+    "Futuro semplice": [
+      "io fermerò",
+      "tu fermerai",
+      "lui/lei fermerà",
+      "noi fermeremo",
+      "voi fermerete",
+      "loro fermeranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò fermato",
+      "tu avrai fermato",
+      "lui/lei avrà fermato",
+      "noi avremo fermato",
+      "voi avrete fermato",
+      "loro avranno fermato"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io fermerei",
+      "tu fermeresti",
+      "lui/lei fermerebbe",
+      "noi fermeremmo",
+      "voi fermereste",
+      "loro fermerebbero"
+    ],
+    "Passato": [
+      "io avrei fermato",
+      "tu avresti fermato",
+      "lui/lei avrebbe fermato",
+      "noi avremmo fermato",
+      "voi avreste fermato",
+      "loro avrebbero fermato"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io fermi",
+      "che tu fermi",
+      "che lui/lei fermi",
+      "che noi fermiamo",
+      "che voi fermiate",
+      "che loro fermino"
+    ],
+    "Passato": [
+      "che io abbia fermato",
+      "che tu abbia fermato",
+      "che lui/lei abbia fermato",
+      "che noi abbiamo fermato",
+      "che voi abbiate fermato",
+      "che loro abbiano fermato"
+    ],
+    "Imperfetto": [
+      "che io fermassi",
+      "che tu fermassi",
+      "che lui/lei fermasse",
+      "che noi fermassimo",
+      "che voi fermaste",
+      "che loro fermassero"
+    ],
+    "Trapassato": [
+      "che io avessi fermato",
+      "che tu avessi fermato",
+      "che lui/lei avesse fermato",
+      "che noi avessimo fermato",
+      "che voi aveste fermato",
+      "che loro avessero fermato"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "ferma",
+      "fermi",
+      "fermiamo",
+      "fermate",
+      "fermino"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "fermare"
+    ],
+    "Passato": [
+      "avere fermato"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "fermante"
+    ],
+    "Passato": [
+      "fermato"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "fermando"
+    ],
+    "Passato": [
+      "avendo fermato"
+    ]
+  }
+}

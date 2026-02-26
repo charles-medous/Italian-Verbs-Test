@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "partir",
+  "target_lemma": "partire",
+  "meta": {
+    "regularity": {
+      "fr": "3e groupe (-ire)",
+      "it": "terza coniugazione (-ire)"
+    },
+    "auxiliary": {
+      "fr": "être",
+      "it": "essere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io parto",
+      "tu parti",
+      "lui/lei parte",
+      "noi partiamo",
+      "voi partite",
+      "loro partono"
+    ],
+    "Passato prossimo": [
+      "io sono partiti",
+      "tu sei partito",
+      "lui/lei è partito",
+      "noi siamo partiti",
+      "voi siete partiti",
+      "loro sono partiti"
+    ],
+    "Imperfetto": [
+      "io partivo",
+      "tu partivi",
+      "lui/lei partiva",
+      "noi partivamo",
+      "voi partivate",
+      "loro partivano"
+    ],
+    "Trapassato prossimo": [
+      "io ero partito",
+      "tu eri partito",
+      "lui/lei era partito",
+      "noi eravamo partiti",
+      "voi eravate partiti",
+      "loro erano partiti"
+    ],
+    "Passato remoto": [
+      "io partii",
+      "tu partisti",
+      "lui/lei partì",
+      "noi partimmo",
+      "voi partiste",
+      "loro partirono"
+    ],
+    "Trapassato remoto": [
+      "io fui partito",
+      "tu fosti partito",
+      "lui/lei fu partito",
+      "noi fummo partiti",
+      "voi foste partiti",
+      "loro furono partiti"
+    ],
+    "Futuro semplice": [
+      "io partirò",
+      "tu partirai",
+      "lui/lei partirà",
+      "noi partiremo",
+      "voi partirete",
+      "loro partiranno"
+    ],
+    "Futuro anteriore": [
+      "io sarò partito",
+      "tu sarai partito",
+      "lui/lei sarà partito",
+      "noi saremo partiti",
+      "voi sarete partiti",
+      "loro saranno partiti"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io partirei",
+      "tu partiresti",
+      "lui/lei partirebbe",
+      "noi partiremmo",
+      "voi partireste",
+      "loro partirebbero"
+    ],
+    "Passato": [
+      "io sarei partito",
+      "tu saresti partito",
+      "lui/lei sarebbe partito",
+      "noi saremmo partiti",
+      "voi sareste partiti",
+      "loro sarebbero partito"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io parta",
+      "che tu parta",
+      "che lui/lei parta",
+      "che noi partiamo",
+      "che voi partiate",
+      "che loro partano"
+    ],
+    "Passato": [
+      "che io sia partito",
+      "che tu sia partito",
+      "che lui/lei sia partito",
+      "che noi siamo partito",
+      "che voi siate partito",
+      "che loro siano partito"
+    ],
+    "Imperfetto": [
+      "che io partissi",
+      "che tu partissi",
+      "che lui/lei partisse",
+      "che noi partissimo",
+      "che voi partiste",
+      "che loro partissero"
+    ],
+    "Trapassato": [
+      "che io fossi partito",
+      "che tu fossi partito",
+      "che lui/lei fosse partito",
+      "che noi fossimo partito",
+      "che voi foste partito",
+      "che loro fossero partito"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "parti",
+      "parta",
+      "partiamo",
+      "partite",
+      "partano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "partire"
+    ],
+    "Passato": [
+      "essere partito"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "partente"
+    ],
+    "Passato": [
+      "partito"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "partendo"
+    ],
+    "Passato": [
+      "essendo partito"
+    ]
+  }
+}

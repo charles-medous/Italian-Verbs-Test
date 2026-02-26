@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "entrer",
+  "target_lemma": "entrare",
+  "meta": {
+    "regularity": {
+      "fr": "1er groupe régulier (approx.)",
+      "it": "prima coniugazione regolare"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "essere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io entro",
+      "tu entri",
+      "lui/lei entra",
+      "noi entriamo",
+      "voi entrate",
+      "loro entrano"
+    ],
+    "Passato prossimo": [
+      "io sono entrato",
+      "tu sei entrato",
+      "lui/lei è entrato",
+      "noi siamo entrati",
+      "voi siete entrati",
+      "loro sono entrato"
+    ],
+    "Imperfetto": [
+      "io entravo",
+      "tu entravi",
+      "lui/lei entrava",
+      "noi entravamo",
+      "voi entravate",
+      "loro entravano"
+    ],
+    "Trapassato prossimo": [
+      "io ero entrato",
+      "tu eri entrato",
+      "lui/lei era entrato",
+      "noi eravamo entrati",
+      "voi eravate entrati",
+      "loro erano entrato"
+    ],
+    "Passato remoto": [
+      "io entrai",
+      "tu entrasti",
+      "lui/lei entrò",
+      "noi entrammo",
+      "voi entraste",
+      "loro entrarono"
+    ],
+    "Trapassato remoto": [
+      "io fui entrato",
+      "tu fosti entrato",
+      "lui/lei fu entrato",
+      "noi fummo entrati",
+      "voi foste entrati",
+      "loro furono entrati"
+    ],
+    "Futuro semplice": [
+      "io entrerò",
+      "tu entrerai",
+      "lui/lei entrerà",
+      "noi entreremo",
+      "voi entrerete",
+      "loro entreranno"
+    ],
+    "Futuro anteriore": [
+      "io sarò entrato",
+      "tu sarai entrato",
+      "lui/lei sarà entrato",
+      "noi saremo entrati",
+      "voi sarete entrati",
+      "loro saranno entrato"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io entrerei",
+      "tu entreresti",
+      "lui/lei entrerebbe",
+      "noi entreremmo",
+      "voi entrereste",
+      "loro entrerebbero"
+    ],
+    "Passato": [
+      "io sarei entrato",
+      "tu saresti entrato",
+      "lui/lei sarebbe entrato",
+      "noi saremmo entrato",
+      "voi sareste entrato",
+      "loro sarebbero entrato"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io entri",
+      "che tu entri",
+      "che lui/lei entri",
+      "che noi entriamo",
+      "che voi entriate",
+      "che loro entrino"
+    ],
+    "Passato": [
+      "che io sia entrato",
+      "che tu sia entrato",
+      "che lui/lei sia entrato",
+      "che noi siamo entrato",
+      "che voi siate entrato",
+      "che loro siano entrato"
+    ],
+    "Imperfetto": [
+      "che io entrassi",
+      "che tu entrassi",
+      "che lui/lei entrasse",
+      "che noi entrassimo",
+      "che voi entraste",
+      "che loro entrassero"
+    ],
+    "Trapassato": [
+      "che io fossi entrato",
+      "che tu fossi entrato",
+      "che lui/lei fosse entrato",
+      "che noi fossimo entrato",
+      "che voi foste entrato",
+      "che loro fossero entrato"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "entra",
+      "entri",
+      "entriamo",
+      "entrate",
+      "entrino"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "entrare"
+    ],
+    "Passato": [
+      "essere entrato"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "entrante"
+    ],
+    "Passato": [
+      "entrato"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "entrando"
+    ],
+    "Passato": [
+      "essendo entrato"
+    ]
+  }
+}

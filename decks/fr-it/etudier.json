@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "étudier",
+  "target_lemma": "studiare",
+  "meta": {
+    "regularity": {
+      "fr": "1er groupe régulier (approx.)",
+      "it": "prima coniugazione regolare (iare-not-ci/gi)"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io studio",
+      "tu studii",
+      "lui/lei studia",
+      "noi studiiamo",
+      "voi studiate",
+      "loro studiano"
+    ],
+    "Passato prossimo": [
+      "io ho studiato",
+      "tu hai studiato",
+      "lui/lei ha studiato",
+      "noi abbiamo studiato",
+      "voi avete studiato",
+      "loro hanno studiato"
+    ],
+    "Imperfetto": [
+      "io studiavo",
+      "tu studiavi",
+      "lui/lei studiava",
+      "noi studiavamo",
+      "voi studiavate",
+      "loro studiavano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo studiato",
+      "tu avevi studiato",
+      "lui/lei aveva studiato",
+      "noi avevamo studiato",
+      "voi avevate studiato",
+      "loro avevano studiato"
+    ],
+    "Passato remoto": [
+      "io studiai",
+      "tu studiasti",
+      "lui/lei studiò",
+      "noi studiammo",
+      "voi studiaste",
+      "loro studiarono"
+    ],
+    "Trapassato remoto": [
+      "io ebbi studiato",
+      "tu avesti studiato",
+      "lui/lei ebbe studiato",
+      "noi avemmo studiato",
+      "voi aveste studiato",
+      "loro ebbero studiato"
+    ],
+    "Futuro semplice": [
+      "io studierò",
+      "tu studierai",
+      "lui/lei studierà",
+      "noi studieremo",
+      "voi studierete",
+      "loro studieranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò studiato",
+      "tu avrai studiato",
+      "lui/lei avrà studiato",
+      "noi avremo studiato",
+      "voi avrete studiato",
+      "loro avranno studiato"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io studierei",
+      "tu studieresti",
+      "lui/lei studierebbe",
+      "noi studieremmo",
+      "voi studiereste",
+      "loro studierebbero"
+    ],
+    "Passato": [
+      "io avrei studiato",
+      "tu avresti studiato",
+      "lui/lei avrebbe studiato",
+      "noi avremmo studiato",
+      "voi avreste studiato",
+      "loro avrebbero studiato"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io studii",
+      "che tu studii",
+      "che lui/lei studii",
+      "che noi studiiamo",
+      "che voi studiiate",
+      "che loro studiino"
+    ],
+    "Passato": [
+      "che io abbia studiato",
+      "che tu abbia studiato",
+      "che lui/lei abbia studiato",
+      "che noi abbiamo studiato",
+      "che voi abbiate studiato",
+      "che loro abbiano studiato"
+    ],
+    "Imperfetto": [
+      "che io studiassi",
+      "che tu studiassi",
+      "che lui/lei studiasse",
+      "che noi studiassimo",
+      "che voi studiaste",
+      "che loro studiassero"
+    ],
+    "Trapassato": [
+      "che io avessi studiato",
+      "che tu avessi studiato",
+      "che lui/lei avesse studiato",
+      "che noi avessimo studiato",
+      "che voi aveste studiato",
+      "che loro avessero studiato"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "studia",
+      "studii",
+      "studiiamo",
+      "studiate",
+      "studiino"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "studiare"
+    ],
+    "Passato": [
+      "avere studiato"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "studiante"
+    ],
+    "Passato": [
+      "studiato"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "studiando"
+    ],
+    "Passato": [
+      "avendo studiato"
+    ]
+  }
+}

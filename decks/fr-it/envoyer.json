@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "envoyer",
+  "target_lemma": "spedire",
+  "meta": {
+    "regularity": {
+      "fr": "3e groupe (-ire)",
+      "it": "terza coniugazione (-ire) con -isc-"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io spedisco",
+      "tu spedisci",
+      "lui/lei spedisce",
+      "noi spediamo",
+      "voi spedite",
+      "loro spediscono"
+    ],
+    "Passato prossimo": [
+      "io ho spedito",
+      "tu hai spedito",
+      "lui/lei ha spedito",
+      "noi abbiamo spedito",
+      "voi avete spedito",
+      "loro hanno spedito"
+    ],
+    "Imperfetto": [
+      "io spedivo",
+      "tu spedivi",
+      "lui/lei spediva",
+      "noi spedivamo",
+      "voi spedivate",
+      "loro spedivano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo spedito",
+      "tu avevi spedito",
+      "lui/lei aveva spedito",
+      "noi avevamo spedito",
+      "voi avevate spedito",
+      "loro avevano spedito"
+    ],
+    "Passato remoto": [
+      "io spedii",
+      "tu spedisti",
+      "lui/lei spedì",
+      "noi spedimmo",
+      "voi spediste",
+      "loro spedirono"
+    ],
+    "Trapassato remoto": [
+      "io ebbi spedito",
+      "tu avesti spedito",
+      "lui/lei ebbe spedito",
+      "noi avemmo spedito",
+      "voi aveste spedito",
+      "loro ebbero spedito"
+    ],
+    "Futuro semplice": [
+      "io spedirò",
+      "tu spedirai",
+      "lui/lei spedirà",
+      "noi spediremo",
+      "voi spedirete",
+      "loro spediranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò spedito",
+      "tu avrai spedito",
+      "lui/lei avrà spedito",
+      "noi avremo spedito",
+      "voi avrete spedito",
+      "loro avranno spedito"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io spedirei",
+      "tu spediresti",
+      "lui/lei spedirebbe",
+      "noi spediremmo",
+      "voi spedireste",
+      "loro spedirebbero"
+    ],
+    "Passato": [
+      "io avrei spedito",
+      "tu avresti spedito",
+      "lui/lei avrebbe spedito",
+      "noi avremmo spedito",
+      "voi avreste spedito",
+      "loro avrebbero spedito"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io spedisca",
+      "che tu spedisca",
+      "che lui/lei spedisca",
+      "che noi spediamo",
+      "che voi spediate",
+      "che loro spediscano"
+    ],
+    "Passato": [
+      "che io abbia spedito",
+      "che tu abbia spedito",
+      "che lui/lei abbia spedito",
+      "che noi abbiamo spedito",
+      "che voi abbiate spedito",
+      "che loro abbiano spedito"
+    ],
+    "Imperfetto": [
+      "che io spedissi",
+      "che tu spedissi",
+      "che lui/lei spedisse",
+      "che noi spedissimo",
+      "che voi spediste",
+      "che loro spedissero"
+    ],
+    "Trapassato": [
+      "che io avessi spedito",
+      "che tu avessi spedito",
+      "che lui/lei avesse spedito",
+      "che noi avessimo spedito",
+      "che voi aveste spedito",
+      "che loro avessero spedito"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "spedisci",
+      "spedisca",
+      "spediamo",
+      "spedite",
+      "spediscano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "spedire"
+    ],
+    "Passato": [
+      "avere spedito"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "spedente"
+    ],
+    "Passato": [
+      "spedito"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "spedendo"
+    ],
+    "Passato": [
+      "avendo spedito"
+    ]
+  }
+}

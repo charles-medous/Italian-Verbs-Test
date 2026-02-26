@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "avoir",
+  "target_lemma": "avere",
+  "meta": {
+    "regularity": {
+      "fr": "irrégulier",
+      "it": "verbo irregolare"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io ho",
+      "tu hai",
+      "lui/lei ha",
+      "noi abbiamo",
+      "voi avete",
+      "loro hanno"
+    ],
+    "Passato prossimo": [
+      "io ho avuto",
+      "tu hai avuto",
+      "lui/lei ha avuto",
+      "noi abbiamo avuto",
+      "voi avete avuto",
+      "loro hanno avuto"
+    ],
+    "Imperfetto": [
+      "io avvo",
+      "tu avvi",
+      "lui/lei avva",
+      "noi avvamo",
+      "voi avvate",
+      "loro avvano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo avuto",
+      "tu avevi avuto",
+      "lui/lei aveva avuto",
+      "noi avevamo avuto",
+      "voi avevate avuto",
+      "loro avevano avuto"
+    ],
+    "Passato remoto": [
+      "io ebbi",
+      "tu avesti",
+      "lui/lei ebbe",
+      "noi avemmo",
+      "voi aveste",
+      "loro ebbero"
+    ],
+    "Trapassato remoto": [
+      "io ebbi avuto",
+      "tu avesti avuto",
+      "lui/lei ebbe avuto",
+      "noi avemmo avuto",
+      "voi aveste avuto",
+      "loro ebbero avuto"
+    ],
+    "Futuro semplice": [
+      "io avrò",
+      "tu avrai",
+      "lui/lei avrà",
+      "noi avremo",
+      "voi avrete",
+      "loro avranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò avuto",
+      "tu avrai avuto",
+      "lui/lei avrà avuto",
+      "noi avremo avuto",
+      "voi avrete avuto",
+      "loro avranno avuto"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io avrei",
+      "tu avresti",
+      "lui/lei avrebbe",
+      "noi avremmo",
+      "voi avreste",
+      "loro avrebbero"
+    ],
+    "Passato": [
+      "io avrei avuto",
+      "tu avresti avuto",
+      "lui/lei avrebbe avuto",
+      "noi avremmo avuto",
+      "voi avreste avuto",
+      "loro avrebbero avuto"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io abbia",
+      "che tu abbia",
+      "che lui/lei abbia",
+      "che noi abbiamo",
+      "che voi abbiate",
+      "che loro abbiano"
+    ],
+    "Passato": [
+      "che io abbia avuto",
+      "che tu abbia avuto",
+      "che lui/lei abbia avuto",
+      "che noi abbiamo avuto",
+      "che voi abbiate avuto",
+      "che loro abbiano avuto"
+    ],
+    "Imperfetto": [
+      "che io avessi",
+      "che tu avessi",
+      "che lui/lei avesse",
+      "che noi avessimo",
+      "che voi avesste",
+      "che loro avessero"
+    ],
+    "Trapassato": [
+      "che io avessi avuto",
+      "che tu avessi avuto",
+      "che lui/lei avesse avuto",
+      "che noi avessimo avuto",
+      "che voi aveste avuto",
+      "che loro avessero avuto"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "abbi",
+      "abbia",
+      "abbiamo",
+      "abbiate",
+      "abbiano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "avere"
+    ],
+    "Passato": [
+      "avere avuto"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "avente"
+    ],
+    "Passato": [
+      "avuto"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "avendo"
+    ],
+    "Passato": [
+      "avendo avuto"
+    ]
+  }
+}

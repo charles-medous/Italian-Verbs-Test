@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "descendre",
+  "target_lemma": "scendere",
+  "meta": {
+    "regularity": {
+      "fr": "2e groupe (-ere) avec irrégularités",
+      "it": "seconda coniugazione (-ere)"
+    },
+    "auxiliary": {
+      "fr": "être",
+      "it": "essere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io scendo",
+      "tu scendi",
+      "lui/lei scende",
+      "noi scendiamo",
+      "voi scendete",
+      "loro scendono"
+    ],
+    "Passato prossimo": [
+      "io sono scesi",
+      "tu sei sceso",
+      "lui/lei è sceso",
+      "noi siamo scesi",
+      "voi siete scesi",
+      "loro sono scesi"
+    ],
+    "Imperfetto": [
+      "io scendevo",
+      "tu scendevi",
+      "lui/lei scendeva",
+      "noi scendevamo",
+      "voi scendevate",
+      "loro scendevano"
+    ],
+    "Trapassato prossimo": [
+      "io ero sceso",
+      "tu eri sceso",
+      "lui/lei era sceso",
+      "noi eravamo scesi",
+      "voi eravate scesi",
+      "loro erano scesi"
+    ],
+    "Passato remoto": [
+      "io scesi",
+      "tu scendesti",
+      "lui/lei scese",
+      "noi scendemmo",
+      "voi scendeste",
+      "loro scesero"
+    ],
+    "Trapassato remoto": [
+      "io fui sceso",
+      "tu fosti sceso",
+      "lui/lei fu sceso",
+      "noi fummo scesi",
+      "voi foste scesi",
+      "loro furono scesi"
+    ],
+    "Futuro semplice": [
+      "io scenderò",
+      "tu scenderai",
+      "lui/lei scenderà",
+      "noi scenderemo",
+      "voi scenderete",
+      "loro scenderanno"
+    ],
+    "Futuro anteriore": [
+      "io sarò sceso",
+      "tu sarai sceso",
+      "lui/lei sarà sceso",
+      "noi saremo scesi",
+      "voi sarete scesi",
+      "loro saranno scesi"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io scenderei",
+      "tu scenderesti",
+      "lui/lei scenderebbe",
+      "noi scenderemmo",
+      "voi scendereste",
+      "loro scenderebbero"
+    ],
+    "Passato": [
+      "io sarei sceso",
+      "tu saresti sceso",
+      "lui/lei sarebbe sceso",
+      "noi saremmo scesi",
+      "voi sareste scesi",
+      "loro sarebbero sceso"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io scenda",
+      "che tu scenda",
+      "che lui/lei scenda",
+      "che noi scendiamo",
+      "che voi scendiate",
+      "che loro scendano"
+    ],
+    "Passato": [
+      "che io sia sceso",
+      "che tu sia sceso",
+      "che lui/lei sia sceso",
+      "che noi siamo sceso",
+      "che voi siate sceso",
+      "che loro siano sceso"
+    ],
+    "Imperfetto": [
+      "che io scendessi",
+      "che tu scendessi",
+      "che lui/lei scendesse",
+      "che noi scendessimo",
+      "che voi scendeste",
+      "che loro scendessero"
+    ],
+    "Trapassato": [
+      "che io fossi sceso",
+      "che tu fossi sceso",
+      "che lui/lei fosse sceso",
+      "che noi fossimo sceso",
+      "che voi foste sceso",
+      "che loro fossero sceso"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "scendi",
+      "scenda",
+      "scendiamo",
+      "scendete",
+      "scendano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "scendere"
+    ],
+    "Passato": [
+      "essere sceso"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "scendente"
+    ],
+    "Passato": [
+      "sceso"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "scendendo"
+    ],
+    "Passato": [
+      "essendo sceso"
+    ]
+  }
+}

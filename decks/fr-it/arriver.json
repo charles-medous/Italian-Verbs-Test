@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "arriver",
+  "target_lemma": "arrivare",
+  "meta": {
+    "regularity": {
+      "fr": "1er groupe régulier (approx.)",
+      "it": "prima coniugazione regolare"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "essere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io arrivo",
+      "tu arrivi",
+      "lui/lei arriva",
+      "noi arriviamo",
+      "voi arrivate",
+      "loro arrivano"
+    ],
+    "Passato prossimo": [
+      "io sono arrivato",
+      "tu sei arrivato",
+      "lui/lei è arrivato",
+      "noi siamo arrivati",
+      "voi siete arrivati",
+      "loro sono arrivato"
+    ],
+    "Imperfetto": [
+      "io arrivavo",
+      "tu arrivavi",
+      "lui/lei arrivava",
+      "noi arrivavamo",
+      "voi arrivavate",
+      "loro arrivavano"
+    ],
+    "Trapassato prossimo": [
+      "io ero arrivato",
+      "tu eri arrivato",
+      "lui/lei era arrivato",
+      "noi eravamo arrivati",
+      "voi eravate arrivati",
+      "loro erano arrivato"
+    ],
+    "Passato remoto": [
+      "io arrivai",
+      "tu arrivasti",
+      "lui/lei arrivò",
+      "noi arrivammo",
+      "voi arrivaste",
+      "loro arrivarono"
+    ],
+    "Trapassato remoto": [
+      "io fui arrivato",
+      "tu fosti arrivato",
+      "lui/lei fu arrivato",
+      "noi fummo arrivati",
+      "voi foste arrivati",
+      "loro furono arrivati"
+    ],
+    "Futuro semplice": [
+      "io arriverò",
+      "tu arriverai",
+      "lui/lei arriverà",
+      "noi arriveremo",
+      "voi arriverete",
+      "loro arriveranno"
+    ],
+    "Futuro anteriore": [
+      "io sarò arrivato",
+      "tu sarai arrivato",
+      "lui/lei sarà arrivato",
+      "noi saremo arrivati",
+      "voi sarete arrivati",
+      "loro saranno arrivato"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io arriverei",
+      "tu arriveresti",
+      "lui/lei arriverebbe",
+      "noi arriveremmo",
+      "voi arrivereste",
+      "loro arriverebbero"
+    ],
+    "Passato": [
+      "io sarei arrivato",
+      "tu saresti arrivato",
+      "lui/lei sarebbe arrivato",
+      "noi saremmo arrivato",
+      "voi sareste arrivato",
+      "loro sarebbero arrivato"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io arrivi",
+      "che tu arrivi",
+      "che lui/lei arrivi",
+      "che noi arriviamo",
+      "che voi arriviate",
+      "che loro arrivino"
+    ],
+    "Passato": [
+      "che io sia arrivato",
+      "che tu sia arrivato",
+      "che lui/lei sia arrivato",
+      "che noi siamo arrivato",
+      "che voi siate arrivato",
+      "che loro siano arrivato"
+    ],
+    "Imperfetto": [
+      "che io arrivassi",
+      "che tu arrivassi",
+      "che lui/lei arrivasse",
+      "che noi arrivassimo",
+      "che voi arrivaste",
+      "che loro arrivassero"
+    ],
+    "Trapassato": [
+      "che io fossi arrivato",
+      "che tu fossi arrivato",
+      "che lui/lei fosse arrivato",
+      "che noi fossimo arrivato",
+      "che voi foste arrivato",
+      "che loro fossero arrivato"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "arriva",
+      "arrivi",
+      "arriviamo",
+      "arrivate",
+      "arrivino"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "arrivare"
+    ],
+    "Passato": [
+      "essere arrivato"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "arrivante"
+    ],
+    "Passato": [
+      "arrivato"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "arrivando"
+    ],
+    "Passato": [
+      "essendo arrivato"
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "produire",
+  "target_lemma": "produrre",
+  "meta": {
+    "regularity": {
+      "fr": "irrégulier",
+      "it": "verbo irregolare"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io produco",
+      "tu produci",
+      "lui/lei produce",
+      "noi produciamo",
+      "voi producete",
+      "loro producono"
+    ],
+    "Passato prossimo": [
+      "io ho prodotto",
+      "tu hai prodotto",
+      "lui/lei ha prodotto",
+      "noi abbiamo prodotto",
+      "voi avete prodotto",
+      "loro hanno prodotto"
+    ],
+    "Imperfetto": [
+      "io producevo",
+      "tu producevi",
+      "lui/lei produceva",
+      "noi producevamo",
+      "voi producevate",
+      "loro producevano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo prodotto",
+      "tu avevi prodotto",
+      "lui/lei aveva prodotto",
+      "noi avevamo prodotto",
+      "voi avevate prodotto",
+      "loro avevano prodotto"
+    ],
+    "Passato remoto": [
+      "io produssi",
+      "tu producesti",
+      "lui/lei produsse",
+      "noi producemmo",
+      "voi produceste",
+      "loro produssero"
+    ],
+    "Trapassato remoto": [
+      "io ebbi prodotto",
+      "tu avesti prodotto",
+      "lui/lei ebbe prodotto",
+      "noi avemmo prodotto",
+      "voi aveste prodotto",
+      "loro ebbero prodotto"
+    ],
+    "Futuro semplice": [
+      "io produrrò",
+      "tu produrrai",
+      "lui/lei produrrà",
+      "noi produrremo",
+      "voi produrrete",
+      "loro produrranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò prodotto",
+      "tu avrai prodotto",
+      "lui/lei avrà prodotto",
+      "noi avremo prodotto",
+      "voi avrete prodotto",
+      "loro avranno prodotto"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io produrrei",
+      "tu produrresti",
+      "lui/lei produrrebbe",
+      "noi produrremmo",
+      "voi produrreste",
+      "loro produrrebbero"
+    ],
+    "Passato": [
+      "io avrei prodotto",
+      "tu avresti prodotto",
+      "lui/lei avrebbe prodotto",
+      "noi avremmo prodotto",
+      "voi avreste prodotto",
+      "loro avrebbero prodotto"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io produca",
+      "che tu produca",
+      "che lui/lei produca",
+      "che noi produciamo",
+      "che voi produciate",
+      "che loro producano"
+    ],
+    "Passato": [
+      "che io abbia prodotto",
+      "che tu abbia prodotto",
+      "che lui/lei abbia prodotto",
+      "che noi abbiamo prodotto",
+      "che voi abbiate prodotto",
+      "che loro abbiano prodotto"
+    ],
+    "Imperfetto": [
+      "che io producessi",
+      "che tu producessi",
+      "che lui/lei producesse",
+      "che noi producessimo",
+      "che voi producesste",
+      "che loro producessero"
+    ],
+    "Trapassato": [
+      "che io avessi prodotto",
+      "che tu avessi prodotto",
+      "che lui/lei avesse prodotto",
+      "che noi avessimo prodotto",
+      "che voi aveste prodotto",
+      "che loro avessero prodotto"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "produci",
+      "produca",
+      "produciamo",
+      "producete",
+      "producano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "produrre"
+    ],
+    "Passato": [
+      "avere prodotto"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "produente"
+    ],
+    "Passato": [
+      "prodotto"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "producendo"
+    ],
+    "Passato": [
+      "avendo prodotto"
+    ]
+  }
+}

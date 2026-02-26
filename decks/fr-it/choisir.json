@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "choisir",
+  "target_lemma": "scegliere",
+  "meta": {
+    "regularity": {
+      "fr": "irrégulier",
+      "it": "verbo irregolare"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io scelgo",
+      "tu scegli",
+      "lui/lei sceglie",
+      "noi scegliamo",
+      "voi scegliete",
+      "loro scelgono"
+    ],
+    "Passato prossimo": [
+      "io ho scelto",
+      "tu hai scelto",
+      "lui/lei ha scelto",
+      "noi abbiamo scelto",
+      "voi avete scelto",
+      "loro hanno scelto"
+    ],
+    "Imperfetto": [
+      "io sceglivo",
+      "tu sceglivi",
+      "lui/lei scegliva",
+      "noi sceglivamo",
+      "voi sceglivate",
+      "loro sceglivano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo scelto",
+      "tu avevi scelto",
+      "lui/lei aveva scelto",
+      "noi avevamo scelto",
+      "voi avevate scelto",
+      "loro avevano scelto"
+    ],
+    "Passato remoto": [
+      "io scelsi",
+      "tu scegliesti",
+      "lui/lei scelse",
+      "noi scegliemmo",
+      "voi sceglieste",
+      "loro scelsero"
+    ],
+    "Trapassato remoto": [
+      "io ebbi scelto",
+      "tu avesti scelto",
+      "lui/lei ebbe scelto",
+      "noi avemmo scelto",
+      "voi aveste scelto",
+      "loro ebbero scelto"
+    ],
+    "Futuro semplice": [
+      "io sceglierò",
+      "tu sceglierai",
+      "lui/lei sceglierà",
+      "noi sceglieremo",
+      "voi sceglierete",
+      "loro sceglieranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò scelto",
+      "tu avrai scelto",
+      "lui/lei avrà scelto",
+      "noi avremo scelto",
+      "voi avrete scelto",
+      "loro avranno scelto"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io sceglierei",
+      "tu sceglieresti",
+      "lui/lei sceglierebbe",
+      "noi sceglieremmo",
+      "voi scegliereste",
+      "loro sceglierebbero"
+    ],
+    "Passato": [
+      "io avrei scelto",
+      "tu avresti scelto",
+      "lui/lei avrebbe scelto",
+      "noi avremmo scelto",
+      "voi avreste scelto",
+      "loro avrebbero scelto"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io scelga",
+      "che tu scelga",
+      "che lui/lei scelga",
+      "che noi scegliamo",
+      "che voi scegliate",
+      "che loro scelgano"
+    ],
+    "Passato": [
+      "che io abbia scelto",
+      "che tu abbia scelto",
+      "che lui/lei abbia scelto",
+      "che noi abbiamo scelto",
+      "che voi abbiate scelto",
+      "che loro abbiano scelto"
+    ],
+    "Imperfetto": [
+      "che io scegliessi",
+      "che tu scegliessi",
+      "che lui/lei scegliesse",
+      "che noi scegliessimo",
+      "che voi scegliesste",
+      "che loro scegliessero"
+    ],
+    "Trapassato": [
+      "che io avessi scelto",
+      "che tu avessi scelto",
+      "che lui/lei avesse scelto",
+      "che noi avessimo scelto",
+      "che voi aveste scelto",
+      "che loro avessero scelto"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "scegli",
+      "scelga",
+      "scegliamo",
+      "scegliete",
+      "scelgano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "scegliere"
+    ],
+    "Passato": [
+      "avere scelto"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "scegliente"
+    ],
+    "Passato": [
+      "scelto"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "scegliendo"
+    ],
+    "Passato": [
+      "avendo scelto"
+    ]
+  }
+}

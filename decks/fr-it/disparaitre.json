@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "disparaître",
+  "target_lemma": "scomparire",
+  "meta": {
+    "regularity": {
+      "fr": "irrégulier",
+      "it": "verbo irregolare"
+    },
+    "auxiliary": {
+      "fr": "être",
+      "it": "essere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io scompaio",
+      "tu scompari",
+      "lui/lei scompare",
+      "noi scompariamo",
+      "voi scomparite",
+      "loro scompaiono"
+    ],
+    "Passato prossimo": [
+      "io sono scomparsi",
+      "tu sei scomparso",
+      "lui/lei è scomparso",
+      "noi siamo scomparsi",
+      "voi siete scomparsi",
+      "loro sono scomparsi"
+    ],
+    "Imperfetto": [
+      "io scomparvo",
+      "tu scomparvi",
+      "lui/lei scomparva",
+      "noi scomparvamo",
+      "voi scomparvate",
+      "loro scomparvano"
+    ],
+    "Trapassato prossimo": [
+      "io ero scomparso",
+      "tu eri scomparso",
+      "lui/lei era scomparso",
+      "noi eravamo scomparsi",
+      "voi eravate scomparsi",
+      "loro erano scomparsi"
+    ],
+    "Passato remoto": [
+      "io scomparvi",
+      "tu scomparisti",
+      "lui/lei scomparve",
+      "noi scomparimmo",
+      "voi scompariste",
+      "loro scomparvero"
+    ],
+    "Trapassato remoto": [
+      "io fui scomparso",
+      "tu fosti scomparso",
+      "lui/lei fu scomparso",
+      "noi fummo scomparsi",
+      "voi foste scomparsi",
+      "loro furono scomparsi"
+    ],
+    "Futuro semplice": [
+      "io scomparirò",
+      "tu scomparirai",
+      "lui/lei scomparirà",
+      "noi scompariremo",
+      "voi scomparirete",
+      "loro scompariranno"
+    ],
+    "Futuro anteriore": [
+      "io sarò scomparso",
+      "tu sarai scomparso",
+      "lui/lei sarà scomparso",
+      "noi saremo scomparsi",
+      "voi sarete scomparsi",
+      "loro saranno scomparsi"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io scomparirei",
+      "tu scompariresti",
+      "lui/lei scomparirebbe",
+      "noi scompariremmo",
+      "voi scomparireste",
+      "loro scomparirebbero"
+    ],
+    "Passato": [
+      "io sarei scomparso",
+      "tu saresti scomparso",
+      "lui/lei sarebbe scomparso",
+      "noi saremmo scomparsi",
+      "voi sareste scomparsi",
+      "loro sarebbero scomparso"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io scompaia",
+      "che tu scompaia",
+      "che lui/lei scompaia",
+      "che noi scompariamo",
+      "che voi scompariate",
+      "che loro scompaiano"
+    ],
+    "Passato": [
+      "che io sia scomparso",
+      "che tu sia scomparso",
+      "che lui/lei sia scomparso",
+      "che noi siamo scomparso",
+      "che voi siate scomparso",
+      "che loro siano scomparso"
+    ],
+    "Imperfetto": [
+      "che io scomparissi",
+      "che tu scomparissi",
+      "che lui/lei scomparisse",
+      "che noi scomparissimo",
+      "che voi scomparisste",
+      "che loro scomparissero"
+    ],
+    "Trapassato": [
+      "che io fossi scomparso",
+      "che tu fossi scomparso",
+      "che lui/lei fosse scomparso",
+      "che noi fossimo scomparso",
+      "che voi foste scomparso",
+      "che loro fossero scomparso"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "scompari",
+      "scompaia",
+      "scompariamo",
+      "scomparite",
+      "scompaiano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "scomparire"
+    ],
+    "Passato": [
+      "essere scomparso"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "scomparente"
+    ],
+    "Passato": [
+      "scomparso"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "scomparendo"
+    ],
+    "Passato": [
+      "essendo scomparso"
+    ]
+  }
+}

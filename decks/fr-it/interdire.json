@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "interdire",
+  "target_lemma": "proibire",
+  "meta": {
+    "regularity": {
+      "fr": "3e groupe (-ire)",
+      "it": "terza coniugazione (-ire) con -isc-"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io proibisco",
+      "tu proibisci",
+      "lui/lei proibisce",
+      "noi proibiamo",
+      "voi proibite",
+      "loro proibiscono"
+    ],
+    "Passato prossimo": [
+      "io ho proibito",
+      "tu hai proibito",
+      "lui/lei ha proibito",
+      "noi abbiamo proibito",
+      "voi avete proibito",
+      "loro hanno proibito"
+    ],
+    "Imperfetto": [
+      "io proibivo",
+      "tu proibivi",
+      "lui/lei proibiva",
+      "noi proibivamo",
+      "voi proibivate",
+      "loro proibivano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo proibito",
+      "tu avevi proibito",
+      "lui/lei aveva proibito",
+      "noi avevamo proibito",
+      "voi avevate proibito",
+      "loro avevano proibito"
+    ],
+    "Passato remoto": [
+      "io proibii",
+      "tu proibisti",
+      "lui/lei proibì",
+      "noi proibimmo",
+      "voi proibiste",
+      "loro proibirono"
+    ],
+    "Trapassato remoto": [
+      "io ebbi proibito",
+      "tu avesti proibito",
+      "lui/lei ebbe proibito",
+      "noi avemmo proibito",
+      "voi aveste proibito",
+      "loro ebbero proibito"
+    ],
+    "Futuro semplice": [
+      "io proibirò",
+      "tu proibirai",
+      "lui/lei proibirà",
+      "noi proibiremo",
+      "voi proibirete",
+      "loro proibiranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò proibito",
+      "tu avrai proibito",
+      "lui/lei avrà proibito",
+      "noi avremo proibito",
+      "voi avrete proibito",
+      "loro avranno proibito"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io proibirei",
+      "tu proibiresti",
+      "lui/lei proibirebbe",
+      "noi proibiremmo",
+      "voi proibireste",
+      "loro proibirebbero"
+    ],
+    "Passato": [
+      "io avrei proibito",
+      "tu avresti proibito",
+      "lui/lei avrebbe proibito",
+      "noi avremmo proibito",
+      "voi avreste proibito",
+      "loro avrebbero proibito"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io proibisca",
+      "che tu proibisca",
+      "che lui/lei proibisca",
+      "che noi proibiamo",
+      "che voi proibiate",
+      "che loro proibiscano"
+    ],
+    "Passato": [
+      "che io abbia proibito",
+      "che tu abbia proibito",
+      "che lui/lei abbia proibito",
+      "che noi abbiamo proibito",
+      "che voi abbiate proibito",
+      "che loro abbiano proibito"
+    ],
+    "Imperfetto": [
+      "che io proibissi",
+      "che tu proibissi",
+      "che lui/lei proibisse",
+      "che noi proibissimo",
+      "che voi proibiste",
+      "che loro proibissero"
+    ],
+    "Trapassato": [
+      "che io avessi proibito",
+      "che tu avessi proibito",
+      "che lui/lei avesse proibito",
+      "che noi avessimo proibito",
+      "che voi aveste proibito",
+      "che loro avessero proibito"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "proibisci",
+      "proibisca",
+      "proibiamo",
+      "proibite",
+      "proibiscano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "proibire"
+    ],
+    "Passato": [
+      "avere proibito"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "proibente"
+    ],
+    "Passato": [
+      "proibito"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "proibendo"
+    ],
+    "Passato": [
+      "avendo proibito"
+    ]
+  }
+}

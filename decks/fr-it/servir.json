@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "servir",
+  "target_lemma": "servire",
+  "meta": {
+    "regularity": {
+      "fr": "3e groupe (-ire)",
+      "it": "terza coniugazione (-ire)"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io servo",
+      "tu servi",
+      "lui/lei serve",
+      "noi serviamo",
+      "voi servite",
+      "loro servono"
+    ],
+    "Passato prossimo": [
+      "io ho servito",
+      "tu hai servito",
+      "lui/lei ha servito",
+      "noi abbiamo servito",
+      "voi avete servito",
+      "loro hanno servito"
+    ],
+    "Imperfetto": [
+      "io servivo",
+      "tu servivi",
+      "lui/lei serviva",
+      "noi servivamo",
+      "voi servivate",
+      "loro servivano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo servito",
+      "tu avevi servito",
+      "lui/lei aveva servito",
+      "noi avevamo servito",
+      "voi avevate servito",
+      "loro avevano servito"
+    ],
+    "Passato remoto": [
+      "io servii",
+      "tu servisti",
+      "lui/lei servì",
+      "noi servimmo",
+      "voi serviste",
+      "loro servirono"
+    ],
+    "Trapassato remoto": [
+      "io ebbi servito",
+      "tu avesti servito",
+      "lui/lei ebbe servito",
+      "noi avemmo servito",
+      "voi aveste servito",
+      "loro ebbero servito"
+    ],
+    "Futuro semplice": [
+      "io servirò",
+      "tu servirai",
+      "lui/lei servirà",
+      "noi serviremo",
+      "voi servirete",
+      "loro serviranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò servito",
+      "tu avrai servito",
+      "lui/lei avrà servito",
+      "noi avremo servito",
+      "voi avrete servito",
+      "loro avranno servito"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io servirei",
+      "tu serviresti",
+      "lui/lei servirebbe",
+      "noi serviremmo",
+      "voi servireste",
+      "loro servirebbero"
+    ],
+    "Passato": [
+      "io avrei servito",
+      "tu avresti servito",
+      "lui/lei avrebbe servito",
+      "noi avremmo servito",
+      "voi avreste servito",
+      "loro avrebbero servito"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io serva",
+      "che tu serva",
+      "che lui/lei serva",
+      "che noi serviamo",
+      "che voi serviate",
+      "che loro servano"
+    ],
+    "Passato": [
+      "che io abbia servito",
+      "che tu abbia servito",
+      "che lui/lei abbia servito",
+      "che noi abbiamo servito",
+      "che voi abbiate servito",
+      "che loro abbiano servito"
+    ],
+    "Imperfetto": [
+      "che io servissi",
+      "che tu servissi",
+      "che lui/lei servisse",
+      "che noi servissimo",
+      "che voi serviste",
+      "che loro servissero"
+    ],
+    "Trapassato": [
+      "che io avessi servito",
+      "che tu avessi servito",
+      "che lui/lei avesse servito",
+      "che noi avessimo servito",
+      "che voi aveste servito",
+      "che loro avessero servito"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "servi",
+      "serva",
+      "serviamo",
+      "servite",
+      "servano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "servire"
+    ],
+    "Passato": [
+      "avere servito"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "servente"
+    ],
+    "Passato": [
+      "servito"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "servendo"
+    ],
+    "Passato": [
+      "avendo servito"
+    ]
+  }
+}

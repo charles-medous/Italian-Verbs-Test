@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "rencontrer",
+  "target_lemma": "incontrare",
+  "meta": {
+    "regularity": {
+      "fr": "1er groupe régulier (approx.)",
+      "it": "prima coniugazione regolare"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io incontro",
+      "tu incontri",
+      "lui/lei incontra",
+      "noi incontriamo",
+      "voi incontrate",
+      "loro incontrano"
+    ],
+    "Passato prossimo": [
+      "io ho incontrato",
+      "tu hai incontrato",
+      "lui/lei ha incontrato",
+      "noi abbiamo incontrato",
+      "voi avete incontrato",
+      "loro hanno incontrato"
+    ],
+    "Imperfetto": [
+      "io incontravo",
+      "tu incontravi",
+      "lui/lei incontrava",
+      "noi incontravamo",
+      "voi incontravate",
+      "loro incontravano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo incontrato",
+      "tu avevi incontrato",
+      "lui/lei aveva incontrato",
+      "noi avevamo incontrato",
+      "voi avevate incontrato",
+      "loro avevano incontrato"
+    ],
+    "Passato remoto": [
+      "io incontrai",
+      "tu incontrasti",
+      "lui/lei incontrò",
+      "noi incontrammo",
+      "voi incontraste",
+      "loro incontrarono"
+    ],
+    "Trapassato remoto": [
+      "io ebbi incontrato",
+      "tu avesti incontrato",
+      "lui/lei ebbe incontrato",
+      "noi avemmo incontrato",
+      "voi aveste incontrato",
+      "loro ebbero incontrato"
+    ],
+    "Futuro semplice": [
+      "io incontrerò",
+      "tu incontrerai",
+      "lui/lei incontrerà",
+      "noi incontreremo",
+      "voi incontrerete",
+      "loro incontreranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò incontrato",
+      "tu avrai incontrato",
+      "lui/lei avrà incontrato",
+      "noi avremo incontrato",
+      "voi avrete incontrato",
+      "loro avranno incontrato"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io incontrerei",
+      "tu incontreresti",
+      "lui/lei incontrerebbe",
+      "noi incontreremmo",
+      "voi incontrereste",
+      "loro incontrerebbero"
+    ],
+    "Passato": [
+      "io avrei incontrato",
+      "tu avresti incontrato",
+      "lui/lei avrebbe incontrato",
+      "noi avremmo incontrato",
+      "voi avreste incontrato",
+      "loro avrebbero incontrato"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io incontri",
+      "che tu incontri",
+      "che lui/lei incontri",
+      "che noi incontriamo",
+      "che voi incontriate",
+      "che loro incontrino"
+    ],
+    "Passato": [
+      "che io abbia incontrato",
+      "che tu abbia incontrato",
+      "che lui/lei abbia incontrato",
+      "che noi abbiamo incontrato",
+      "che voi abbiate incontrato",
+      "che loro abbiano incontrato"
+    ],
+    "Imperfetto": [
+      "che io incontrassi",
+      "che tu incontrassi",
+      "che lui/lei incontrasse",
+      "che noi incontrassimo",
+      "che voi incontraste",
+      "che loro incontrassero"
+    ],
+    "Trapassato": [
+      "che io avessi incontrato",
+      "che tu avessi incontrato",
+      "che lui/lei avesse incontrato",
+      "che noi avessimo incontrato",
+      "che voi aveste incontrato",
+      "che loro avessero incontrato"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "incontra",
+      "incontri",
+      "incontriamo",
+      "incontrate",
+      "incontrino"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "incontrare"
+    ],
+    "Passato": [
+      "avere incontrato"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "incontrante"
+    ],
+    "Passato": [
+      "incontrato"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "incontrando"
+    ],
+    "Passato": [
+      "avendo incontrato"
+    ]
+  }
+}

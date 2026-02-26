@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "diviser",
+  "target_lemma": "dividere",
+  "meta": {
+    "regularity": {
+      "fr": "2e groupe (-ere) avec irrégularités",
+      "it": "seconda coniugazione (-ere)"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io divido",
+      "tu dividi",
+      "lui/lei divide",
+      "noi dividiamo",
+      "voi dividete",
+      "loro dividono"
+    ],
+    "Passato prossimo": [
+      "io ho diviso",
+      "tu hai diviso",
+      "lui/lei ha diviso",
+      "noi abbiamo diviso",
+      "voi avete diviso",
+      "loro hanno diviso"
+    ],
+    "Imperfetto": [
+      "io dividevo",
+      "tu dividevi",
+      "lui/lei divideva",
+      "noi dividevamo",
+      "voi dividevate",
+      "loro dividevano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo diviso",
+      "tu avevi diviso",
+      "lui/lei aveva diviso",
+      "noi avevamo diviso",
+      "voi avevate diviso",
+      "loro avevano diviso"
+    ],
+    "Passato remoto": [
+      "io divisi",
+      "tu dividesti",
+      "lui/lei divise",
+      "noi dividemmo",
+      "voi divideste",
+      "loro divisero"
+    ],
+    "Trapassato remoto": [
+      "io ebbi diviso",
+      "tu avesti diviso",
+      "lui/lei ebbe diviso",
+      "noi avemmo diviso",
+      "voi aveste diviso",
+      "loro ebbero diviso"
+    ],
+    "Futuro semplice": [
+      "io dividerò",
+      "tu dividerai",
+      "lui/lei dividerà",
+      "noi divideremo",
+      "voi dividerete",
+      "loro divideranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò diviso",
+      "tu avrai diviso",
+      "lui/lei avrà diviso",
+      "noi avremo diviso",
+      "voi avrete diviso",
+      "loro avranno diviso"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io dividerei",
+      "tu divideresti",
+      "lui/lei dividerebbe",
+      "noi divideremmo",
+      "voi dividereste",
+      "loro dividerebbero"
+    ],
+    "Passato": [
+      "io avrei diviso",
+      "tu avresti diviso",
+      "lui/lei avrebbe diviso",
+      "noi avremmo diviso",
+      "voi avreste diviso",
+      "loro avrebbero diviso"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io divida",
+      "che tu divida",
+      "che lui/lei divida",
+      "che noi dividiamo",
+      "che voi dividiate",
+      "che loro dividano"
+    ],
+    "Passato": [
+      "che io abbia diviso",
+      "che tu abbia diviso",
+      "che lui/lei abbia diviso",
+      "che noi abbiamo diviso",
+      "che voi abbiate diviso",
+      "che loro abbiano diviso"
+    ],
+    "Imperfetto": [
+      "che io dividessi",
+      "che tu dividessi",
+      "che lui/lei dividesse",
+      "che noi dividessimo",
+      "che voi divideste",
+      "che loro dividessero"
+    ],
+    "Trapassato": [
+      "che io avessi diviso",
+      "che tu avessi diviso",
+      "che lui/lei avesse diviso",
+      "che noi avessimo diviso",
+      "che voi aveste diviso",
+      "che loro avessero diviso"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "dividi",
+      "divida",
+      "dividiamo",
+      "dividete",
+      "dividano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "dividere"
+    ],
+    "Passato": [
+      "avere diviso"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "dividente"
+    ],
+    "Passato": [
+      "diviso"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "dividendo"
+    ],
+    "Passato": [
+      "avendo diviso"
+    ]
+  }
+}

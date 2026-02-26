@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "décommander",
+  "target_lemma": "disdire",
+  "meta": {
+    "regularity": {
+      "fr": "irrégulier",
+      "it": "verbo irregolare"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io disdico",
+      "tu disdici",
+      "lui/lei disdice",
+      "noi disdiciamo",
+      "voi disdite",
+      "loro disdicono"
+    ],
+    "Passato prossimo": [
+      "io ho disdetto",
+      "tu hai disdetto",
+      "lui/lei ha disdetto",
+      "noi abbiamo disdetto",
+      "voi avete disdetto",
+      "loro hanno disdetto"
+    ],
+    "Imperfetto": [
+      "io disdvo",
+      "tu disdvi",
+      "lui/lei disdva",
+      "noi disdvamo",
+      "voi disdvate",
+      "loro disdvano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo disdetto",
+      "tu avevi disdetto",
+      "lui/lei aveva disdetto",
+      "noi avevamo disdetto",
+      "voi avevate disdetto",
+      "loro avevano disdetto"
+    ],
+    "Passato remoto": [
+      "io disdissi",
+      "tu disdicesti",
+      "lui/lei disdisse",
+      "noi disdicemmo",
+      "voi disdiceste",
+      "loro disdissero"
+    ],
+    "Trapassato remoto": [
+      "io ebbi disdetto",
+      "tu avesti disdetto",
+      "lui/lei ebbe disdetto",
+      "noi avemmo disdetto",
+      "voi aveste disdetto",
+      "loro ebbero disdetto"
+    ],
+    "Futuro semplice": [
+      "io disdirò",
+      "tu disdirai",
+      "lui/lei disdirà",
+      "noi disdiremo",
+      "voi disdirete",
+      "loro disdiranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò disdetto",
+      "tu avrai disdetto",
+      "lui/lei avrà disdetto",
+      "noi avremo disdetto",
+      "voi avrete disdetto",
+      "loro avranno disdetto"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io disdirei",
+      "tu disdiresti",
+      "lui/lei disdirebbe",
+      "noi disdiremmo",
+      "voi disdireste",
+      "loro disdirebbero"
+    ],
+    "Passato": [
+      "io avrei disdetto",
+      "tu avresti disdetto",
+      "lui/lei avrebbe disdetto",
+      "noi avremmo disdetto",
+      "voi avreste disdetto",
+      "loro avrebbero disdetto"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io disdica",
+      "che tu disdica",
+      "che lui/lei disdica",
+      "che noi disdiciamo",
+      "che voi disdiciate",
+      "che loro disdicano"
+    ],
+    "Passato": [
+      "che io abbia disdetto",
+      "che tu abbia disdetto",
+      "che lui/lei abbia disdetto",
+      "che noi abbiamo disdetto",
+      "che voi abbiate disdetto",
+      "che loro abbiano disdetto"
+    ],
+    "Imperfetto": [
+      "che io disdicessi",
+      "che tu disdicessi",
+      "che lui/lei disdicesse",
+      "che noi disdicessimo",
+      "che voi disdicesste",
+      "che loro disdicessero"
+    ],
+    "Trapassato": [
+      "che io avessi disdetto",
+      "che tu avessi disdetto",
+      "che lui/lei avesse disdetto",
+      "che noi avessimo disdetto",
+      "che voi aveste disdetto",
+      "che loro avessero disdetto"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "disdici",
+      "disdica",
+      "disdiciamo",
+      "disdite",
+      "disdicano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "disdire"
+    ],
+    "Passato": [
+      "avere disdetto"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "disdente"
+    ],
+    "Passato": [
+      "disdetto"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "disdendo"
+    ],
+    "Passato": [
+      "avendo disdetto"
+    ]
+  }
+}

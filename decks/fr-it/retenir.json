@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "retenir",
+  "target_lemma": "ritenere",
+  "meta": {
+    "regularity": {
+      "fr": "irrégulier",
+      "it": "verbo irregolare"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io ritengo",
+      "tu ritieni",
+      "lui/lei ritiene",
+      "noi riteniamo",
+      "voi ritenete",
+      "loro ritengono"
+    ],
+    "Passato prossimo": [
+      "io ho ritenuto",
+      "tu hai ritenuto",
+      "lui/lei ha ritenuto",
+      "noi abbiamo ritenuto",
+      "voi avete ritenuto",
+      "loro hanno ritenuto"
+    ],
+    "Imperfetto": [
+      "io ritenvo",
+      "tu ritenvi",
+      "lui/lei ritenva",
+      "noi ritenvamo",
+      "voi ritenvate",
+      "loro ritenvano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo ritenuto",
+      "tu avevi ritenuto",
+      "lui/lei aveva ritenuto",
+      "noi avevamo ritenuto",
+      "voi avevate ritenuto",
+      "loro avevano ritenuto"
+    ],
+    "Passato remoto": [
+      "io ritenni",
+      "tu ritenesti",
+      "lui/lei ritenne",
+      "noi ritenemmo",
+      "voi riteneste",
+      "loro ritennero"
+    ],
+    "Trapassato remoto": [
+      "io ebbi ritenuto",
+      "tu avesti ritenuto",
+      "lui/lei ebbe ritenuto",
+      "noi avemmo ritenuto",
+      "voi aveste ritenuto",
+      "loro ebbero ritenuto"
+    ],
+    "Futuro semplice": [
+      "io riterrò",
+      "tu riterrai",
+      "lui/lei riterrà",
+      "noi riterremo",
+      "voi riterrete",
+      "loro riterranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò ritenuto",
+      "tu avrai ritenuto",
+      "lui/lei avrà ritenuto",
+      "noi avremo ritenuto",
+      "voi avrete ritenuto",
+      "loro avranno ritenuto"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io riterrei",
+      "tu riterresti",
+      "lui/lei riterrebbe",
+      "noi riterremmo",
+      "voi riterreste",
+      "loro riterrebbero"
+    ],
+    "Passato": [
+      "io avrei ritenuto",
+      "tu avresti ritenuto",
+      "lui/lei avrebbe ritenuto",
+      "noi avremmo ritenuto",
+      "voi avreste ritenuto",
+      "loro avrebbero ritenuto"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io ritenga",
+      "che tu ritenga",
+      "che lui/lei ritenga",
+      "che noi riteniamo",
+      "che voi riteniate",
+      "che loro ritengano"
+    ],
+    "Passato": [
+      "che io abbia ritenuto",
+      "che tu abbia ritenuto",
+      "che lui/lei abbia ritenuto",
+      "che noi abbiamo ritenuto",
+      "che voi abbiate ritenuto",
+      "che loro abbiano ritenuto"
+    ],
+    "Imperfetto": [
+      "che io ritenessi",
+      "che tu ritenessi",
+      "che lui/lei ritenesse",
+      "che noi ritenessimo",
+      "che voi ritenesste",
+      "che loro ritenessero"
+    ],
+    "Trapassato": [
+      "che io avessi ritenuto",
+      "che tu avessi ritenuto",
+      "che lui/lei avesse ritenuto",
+      "che noi avessimo ritenuto",
+      "che voi aveste ritenuto",
+      "che loro avessero ritenuto"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "ritieni",
+      "ritenga",
+      "riteniamo",
+      "ritenete",
+      "ritengano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "ritenere"
+    ],
+    "Passato": [
+      "avere ritenuto"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "ritenente"
+    ],
+    "Passato": [
+      "ritenuto"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "ritenendo"
+    ],
+    "Passato": [
+      "avendo ritenuto"
+    ]
+  }
+}

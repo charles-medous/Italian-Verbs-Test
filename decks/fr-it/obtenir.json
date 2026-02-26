@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "obtenir",
+  "target_lemma": "ottenere",
+  "meta": {
+    "regularity": {
+      "fr": "irrégulier",
+      "it": "verbo irregolare"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io ottengo",
+      "tu ottieni",
+      "lui/lei ottiene",
+      "noi otteniamo",
+      "voi ottenete",
+      "loro ottengono"
+    ],
+    "Passato prossimo": [
+      "io ho ottenuto",
+      "tu hai ottenuto",
+      "lui/lei ha ottenuto",
+      "noi abbiamo ottenuto",
+      "voi avete ottenuto",
+      "loro hanno ottenuto"
+    ],
+    "Imperfetto": [
+      "io ottenvo",
+      "tu ottenvi",
+      "lui/lei ottenva",
+      "noi ottenvamo",
+      "voi ottenvate",
+      "loro ottenvano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo ottenuto",
+      "tu avevi ottenuto",
+      "lui/lei aveva ottenuto",
+      "noi avevamo ottenuto",
+      "voi avevate ottenuto",
+      "loro avevano ottenuto"
+    ],
+    "Passato remoto": [
+      "io ottenni",
+      "tu ottenesti",
+      "lui/lei ottenne",
+      "noi ottenemmo",
+      "voi otteneste",
+      "loro ottennero"
+    ],
+    "Trapassato remoto": [
+      "io ebbi ottenuto",
+      "tu avesti ottenuto",
+      "lui/lei ebbe ottenuto",
+      "noi avemmo ottenuto",
+      "voi aveste ottenuto",
+      "loro ebbero ottenuto"
+    ],
+    "Futuro semplice": [
+      "io otterrò",
+      "tu otterrai",
+      "lui/lei otterrà",
+      "noi otterremo",
+      "voi otterrete",
+      "loro otterranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò ottenuto",
+      "tu avrai ottenuto",
+      "lui/lei avrà ottenuto",
+      "noi avremo ottenuto",
+      "voi avrete ottenuto",
+      "loro avranno ottenuto"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io otterrei",
+      "tu otterresti",
+      "lui/lei otterrebbe",
+      "noi otterremmo",
+      "voi otterreste",
+      "loro otterrebbero"
+    ],
+    "Passato": [
+      "io avrei ottenuto",
+      "tu avresti ottenuto",
+      "lui/lei avrebbe ottenuto",
+      "noi avremmo ottenuto",
+      "voi avreste ottenuto",
+      "loro avrebbero ottenuto"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io ottenga",
+      "che tu ottenga",
+      "che lui/lei ottenga",
+      "che noi otteniamo",
+      "che voi otteniate",
+      "che loro ottengano"
+    ],
+    "Passato": [
+      "che io abbia ottenuto",
+      "che tu abbia ottenuto",
+      "che lui/lei abbia ottenuto",
+      "che noi abbiamo ottenuto",
+      "che voi abbiate ottenuto",
+      "che loro abbiano ottenuto"
+    ],
+    "Imperfetto": [
+      "che io ottenessi",
+      "che tu ottenessi",
+      "che lui/lei ottenesse",
+      "che noi ottenessimo",
+      "che voi ottenesste",
+      "che loro ottenessero"
+    ],
+    "Trapassato": [
+      "che io avessi ottenuto",
+      "che tu avessi ottenuto",
+      "che lui/lei avesse ottenuto",
+      "che noi avessimo ottenuto",
+      "che voi aveste ottenuto",
+      "che loro avessero ottenuto"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "ottieni",
+      "ottenga",
+      "otteniamo",
+      "ottenete",
+      "ottengano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "ottenere"
+    ],
+    "Passato": [
+      "avere ottenuto"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "ottenente"
+    ],
+    "Passato": [
+      "ottenuto"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "ottenendo"
+    ],
+    "Passato": [
+      "avendo ottenuto"
+    ]
+  }
+}

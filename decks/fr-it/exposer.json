@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "exposer",
+  "target_lemma": "esporre",
+  "meta": {
+    "regularity": {
+      "fr": "irrégulier",
+      "it": "verbo irregolare"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io espongo",
+      "tu esponi",
+      "lui/lei espone",
+      "noi esponiamo",
+      "voi esponete",
+      "loro espongono"
+    ],
+    "Passato prossimo": [
+      "io ho esposto",
+      "tu hai esposto",
+      "lui/lei ha esposto",
+      "noi abbiamo esposto",
+      "voi avete esposto",
+      "loro hanno esposto"
+    ],
+    "Imperfetto": [
+      "io esponevo",
+      "tu esponevi",
+      "lui/lei esponeva",
+      "noi esponevamo",
+      "voi esponevate",
+      "loro esponevano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo esposto",
+      "tu avevi esposto",
+      "lui/lei aveva esposto",
+      "noi avevamo esposto",
+      "voi avevate esposto",
+      "loro avevano esposto"
+    ],
+    "Passato remoto": [
+      "io esposi",
+      "tu esponesti",
+      "lui/lei espose",
+      "noi esponemmo",
+      "voi esponeste",
+      "loro esposero"
+    ],
+    "Trapassato remoto": [
+      "io ebbi esposto",
+      "tu avesti esposto",
+      "lui/lei ebbe esposto",
+      "noi avemmo esposto",
+      "voi aveste esposto",
+      "loro ebbero esposto"
+    ],
+    "Futuro semplice": [
+      "io esporrò",
+      "tu esporrai",
+      "lui/lei esporrà",
+      "noi esporremo",
+      "voi esporrete",
+      "loro esporranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò esposto",
+      "tu avrai esposto",
+      "lui/lei avrà esposto",
+      "noi avremo esposto",
+      "voi avrete esposto",
+      "loro avranno esposto"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io esporrei",
+      "tu esporresti",
+      "lui/lei esporrebbe",
+      "noi esporremmo",
+      "voi esporreste",
+      "loro esporrebbero"
+    ],
+    "Passato": [
+      "io avrei esposto",
+      "tu avresti esposto",
+      "lui/lei avrebbe esposto",
+      "noi avremmo esposto",
+      "voi avreste esposto",
+      "loro avrebbero esposto"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io esponga",
+      "che tu esponga",
+      "che lui/lei esponga",
+      "che noi esponiamo",
+      "che voi esponiate",
+      "che loro espongano"
+    ],
+    "Passato": [
+      "che io abbia esposto",
+      "che tu abbia esposto",
+      "che lui/lei abbia esposto",
+      "che noi abbiamo esposto",
+      "che voi abbiate esposto",
+      "che loro abbiano esposto"
+    ],
+    "Imperfetto": [
+      "che io esponessi",
+      "che tu esponessi",
+      "che lui/lei esponesse",
+      "che noi esponessimo",
+      "che voi esponesste",
+      "che loro esponessero"
+    ],
+    "Trapassato": [
+      "che io avessi esposto",
+      "che tu avessi esposto",
+      "che lui/lei avesse esposto",
+      "che noi avessimo esposto",
+      "che voi aveste esposto",
+      "che loro avessero esposto"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "esponi",
+      "esponga",
+      "esponiamo",
+      "esponete",
+      "espongano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "esporre"
+    ],
+    "Passato": [
+      "avere esposto"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "espoente"
+    ],
+    "Passato": [
+      "esposto"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "esponendo"
+    ],
+    "Passato": [
+      "avendo esposto"
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "grandir",
+  "target_lemma": "crescere",
+  "meta": {
+    "regularity": {
+      "fr": "2e groupe (-ere) avec irrégularités",
+      "it": "seconda coniugazione (-ere)"
+    },
+    "auxiliary": {
+      "fr": "être",
+      "it": "essere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io cresco",
+      "tu cresci",
+      "lui/lei cresce",
+      "noi cresciamo",
+      "voi crescete",
+      "loro crescono"
+    ],
+    "Passato prossimo": [
+      "io sono cresciuti",
+      "tu sei cresciuto",
+      "lui/lei è cresciuto",
+      "noi siamo cresciuti",
+      "voi siete cresciuti",
+      "loro sono cresciuti"
+    ],
+    "Imperfetto": [
+      "io crescevo",
+      "tu crescevi",
+      "lui/lei cresceva",
+      "noi crescevamo",
+      "voi crescevate",
+      "loro crescevano"
+    ],
+    "Trapassato prossimo": [
+      "io ero cresciuto",
+      "tu eri cresciuto",
+      "lui/lei era cresciuto",
+      "noi eravamo cresciuti",
+      "voi eravate cresciuti",
+      "loro erano cresciuti"
+    ],
+    "Passato remoto": [
+      "io crebbi",
+      "tu crescesti",
+      "lui/lei crebbe",
+      "noi crescemmo",
+      "voi cresceste",
+      "loro crebbero"
+    ],
+    "Trapassato remoto": [
+      "io fui cresciuto",
+      "tu fosti cresciuto",
+      "lui/lei fu cresciuto",
+      "noi fummo cresciuti",
+      "voi foste cresciuti",
+      "loro furono cresciuti"
+    ],
+    "Futuro semplice": [
+      "io crescerò",
+      "tu crescerai",
+      "lui/lei crescerà",
+      "noi cresceremo",
+      "voi crescerete",
+      "loro cresceranno"
+    ],
+    "Futuro anteriore": [
+      "io sarò cresciuto",
+      "tu sarai cresciuto",
+      "lui/lei sarà cresciuto",
+      "noi saremo cresciuti",
+      "voi sarete cresciuti",
+      "loro saranno cresciuti"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io crescerei",
+      "tu cresceresti",
+      "lui/lei crescerebbe",
+      "noi cresceremmo",
+      "voi crescereste",
+      "loro crescerebbero"
+    ],
+    "Passato": [
+      "io sarei cresciuto",
+      "tu saresti cresciuto",
+      "lui/lei sarebbe cresciuto",
+      "noi saremmo cresciuti",
+      "voi sareste cresciuti",
+      "loro sarebbero cresciuto"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io cresca",
+      "che tu cresca",
+      "che lui/lei cresca",
+      "che noi cresciamo",
+      "che voi cresciate",
+      "che loro crescano"
+    ],
+    "Passato": [
+      "che io sia cresciuto",
+      "che tu sia cresciuto",
+      "che lui/lei sia cresciuto",
+      "che noi siamo cresciuto",
+      "che voi siate cresciuto",
+      "che loro siano cresciuto"
+    ],
+    "Imperfetto": [
+      "che io crescessi",
+      "che tu crescessi",
+      "che lui/lei crescesse",
+      "che noi crescessimo",
+      "che voi cresceste",
+      "che loro crescessero"
+    ],
+    "Trapassato": [
+      "che io fossi cresciuto",
+      "che tu fossi cresciuto",
+      "che lui/lei fosse cresciuto",
+      "che noi fossimo cresciuto",
+      "che voi foste cresciuto",
+      "che loro fossero cresciuto"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "cresci",
+      "cresca",
+      "cresciamo",
+      "crescete",
+      "crescano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "crescere"
+    ],
+    "Passato": [
+      "essere cresciuto"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "crescente"
+    ],
+    "Passato": [
+      "cresciuto"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "crescendo"
+    ],
+    "Passato": [
+      "essendo cresciuto"
+    ]
+  }
+}

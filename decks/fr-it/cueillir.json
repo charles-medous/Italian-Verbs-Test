@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "cueillir",
+  "target_lemma": "cogliere",
+  "meta": {
+    "regularity": {
+      "fr": "irrégulier",
+      "it": "verbo irregolare"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io colgo",
+      "tu cogli",
+      "lui/lei coglie",
+      "noi cogliamo",
+      "voi cogliete",
+      "loro colgono"
+    ],
+    "Passato prossimo": [
+      "io ho colto",
+      "tu hai colto",
+      "lui/lei ha colto",
+      "noi abbiamo colto",
+      "voi avete colto",
+      "loro hanno colto"
+    ],
+    "Imperfetto": [
+      "io coglivo",
+      "tu coglivi",
+      "lui/lei cogliva",
+      "noi coglivamo",
+      "voi coglivate",
+      "loro coglivano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo colto",
+      "tu avevi colto",
+      "lui/lei aveva colto",
+      "noi avevamo colto",
+      "voi avevate colto",
+      "loro avevano colto"
+    ],
+    "Passato remoto": [
+      "io colsi",
+      "tu cogliesti",
+      "lui/lei colse",
+      "noi cogliemmo",
+      "voi coglieste",
+      "loro colsero"
+    ],
+    "Trapassato remoto": [
+      "io ebbi colto",
+      "tu avesti colto",
+      "lui/lei ebbe colto",
+      "noi avemmo colto",
+      "voi aveste colto",
+      "loro ebbero colto"
+    ],
+    "Futuro semplice": [
+      "io coglierò",
+      "tu coglierai",
+      "lui/lei coglierà",
+      "noi coglieremo",
+      "voi coglierete",
+      "loro coglieranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò colto",
+      "tu avrai colto",
+      "lui/lei avrà colto",
+      "noi avremo colto",
+      "voi avrete colto",
+      "loro avranno colto"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io coglierei",
+      "tu coglieresti",
+      "lui/lei coglierebbe",
+      "noi coglieremmo",
+      "voi cogliereste",
+      "loro coglierebbero"
+    ],
+    "Passato": [
+      "io avrei colto",
+      "tu avresti colto",
+      "lui/lei avrebbe colto",
+      "noi avremmo colto",
+      "voi avreste colto",
+      "loro avrebbero colto"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io colga",
+      "che tu colga",
+      "che lui/lei colga",
+      "che noi cogliamo",
+      "che voi cogliate",
+      "che loro colgano"
+    ],
+    "Passato": [
+      "che io abbia colto",
+      "che tu abbia colto",
+      "che lui/lei abbia colto",
+      "che noi abbiamo colto",
+      "che voi abbiate colto",
+      "che loro abbiano colto"
+    ],
+    "Imperfetto": [
+      "che io cogliessi",
+      "che tu cogliessi",
+      "che lui/lei cogliesse",
+      "che noi cogliessimo",
+      "che voi cogliesste",
+      "che loro cogliessero"
+    ],
+    "Trapassato": [
+      "che io avessi colto",
+      "che tu avessi colto",
+      "che lui/lei avesse colto",
+      "che noi avessimo colto",
+      "che voi aveste colto",
+      "che loro avessero colto"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "cogli",
+      "colga",
+      "cogliamo",
+      "cogliete",
+      "colgano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "cogliere"
+    ],
+    "Passato": [
+      "avere colto"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "cogliente"
+    ],
+    "Passato": [
+      "colto"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "cogliendo"
+    ],
+    "Passato": [
+      "avendo colto"
+    ]
+  }
+}

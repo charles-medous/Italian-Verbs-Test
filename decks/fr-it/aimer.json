@@ -1,0 +1,36 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "aimer",
+  "target_lemma": "amare",
+  "meta": {
+    "regularity": { "fr": "1er groupe régulier", "it": "prima coniugazione regolare" },
+    "auxiliary": { "fr": "avoir", "it": "avere" }
+  },
+  "pronouns": {
+    "fr": ["je", "tu", "il/elle", "nous", "vous", "ils/elles"],
+    "it": ["io", "tu", "lui/lei", "noi", "voi", "loro"]
+  },
+  "Indicativo": {
+    "Presente": ["io amo","tu ami","lui/lei ama","noi amiamo","voi amate","loro amano"],
+    "Passato prossimo": ["io ho amato","tu hai amato","lui/lei ha amato","noi abbiamo amato","voi avete amato","loro hanno amato"],
+    "Imperfetto": ["io amavo","tu amavi","lui/lei amava","noi amavamo","voi amavate","loro amavano"],
+    "Trapassato prossimo": ["io avevo amato","tu avevi amato","lui/lei aveva amato","noi avevamo amato","voi avevate amato","loro avevano amato"],
+    "Passato remoto": ["io amai","tu amasti","lui/lei amò","noi amammo","voi amaste","loro amarono"],
+    "Trapassato remoto": ["io ebbi amato","tu avesti amato","lui/lei ebbe amato","noi avemmo amato","voi aveste amato","loro ebbero amato"],
+    "Futuro semplice": ["io amerò","tu amerai","lui/lei amerà","noi ameremo","voi amerete","loro ameranno"],
+    "Futuro anteriore": ["io avrò amato","tu avrai amato","lui/lei avrà amato","noi avremo amato","voi avrete amato","loro avranno amato"]
+  },
+  "Condizionale": {
+    "Presente": ["io amerei","tu ameresti","lui/lei amerebbe","noi ameremmo","voi amereste","loro amerebbero"],
+    "Passato": ["io avrei amato","tu avresti amato","lui/lei avrebbe amato","noi avremmo amato","voi avreste amato","loro avrebbero amato"]
+  },
+  "Congiuntivo": {
+    "Presente": ["che io ami","che tu ami","che lui/lei ami","che noi amiamo","che voi amiate","che loro amino"],
+    "Passato": ["che io abbia amato","che tu abbia amato","che lui/lei abbia amato","che noi abbiamo amato","che voi abbiate amato","che loro abbiano amato"],
+    "Imperfetto": ["che io amassi","che tu amassi","che lui/lei amasse","che noi amassimo","che voi amaste","che loro amassero"],
+    "Trapassato": ["che io avessi amato","che tu avessi amato","che lui/lei avesse amato","che noi avessimo amato","che voi aveste amato","che loro avessero amato"]
+  },
+  "Imperativo": { "Presente": ["—","ama","ami","amiamo","amate","amino"] }
+
+}

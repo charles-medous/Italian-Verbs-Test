@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "décider",
+  "target_lemma": "decidere",
+  "meta": {
+    "regularity": {
+      "fr": "2e groupe (-ere) avec irrégularités",
+      "it": "seconda coniugazione (-ere)"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io decido",
+      "tu decidi",
+      "lui/lei decide",
+      "noi decidiamo",
+      "voi decidete",
+      "loro decidono"
+    ],
+    "Passato prossimo": [
+      "io ho deciso",
+      "tu hai deciso",
+      "lui/lei ha deciso",
+      "noi abbiamo deciso",
+      "voi avete deciso",
+      "loro hanno deciso"
+    ],
+    "Imperfetto": [
+      "io decidevo",
+      "tu decidevi",
+      "lui/lei decideva",
+      "noi decidevamo",
+      "voi decidevate",
+      "loro decidevano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo deciso",
+      "tu avevi deciso",
+      "lui/lei aveva deciso",
+      "noi avevamo deciso",
+      "voi avevate deciso",
+      "loro avevano deciso"
+    ],
+    "Passato remoto": [
+      "io decisi",
+      "tu decidesti",
+      "lui/lei decise",
+      "noi decidemmo",
+      "voi decideste",
+      "loro decisero"
+    ],
+    "Trapassato remoto": [
+      "io ebbi deciso",
+      "tu avesti deciso",
+      "lui/lei ebbe deciso",
+      "noi avemmo deciso",
+      "voi aveste deciso",
+      "loro ebbero deciso"
+    ],
+    "Futuro semplice": [
+      "io deciderò",
+      "tu deciderai",
+      "lui/lei deciderà",
+      "noi decideremo",
+      "voi deciderete",
+      "loro decideranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò deciso",
+      "tu avrai deciso",
+      "lui/lei avrà deciso",
+      "noi avremo deciso",
+      "voi avrete deciso",
+      "loro avranno deciso"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io deciderei",
+      "tu decideresti",
+      "lui/lei deciderebbe",
+      "noi decideremmo",
+      "voi decidereste",
+      "loro deciderebbero"
+    ],
+    "Passato": [
+      "io avrei deciso",
+      "tu avresti deciso",
+      "lui/lei avrebbe deciso",
+      "noi avremmo deciso",
+      "voi avreste deciso",
+      "loro avrebbero deciso"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io decida",
+      "che tu decida",
+      "che lui/lei decida",
+      "che noi decidiamo",
+      "che voi decidiate",
+      "che loro decidano"
+    ],
+    "Passato": [
+      "che io abbia deciso",
+      "che tu abbia deciso",
+      "che lui/lei abbia deciso",
+      "che noi abbiamo deciso",
+      "che voi abbiate deciso",
+      "che loro abbiano deciso"
+    ],
+    "Imperfetto": [
+      "che io decidessi",
+      "che tu decidessi",
+      "che lui/lei decidesse",
+      "che noi decidessimo",
+      "che voi decideste",
+      "che loro decidessero"
+    ],
+    "Trapassato": [
+      "che io avessi deciso",
+      "che tu avessi deciso",
+      "che lui/lei avesse deciso",
+      "che noi avessimo deciso",
+      "che voi aveste deciso",
+      "che loro avessero deciso"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "decidi",
+      "decida",
+      "decidiamo",
+      "decidete",
+      "decidano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "decidere"
+    ],
+    "Passato": [
+      "avere deciso"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "decidente"
+    ],
+    "Passato": [
+      "deciso"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "decidendo"
+    ],
+    "Passato": [
+      "avendo deciso"
+    ]
+  }
+}

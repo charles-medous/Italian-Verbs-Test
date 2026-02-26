@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "enlever",
+  "target_lemma": "togliere",
+  "meta": {
+    "regularity": {
+      "fr": "irrégulier",
+      "it": "verbo irregolare"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io tolgo",
+      "tu togli",
+      "lui/lei toglie",
+      "noi togliamo",
+      "voi togliete",
+      "loro tolgono"
+    ],
+    "Passato prossimo": [
+      "io ho tolto",
+      "tu hai tolto",
+      "lui/lei ha tolto",
+      "noi abbiamo tolto",
+      "voi avete tolto",
+      "loro hanno tolto"
+    ],
+    "Imperfetto": [
+      "io toglivo",
+      "tu toglivi",
+      "lui/lei togliva",
+      "noi toglivamo",
+      "voi toglivate",
+      "loro toglivano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo tolto",
+      "tu avevi tolto",
+      "lui/lei aveva tolto",
+      "noi avevamo tolto",
+      "voi avevate tolto",
+      "loro avevano tolto"
+    ],
+    "Passato remoto": [
+      "io tolsi",
+      "tu togliesti",
+      "lui/lei tolse",
+      "noi togliemmo",
+      "voi toglieste",
+      "loro tolsero"
+    ],
+    "Trapassato remoto": [
+      "io ebbi tolto",
+      "tu avesti tolto",
+      "lui/lei ebbe tolto",
+      "noi avemmo tolto",
+      "voi aveste tolto",
+      "loro ebbero tolto"
+    ],
+    "Futuro semplice": [
+      "io toglierò",
+      "tu toglierai",
+      "lui/lei toglierà",
+      "noi toglieremo",
+      "voi toglierete",
+      "loro toglieranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò tolto",
+      "tu avrai tolto",
+      "lui/lei avrà tolto",
+      "noi avremo tolto",
+      "voi avrete tolto",
+      "loro avranno tolto"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io toglierei",
+      "tu toglieresti",
+      "lui/lei toglierebbe",
+      "noi toglieremmo",
+      "voi togliereste",
+      "loro toglierebbero"
+    ],
+    "Passato": [
+      "io avrei tolto",
+      "tu avresti tolto",
+      "lui/lei avrebbe tolto",
+      "noi avremmo tolto",
+      "voi avreste tolto",
+      "loro avrebbero tolto"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io tolga",
+      "che tu tolga",
+      "che lui/lei tolga",
+      "che noi togliamo",
+      "che voi togliate",
+      "che loro tolgano"
+    ],
+    "Passato": [
+      "che io abbia tolto",
+      "che tu abbia tolto",
+      "che lui/lei abbia tolto",
+      "che noi abbiamo tolto",
+      "che voi abbiate tolto",
+      "che loro abbiano tolto"
+    ],
+    "Imperfetto": [
+      "che io togliessi",
+      "che tu togliessi",
+      "che lui/lei togliesse",
+      "che noi togliessimo",
+      "che voi togliesste",
+      "che loro togliessero"
+    ],
+    "Trapassato": [
+      "che io avessi tolto",
+      "che tu avessi tolto",
+      "che lui/lei avesse tolto",
+      "che noi avessimo tolto",
+      "che voi aveste tolto",
+      "che loro avessero tolto"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "togli",
+      "tolga",
+      "togliamo",
+      "togliete",
+      "tolgano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "togliere"
+    ],
+    "Passato": [
+      "avere tolto"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "togliente"
+    ],
+    "Passato": [
+      "tolto"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "togliendo"
+    ],
+    "Passato": [
+      "avendo tolto"
+    ]
+  }
+}

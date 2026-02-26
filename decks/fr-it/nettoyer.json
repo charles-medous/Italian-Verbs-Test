@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "nettoyer",
+  "target_lemma": "pulire",
+  "meta": {
+    "regularity": {
+      "fr": "3e groupe (-ire)",
+      "it": "terza coniugazione (-ire) con -isc-"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io pulisco",
+      "tu pulisci",
+      "lui/lei pulisce",
+      "noi puliamo",
+      "voi pulite",
+      "loro puliscono"
+    ],
+    "Passato prossimo": [
+      "io ho pulito",
+      "tu hai pulito",
+      "lui/lei ha pulito",
+      "noi abbiamo pulito",
+      "voi avete pulito",
+      "loro hanno pulito"
+    ],
+    "Imperfetto": [
+      "io pulivo",
+      "tu pulivi",
+      "lui/lei puliva",
+      "noi pulivamo",
+      "voi pulivate",
+      "loro pulivano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo pulito",
+      "tu avevi pulito",
+      "lui/lei aveva pulito",
+      "noi avevamo pulito",
+      "voi avevate pulito",
+      "loro avevano pulito"
+    ],
+    "Passato remoto": [
+      "io pulii",
+      "tu pulisti",
+      "lui/lei pulì",
+      "noi pulimmo",
+      "voi puliste",
+      "loro pulirono"
+    ],
+    "Trapassato remoto": [
+      "io ebbi pulito",
+      "tu avesti pulito",
+      "lui/lei ebbe pulito",
+      "noi avemmo pulito",
+      "voi aveste pulito",
+      "loro ebbero pulito"
+    ],
+    "Futuro semplice": [
+      "io pulirò",
+      "tu pulirai",
+      "lui/lei pulirà",
+      "noi puliremo",
+      "voi pulirete",
+      "loro puliranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò pulito",
+      "tu avrai pulito",
+      "lui/lei avrà pulito",
+      "noi avremo pulito",
+      "voi avrete pulito",
+      "loro avranno pulito"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io pulirei",
+      "tu puliresti",
+      "lui/lei pulirebbe",
+      "noi puliremmo",
+      "voi pulireste",
+      "loro pulirebbero"
+    ],
+    "Passato": [
+      "io avrei pulito",
+      "tu avresti pulito",
+      "lui/lei avrebbe pulito",
+      "noi avremmo pulito",
+      "voi avreste pulito",
+      "loro avrebbero pulito"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io pulisca",
+      "che tu pulisca",
+      "che lui/lei pulisca",
+      "che noi puliamo",
+      "che voi puliate",
+      "che loro puliscano"
+    ],
+    "Passato": [
+      "che io abbia pulito",
+      "che tu abbia pulito",
+      "che lui/lei abbia pulito",
+      "che noi abbiamo pulito",
+      "che voi abbiate pulito",
+      "che loro abbiano pulito"
+    ],
+    "Imperfetto": [
+      "che io pulissi",
+      "che tu pulissi",
+      "che lui/lei pulisse",
+      "che noi pulissimo",
+      "che voi puliste",
+      "che loro pulissero"
+    ],
+    "Trapassato": [
+      "che io avessi pulito",
+      "che tu avessi pulito",
+      "che lui/lei avesse pulito",
+      "che noi avessimo pulito",
+      "che voi aveste pulito",
+      "che loro avessero pulito"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "pulisci",
+      "pulisca",
+      "puliamo",
+      "pulite",
+      "puliscano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "pulire"
+    ],
+    "Passato": [
+      "avere pulito"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "pulente"
+    ],
+    "Passato": [
+      "pulito"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "pulendo"
+    ],
+    "Passato": [
+      "avendo pulito"
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "habiller",
+  "target_lemma": "vestire",
+  "meta": {
+    "regularity": {
+      "fr": "3e groupe (-ire)",
+      "it": "terza coniugazione (-ire)"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io vesto",
+      "tu vesti",
+      "lui/lei veste",
+      "noi vestiamo",
+      "voi vestite",
+      "loro vestono"
+    ],
+    "Passato prossimo": [
+      "io ho vestito",
+      "tu hai vestito",
+      "lui/lei ha vestito",
+      "noi abbiamo vestito",
+      "voi avete vestito",
+      "loro hanno vestito"
+    ],
+    "Imperfetto": [
+      "io vestivo",
+      "tu vestivi",
+      "lui/lei vestiva",
+      "noi vestivamo",
+      "voi vestivate",
+      "loro vestivano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo vestito",
+      "tu avevi vestito",
+      "lui/lei aveva vestito",
+      "noi avevamo vestito",
+      "voi avevate vestito",
+      "loro avevano vestito"
+    ],
+    "Passato remoto": [
+      "io vestii",
+      "tu vestisti",
+      "lui/lei vestì",
+      "noi vestimmo",
+      "voi vestiste",
+      "loro vestirono"
+    ],
+    "Trapassato remoto": [
+      "io ebbi vestito",
+      "tu avesti vestito",
+      "lui/lei ebbe vestito",
+      "noi avemmo vestito",
+      "voi aveste vestito",
+      "loro ebbero vestito"
+    ],
+    "Futuro semplice": [
+      "io vestirò",
+      "tu vestirai",
+      "lui/lei vestirà",
+      "noi vestiremo",
+      "voi vestirete",
+      "loro vestiranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò vestito",
+      "tu avrai vestito",
+      "lui/lei avrà vestito",
+      "noi avremo vestito",
+      "voi avrete vestito",
+      "loro avranno vestito"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io vestirei",
+      "tu vestiresti",
+      "lui/lei vestirebbe",
+      "noi vestiremmo",
+      "voi vestireste",
+      "loro vestirebbero"
+    ],
+    "Passato": [
+      "io avrei vestito",
+      "tu avresti vestito",
+      "lui/lei avrebbe vestito",
+      "noi avremmo vestito",
+      "voi avreste vestito",
+      "loro avrebbero vestito"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io vesta",
+      "che tu vesta",
+      "che lui/lei vesta",
+      "che noi vestiamo",
+      "che voi vestiate",
+      "che loro vestano"
+    ],
+    "Passato": [
+      "che io abbia vestito",
+      "che tu abbia vestito",
+      "che lui/lei abbia vestito",
+      "che noi abbiamo vestito",
+      "che voi abbiate vestito",
+      "che loro abbiano vestito"
+    ],
+    "Imperfetto": [
+      "che io vestissi",
+      "che tu vestissi",
+      "che lui/lei vestisse",
+      "che noi vestissimo",
+      "che voi vestiste",
+      "che loro vestissero"
+    ],
+    "Trapassato": [
+      "che io avessi vestito",
+      "che tu avessi vestito",
+      "che lui/lei avesse vestito",
+      "che noi avessimo vestito",
+      "che voi aveste vestito",
+      "che loro avessero vestito"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "vesti",
+      "vesta",
+      "vestiamo",
+      "vestite",
+      "vestano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "vestire"
+    ],
+    "Passato": [
+      "avere vestito"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "vestente"
+    ],
+    "Passato": [
+      "vestito"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "vestendo"
+    ],
+    "Passato": [
+      "avendo vestito"
+    ]
+  }
+}

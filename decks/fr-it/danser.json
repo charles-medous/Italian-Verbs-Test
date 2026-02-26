@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "danser",
+  "target_lemma": "ballare",
+  "meta": {
+    "regularity": {
+      "fr": "1er groupe régulier (approx.)",
+      "it": "prima coniugazione regolare"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io ballo",
+      "tu balli",
+      "lui/lei balla",
+      "noi balliamo",
+      "voi ballate",
+      "loro ballano"
+    ],
+    "Passato prossimo": [
+      "io ho ballato",
+      "tu hai ballato",
+      "lui/lei ha ballato",
+      "noi abbiamo ballato",
+      "voi avete ballato",
+      "loro hanno ballato"
+    ],
+    "Imperfetto": [
+      "io ballavo",
+      "tu ballavi",
+      "lui/lei ballava",
+      "noi ballavamo",
+      "voi ballavate",
+      "loro ballavano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo ballato",
+      "tu avevi ballato",
+      "lui/lei aveva ballato",
+      "noi avevamo ballato",
+      "voi avevate ballato",
+      "loro avevano ballato"
+    ],
+    "Passato remoto": [
+      "io ballai",
+      "tu ballasti",
+      "lui/lei ballò",
+      "noi ballammo",
+      "voi ballaste",
+      "loro ballarono"
+    ],
+    "Trapassato remoto": [
+      "io ebbi ballato",
+      "tu avesti ballato",
+      "lui/lei ebbe ballato",
+      "noi avemmo ballato",
+      "voi aveste ballato",
+      "loro ebbero ballato"
+    ],
+    "Futuro semplice": [
+      "io ballerò",
+      "tu ballerai",
+      "lui/lei ballerà",
+      "noi balleremo",
+      "voi ballerete",
+      "loro balleranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò ballato",
+      "tu avrai ballato",
+      "lui/lei avrà ballato",
+      "noi avremo ballato",
+      "voi avrete ballato",
+      "loro avranno ballato"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io ballerei",
+      "tu balleresti",
+      "lui/lei ballerebbe",
+      "noi balleremmo",
+      "voi ballereste",
+      "loro ballerebbero"
+    ],
+    "Passato": [
+      "io avrei ballato",
+      "tu avresti ballato",
+      "lui/lei avrebbe ballato",
+      "noi avremmo ballato",
+      "voi avreste ballato",
+      "loro avrebbero ballato"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io balli",
+      "che tu balli",
+      "che lui/lei balli",
+      "che noi balliamo",
+      "che voi balliate",
+      "che loro ballino"
+    ],
+    "Passato": [
+      "che io abbia ballato",
+      "che tu abbia ballato",
+      "che lui/lei abbia ballato",
+      "che noi abbiamo ballato",
+      "che voi abbiate ballato",
+      "che loro abbiano ballato"
+    ],
+    "Imperfetto": [
+      "che io ballassi",
+      "che tu ballassi",
+      "che lui/lei ballasse",
+      "che noi ballassimo",
+      "che voi ballaste",
+      "che loro ballassero"
+    ],
+    "Trapassato": [
+      "che io avessi ballato",
+      "che tu avessi ballato",
+      "che lui/lei avesse ballato",
+      "che noi avessimo ballato",
+      "che voi aveste ballato",
+      "che loro avessero ballato"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "balla",
+      "balli",
+      "balliamo",
+      "ballate",
+      "ballino"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "ballare"
+    ],
+    "Passato": [
+      "avere ballato"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "ballante"
+    ],
+    "Passato": [
+      "ballato"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "ballando"
+    ],
+    "Passato": [
+      "avendo ballato"
+    ]
+  }
+}

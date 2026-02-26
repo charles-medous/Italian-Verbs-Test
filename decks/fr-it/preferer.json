@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "préférer",
+  "target_lemma": "preferire",
+  "meta": {
+    "regularity": {
+      "fr": "3e groupe (-ire)",
+      "it": "terza coniugazione (-ire) con -isc-"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io preferisco",
+      "tu preferisci",
+      "lui/lei preferisce",
+      "noi preferiamo",
+      "voi preferite",
+      "loro preferiscono"
+    ],
+    "Passato prossimo": [
+      "io ho preferito",
+      "tu hai preferito",
+      "lui/lei ha preferito",
+      "noi abbiamo preferito",
+      "voi avete preferito",
+      "loro hanno preferito"
+    ],
+    "Imperfetto": [
+      "io preferivo",
+      "tu preferivi",
+      "lui/lei preferiva",
+      "noi preferivamo",
+      "voi preferivate",
+      "loro preferivano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo preferito",
+      "tu avevi preferito",
+      "lui/lei aveva preferito",
+      "noi avevamo preferito",
+      "voi avevate preferito",
+      "loro avevano preferito"
+    ],
+    "Passato remoto": [
+      "io preferii",
+      "tu preferisti",
+      "lui/lei preferì",
+      "noi preferimmo",
+      "voi preferiste",
+      "loro preferirono"
+    ],
+    "Trapassato remoto": [
+      "io ebbi preferito",
+      "tu avesti preferito",
+      "lui/lei ebbe preferito",
+      "noi avemmo preferito",
+      "voi aveste preferito",
+      "loro ebbero preferito"
+    ],
+    "Futuro semplice": [
+      "io preferirò",
+      "tu preferirai",
+      "lui/lei preferirà",
+      "noi preferiremo",
+      "voi preferirete",
+      "loro preferiranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò preferito",
+      "tu avrai preferito",
+      "lui/lei avrà preferito",
+      "noi avremo preferito",
+      "voi avrete preferito",
+      "loro avranno preferito"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io preferirei",
+      "tu preferiresti",
+      "lui/lei preferirebbe",
+      "noi preferiremmo",
+      "voi preferireste",
+      "loro preferirebbero"
+    ],
+    "Passato": [
+      "io avrei preferito",
+      "tu avresti preferito",
+      "lui/lei avrebbe preferito",
+      "noi avremmo preferito",
+      "voi avreste preferito",
+      "loro avrebbero preferito"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io preferisca",
+      "che tu preferisca",
+      "che lui/lei preferisca",
+      "che noi preferiamo",
+      "che voi preferiate",
+      "che loro preferiscano"
+    ],
+    "Passato": [
+      "che io abbia preferito",
+      "che tu abbia preferito",
+      "che lui/lei abbia preferito",
+      "che noi abbiamo preferito",
+      "che voi abbiate preferito",
+      "che loro abbiano preferito"
+    ],
+    "Imperfetto": [
+      "che io preferissi",
+      "che tu preferissi",
+      "che lui/lei preferisse",
+      "che noi preferissimo",
+      "che voi preferiste",
+      "che loro preferissero"
+    ],
+    "Trapassato": [
+      "che io avessi preferito",
+      "che tu avessi preferito",
+      "che lui/lei avesse preferito",
+      "che noi avessimo preferito",
+      "che voi aveste preferito",
+      "che loro avessero preferito"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "preferisci",
+      "preferisca",
+      "preferiamo",
+      "preferite",
+      "preferiscano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "preferire"
+    ],
+    "Passato": [
+      "avere preferito"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "preferente"
+    ],
+    "Passato": [
+      "preferito"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "preferendo"
+    ],
+    "Passato": [
+      "avendo preferito"
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "ouvrir",
+  "target_lemma": "aprire",
+  "meta": {
+    "regularity": {
+      "fr": "3e groupe (-ire)",
+      "it": "terza coniugazione (-ire)"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io apro",
+      "tu apri",
+      "lui/lei apre",
+      "noi apriamo",
+      "voi aprite",
+      "loro aprono"
+    ],
+    "Passato prossimo": [
+      "io ho aperto",
+      "tu hai aperto",
+      "lui/lei ha aperto",
+      "noi abbiamo aperto",
+      "voi avete aperto",
+      "loro hanno aperto"
+    ],
+    "Imperfetto": [
+      "io aprivo",
+      "tu aprivi",
+      "lui/lei apriva",
+      "noi aprivamo",
+      "voi aprivate",
+      "loro aprivano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo aperto",
+      "tu avevi aperto",
+      "lui/lei aveva aperto",
+      "noi avevamo aperto",
+      "voi avevate aperto",
+      "loro avevano aperto"
+    ],
+    "Passato remoto": [
+      "io aprii",
+      "tu apristi",
+      "lui/lei aprì",
+      "noi aprimmo",
+      "voi apriste",
+      "loro aprirono"
+    ],
+    "Trapassato remoto": [
+      "io ebbi aperto",
+      "tu avesti aperto",
+      "lui/lei ebbe aperto",
+      "noi avemmo aperto",
+      "voi aveste aperto",
+      "loro ebbero aperto"
+    ],
+    "Futuro semplice": [
+      "io aprirò",
+      "tu aprirai",
+      "lui/lei aprirà",
+      "noi apriremo",
+      "voi aprirete",
+      "loro apriranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò aperto",
+      "tu avrai aperto",
+      "lui/lei avrà aperto",
+      "noi avremo aperto",
+      "voi avrete aperto",
+      "loro avranno aperto"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io aprirei",
+      "tu apriresti",
+      "lui/lei aprirebbe",
+      "noi apriremmo",
+      "voi aprireste",
+      "loro aprirebbero"
+    ],
+    "Passato": [
+      "io avrei aperto",
+      "tu avresti aperto",
+      "lui/lei avrebbe aperto",
+      "noi avremmo aperto",
+      "voi avreste aperto",
+      "loro avrebbero aperto"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io apra",
+      "che tu apra",
+      "che lui/lei apra",
+      "che noi apriamo",
+      "che voi apriate",
+      "che loro aprano"
+    ],
+    "Passato": [
+      "che io abbia aperto",
+      "che tu abbia aperto",
+      "che lui/lei abbia aperto",
+      "che noi abbiamo aperto",
+      "che voi abbiate aperto",
+      "che loro abbiano aperto"
+    ],
+    "Imperfetto": [
+      "che io aprissi",
+      "che tu aprissi",
+      "che lui/lei aprisse",
+      "che noi aprissimo",
+      "che voi apriste",
+      "che loro aprissero"
+    ],
+    "Trapassato": [
+      "che io avessi aperto",
+      "che tu avessi aperto",
+      "che lui/lei avesse aperto",
+      "che noi avessimo aperto",
+      "che voi aveste aperto",
+      "che loro avessero aperto"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "apri",
+      "apra",
+      "apriamo",
+      "aprite",
+      "aprano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "aprire"
+    ],
+    "Passato": [
+      "avere aperto"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "aprente"
+    ],
+    "Passato": [
+      "aperto"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "aprendo"
+    ],
+    "Passato": [
+      "avendo aperto"
+    ]
+  }
+}

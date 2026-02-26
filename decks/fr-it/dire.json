@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "dire",
+  "target_lemma": "dire",
+  "meta": {
+    "regularity": {
+      "fr": "irrégulier",
+      "it": "verbo irregolare"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io dico",
+      "tu dici",
+      "lui/lei dice",
+      "noi diciamo",
+      "voi dite",
+      "loro dicono"
+    ],
+    "Passato prossimo": [
+      "io ho detto",
+      "tu hai detto",
+      "lui/lei ha detto",
+      "noi abbiamo detto",
+      "voi avete detto",
+      "loro hanno detto"
+    ],
+    "Imperfetto": [
+      "io dicevo",
+      "tu dicevi",
+      "lui/lei diceva",
+      "noi dicevamo",
+      "voi dicevate",
+      "loro dicevano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo detto",
+      "tu avevi detto",
+      "lui/lei aveva detto",
+      "noi avevamo detto",
+      "voi avevate detto",
+      "loro avevano detto"
+    ],
+    "Passato remoto": [
+      "io dissi",
+      "tu dicesti",
+      "lui/lei disse",
+      "noi dicemmo",
+      "voi diceste",
+      "loro dissero"
+    ],
+    "Trapassato remoto": [
+      "io ebbi detto",
+      "tu avesti detto",
+      "lui/lei ebbe detto",
+      "noi avemmo detto",
+      "voi aveste detto",
+      "loro ebbero detto"
+    ],
+    "Futuro semplice": [
+      "io dirò",
+      "tu dirai",
+      "lui/lei dirà",
+      "noi diremo",
+      "voi direte",
+      "loro diranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò detto",
+      "tu avrai detto",
+      "lui/lei avrà detto",
+      "noi avremo detto",
+      "voi avrete detto",
+      "loro avranno detto"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io direi",
+      "tu diresti",
+      "lui/lei direbbe",
+      "noi diremmo",
+      "voi direste",
+      "loro direbbero"
+    ],
+    "Passato": [
+      "io avrei detto",
+      "tu avresti detto",
+      "lui/lei avrebbe detto",
+      "noi avremmo detto",
+      "voi avreste detto",
+      "loro avrebbero detto"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io dica",
+      "che tu dica",
+      "che lui/lei dica",
+      "che noi diciamo",
+      "che voi diciate",
+      "che loro dicano"
+    ],
+    "Passato": [
+      "che io abbia detto",
+      "che tu abbia detto",
+      "che lui/lei abbia detto",
+      "che noi abbiamo detto",
+      "che voi abbiate detto",
+      "che loro abbiano detto"
+    ],
+    "Imperfetto": [
+      "che io dicessi",
+      "che tu dicessi",
+      "che lui/lei dicesse",
+      "che noi dicessimo",
+      "che voi dicesste",
+      "che loro dicessero"
+    ],
+    "Trapassato": [
+      "che io avessi detto",
+      "che tu avessi detto",
+      "che lui/lei avesse detto",
+      "che noi avessimo detto",
+      "che voi aveste detto",
+      "che loro avessero detto"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "di'",
+      "dica",
+      "diciamo",
+      "dite",
+      "dicano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "dire"
+    ],
+    "Passato": [
+      "avere detto"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "dente"
+    ],
+    "Passato": [
+      "detto"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "dicendo"
+    ],
+    "Passato": [
+      "avendo detto"
+    ]
+  }
+}

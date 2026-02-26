@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "savoir",
+  "target_lemma": "sapere",
+  "meta": {
+    "regularity": {
+      "fr": "irrégulier",
+      "it": "verbo irregolare"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io so",
+      "tu sai",
+      "lui/lei sa",
+      "noi sappiamo",
+      "voi sapete",
+      "loro sanno"
+    ],
+    "Passato prossimo": [
+      "io ho saputo",
+      "tu hai saputo",
+      "lui/lei ha saputo",
+      "noi abbiamo saputo",
+      "voi avete saputo",
+      "loro hanno saputo"
+    ],
+    "Imperfetto": [
+      "io sapvo",
+      "tu sapvi",
+      "lui/lei sapva",
+      "noi sapvamo",
+      "voi sapvate",
+      "loro sapvano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo saputo",
+      "tu avevi saputo",
+      "lui/lei aveva saputo",
+      "noi avevamo saputo",
+      "voi avevate saputo",
+      "loro avevano saputo"
+    ],
+    "Passato remoto": [
+      "io seppi",
+      "tu sapesti",
+      "lui/lei seppe",
+      "noi sapemmo",
+      "voi sapeste",
+      "loro seppero"
+    ],
+    "Trapassato remoto": [
+      "io ebbi saputo",
+      "tu avesti saputo",
+      "lui/lei ebbe saputo",
+      "noi avemmo saputo",
+      "voi aveste saputo",
+      "loro ebbero saputo"
+    ],
+    "Futuro semplice": [
+      "io saprò",
+      "tu saprai",
+      "lui/lei saprà",
+      "noi sapremo",
+      "voi saprete",
+      "loro sapranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò saputo",
+      "tu avrai saputo",
+      "lui/lei avrà saputo",
+      "noi avremo saputo",
+      "voi avrete saputo",
+      "loro avranno saputo"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io saprei",
+      "tu sapresti",
+      "lui/lei saprebbe",
+      "noi sapremmo",
+      "voi sapreste",
+      "loro saprebbero"
+    ],
+    "Passato": [
+      "io avrei saputo",
+      "tu avresti saputo",
+      "lui/lei avrebbe saputo",
+      "noi avremmo saputo",
+      "voi avreste saputo",
+      "loro avrebbero saputo"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io sappia",
+      "che tu sappia",
+      "che lui/lei sappia",
+      "che noi sappiamo",
+      "che voi sappiate",
+      "che loro sappiano"
+    ],
+    "Passato": [
+      "che io abbia saputo",
+      "che tu abbia saputo",
+      "che lui/lei abbia saputo",
+      "che noi abbiamo saputo",
+      "che voi abbiate saputo",
+      "che loro abbiano saputo"
+    ],
+    "Imperfetto": [
+      "che io sapessi",
+      "che tu sapessi",
+      "che lui/lei sapesse",
+      "che noi sapessimo",
+      "che voi sapesste",
+      "che loro sapessero"
+    ],
+    "Trapassato": [
+      "che io avessi saputo",
+      "che tu avessi saputo",
+      "che lui/lei avesse saputo",
+      "che noi avessimo saputo",
+      "che voi aveste saputo",
+      "che loro avessero saputo"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "sappi",
+      "sappia",
+      "sappiamo",
+      "sappiate",
+      "sappiano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "sapere"
+    ],
+    "Passato": [
+      "avere saputo"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "sapente"
+    ],
+    "Passato": [
+      "saputo"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "sapendo"
+    ],
+    "Passato": [
+      "avendo saputo"
+    ]
+  }
+}

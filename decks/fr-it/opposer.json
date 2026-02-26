@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "opposer",
+  "target_lemma": "opporre",
+  "meta": {
+    "regularity": {
+      "fr": "irrégulier",
+      "it": "verbo irregolare"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io oppongo",
+      "tu opponi",
+      "lui/lei oppone",
+      "noi opponiamo",
+      "voi opponete",
+      "loro oppongono"
+    ],
+    "Passato prossimo": [
+      "io ho opposto",
+      "tu hai opposto",
+      "lui/lei ha opposto",
+      "noi abbiamo opposto",
+      "voi avete opposto",
+      "loro hanno opposto"
+    ],
+    "Imperfetto": [
+      "io opponevo",
+      "tu opponevi",
+      "lui/lei opponeva",
+      "noi opponevamo",
+      "voi opponevate",
+      "loro opponevano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo opposto",
+      "tu avevi opposto",
+      "lui/lei aveva opposto",
+      "noi avevamo opposto",
+      "voi avevate opposto",
+      "loro avevano opposto"
+    ],
+    "Passato remoto": [
+      "io opposi",
+      "tu opponesti",
+      "lui/lei oppose",
+      "noi opponemmo",
+      "voi opponeste",
+      "loro opposero"
+    ],
+    "Trapassato remoto": [
+      "io ebbi opposto",
+      "tu avesti opposto",
+      "lui/lei ebbe opposto",
+      "noi avemmo opposto",
+      "voi aveste opposto",
+      "loro ebbero opposto"
+    ],
+    "Futuro semplice": [
+      "io opporrò",
+      "tu opporrai",
+      "lui/lei opporrà",
+      "noi opporremo",
+      "voi opporrete",
+      "loro opporranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò opposto",
+      "tu avrai opposto",
+      "lui/lei avrà opposto",
+      "noi avremo opposto",
+      "voi avrete opposto",
+      "loro avranno opposto"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io opporrei",
+      "tu opporresti",
+      "lui/lei opporrebbe",
+      "noi opporremmo",
+      "voi opporreste",
+      "loro opporrebbero"
+    ],
+    "Passato": [
+      "io avrei opposto",
+      "tu avresti opposto",
+      "lui/lei avrebbe opposto",
+      "noi avremmo opposto",
+      "voi avreste opposto",
+      "loro avrebbero opposto"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io opponga",
+      "che tu opponga",
+      "che lui/lei opponga",
+      "che noi opponiamo",
+      "che voi opponiate",
+      "che loro oppongano"
+    ],
+    "Passato": [
+      "che io abbia opposto",
+      "che tu abbia opposto",
+      "che lui/lei abbia opposto",
+      "che noi abbiamo opposto",
+      "che voi abbiate opposto",
+      "che loro abbiano opposto"
+    ],
+    "Imperfetto": [
+      "che io opponessi",
+      "che tu opponessi",
+      "che lui/lei opponesse",
+      "che noi opponessimo",
+      "che voi opponesste",
+      "che loro opponessero"
+    ],
+    "Trapassato": [
+      "che io avessi opposto",
+      "che tu avessi opposto",
+      "che lui/lei avesse opposto",
+      "che noi avessimo opposto",
+      "che voi aveste opposto",
+      "che loro avessero opposto"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "opponi",
+      "opponga",
+      "opponiamo",
+      "opponete",
+      "oppongano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "opporre"
+    ],
+    "Passato": [
+      "avere opposto"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "oppoente"
+    ],
+    "Passato": [
+      "opposto"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "opponendo"
+    ],
+    "Passato": [
+      "avendo opposto"
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "écouter",
+  "target_lemma": "ascoltare",
+  "meta": {
+    "regularity": {
+      "fr": "1er groupe régulier (approx.)",
+      "it": "prima coniugazione regolare"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io ascolto",
+      "tu ascolti",
+      "lui/lei ascolta",
+      "noi ascoltiamo",
+      "voi ascoltate",
+      "loro ascoltano"
+    ],
+    "Passato prossimo": [
+      "io ho ascoltato",
+      "tu hai ascoltato",
+      "lui/lei ha ascoltato",
+      "noi abbiamo ascoltato",
+      "voi avete ascoltato",
+      "loro hanno ascoltato"
+    ],
+    "Imperfetto": [
+      "io ascoltavo",
+      "tu ascoltavi",
+      "lui/lei ascoltava",
+      "noi ascoltavamo",
+      "voi ascoltavate",
+      "loro ascoltavano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo ascoltato",
+      "tu avevi ascoltato",
+      "lui/lei aveva ascoltato",
+      "noi avevamo ascoltato",
+      "voi avevate ascoltato",
+      "loro avevano ascoltato"
+    ],
+    "Passato remoto": [
+      "io ascoltai",
+      "tu ascoltasti",
+      "lui/lei ascoltò",
+      "noi ascoltammo",
+      "voi ascoltaste",
+      "loro ascoltarono"
+    ],
+    "Trapassato remoto": [
+      "io ebbi ascoltato",
+      "tu avesti ascoltato",
+      "lui/lei ebbe ascoltato",
+      "noi avemmo ascoltato",
+      "voi aveste ascoltato",
+      "loro ebbero ascoltato"
+    ],
+    "Futuro semplice": [
+      "io ascolterò",
+      "tu ascolterai",
+      "lui/lei ascolterà",
+      "noi ascolteremo",
+      "voi ascolterete",
+      "loro ascolteranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò ascoltato",
+      "tu avrai ascoltato",
+      "lui/lei avrà ascoltato",
+      "noi avremo ascoltato",
+      "voi avrete ascoltato",
+      "loro avranno ascoltato"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io ascolterei",
+      "tu ascolteresti",
+      "lui/lei ascolterebbe",
+      "noi ascolteremmo",
+      "voi ascoltereste",
+      "loro ascolterebbero"
+    ],
+    "Passato": [
+      "io avrei ascoltato",
+      "tu avresti ascoltato",
+      "lui/lei avrebbe ascoltato",
+      "noi avremmo ascoltato",
+      "voi avreste ascoltato",
+      "loro avrebbero ascoltato"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io ascolti",
+      "che tu ascolti",
+      "che lui/lei ascolti",
+      "che noi ascoltiamo",
+      "che voi ascoltiate",
+      "che loro ascoltino"
+    ],
+    "Passato": [
+      "che io abbia ascoltato",
+      "che tu abbia ascoltato",
+      "che lui/lei abbia ascoltato",
+      "che noi abbiamo ascoltato",
+      "che voi abbiate ascoltato",
+      "che loro abbiano ascoltato"
+    ],
+    "Imperfetto": [
+      "che io ascoltassi",
+      "che tu ascoltassi",
+      "che lui/lei ascoltasse",
+      "che noi ascoltassimo",
+      "che voi ascoltaste",
+      "che loro ascoltassero"
+    ],
+    "Trapassato": [
+      "che io avessi ascoltato",
+      "che tu avessi ascoltato",
+      "che lui/lei avesse ascoltato",
+      "che noi avessimo ascoltato",
+      "che voi aveste ascoltato",
+      "che loro avessero ascoltato"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "ascolta",
+      "ascolti",
+      "ascoltiamo",
+      "ascoltate",
+      "ascoltino"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "ascoltare"
+    ],
+    "Passato": [
+      "avere ascoltato"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "ascoltante"
+    ],
+    "Passato": [
+      "ascoltato"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "ascoltando"
+    ],
+    "Passato": [
+      "avendo ascoltato"
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "lire",
+  "target_lemma": "leggere",
+  "meta": {
+    "regularity": {
+      "fr": "2e groupe (-ere) avec irrégularités",
+      "it": "seconda coniugazione (-ere)"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io leggo",
+      "tu leggi",
+      "lui/lei legge",
+      "noi leggiamo",
+      "voi leggete",
+      "loro leggono"
+    ],
+    "Passato prossimo": [
+      "io ho letto",
+      "tu hai letto",
+      "lui/lei ha letto",
+      "noi abbiamo letto",
+      "voi avete letto",
+      "loro hanno letto"
+    ],
+    "Imperfetto": [
+      "io leggevo",
+      "tu leggevi",
+      "lui/lei leggeva",
+      "noi leggevamo",
+      "voi leggevate",
+      "loro leggevano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo letto",
+      "tu avevi letto",
+      "lui/lei aveva letto",
+      "noi avevamo letto",
+      "voi avevate letto",
+      "loro avevano letto"
+    ],
+    "Passato remoto": [
+      "io lessi",
+      "tu leggesti",
+      "lui/lei lesse",
+      "noi leggemmo",
+      "voi leggeste",
+      "loro lessero"
+    ],
+    "Trapassato remoto": [
+      "io ebbi letto",
+      "tu avesti letto",
+      "lui/lei ebbe letto",
+      "noi avemmo letto",
+      "voi aveste letto",
+      "loro ebbero letto"
+    ],
+    "Futuro semplice": [
+      "io leggerò",
+      "tu leggerai",
+      "lui/lei leggerà",
+      "noi leggeremo",
+      "voi leggerete",
+      "loro leggeranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò letto",
+      "tu avrai letto",
+      "lui/lei avrà letto",
+      "noi avremo letto",
+      "voi avrete letto",
+      "loro avranno letto"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io leggerei",
+      "tu leggeresti",
+      "lui/lei leggerebbe",
+      "noi leggeremmo",
+      "voi leggereste",
+      "loro leggerebbero"
+    ],
+    "Passato": [
+      "io avrei letto",
+      "tu avresti letto",
+      "lui/lei avrebbe letto",
+      "noi avremmo letto",
+      "voi avreste letto",
+      "loro avrebbero letto"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io legga",
+      "che tu legga",
+      "che lui/lei legga",
+      "che noi leggiamo",
+      "che voi leggiate",
+      "che loro leggano"
+    ],
+    "Passato": [
+      "che io abbia letto",
+      "che tu abbia letto",
+      "che lui/lei abbia letto",
+      "che noi abbiamo letto",
+      "che voi abbiate letto",
+      "che loro abbiano letto"
+    ],
+    "Imperfetto": [
+      "che io leggessi",
+      "che tu leggessi",
+      "che lui/lei leggesse",
+      "che noi leggessimo",
+      "che voi leggeste",
+      "che loro leggessero"
+    ],
+    "Trapassato": [
+      "che io avessi letto",
+      "che tu avessi letto",
+      "che lui/lei avesse letto",
+      "che noi avessimo letto",
+      "che voi aveste letto",
+      "che loro avessero letto"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "leggi",
+      "legga",
+      "leggiamo",
+      "leggete",
+      "leggano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "leggere"
+    ],
+    "Passato": [
+      "avere letto"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "leggente"
+    ],
+    "Passato": [
+      "letto"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "leggendo"
+    ],
+    "Passato": [
+      "avendo letto"
+    ]
+  }
+}
