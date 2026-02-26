@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "travailler",
+  "target_lemma": "lavorare",
+  "meta": {
+    "regularity": {
+      "fr": "1er groupe régulier (approx.)",
+      "it": "prima coniugazione regolare"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io lavoro",
+      "tu lavori",
+      "lui/lei lavora",
+      "noi lavoriamo",
+      "voi lavorate",
+      "loro lavorano"
+    ],
+    "Passato prossimo": [
+      "io ho lavorato",
+      "tu hai lavorato",
+      "lui/lei ha lavorato",
+      "noi abbiamo lavorato",
+      "voi avete lavorato",
+      "loro hanno lavorato"
+    ],
+    "Imperfetto": [
+      "io lavoravo",
+      "tu lavoravi",
+      "lui/lei lavorava",
+      "noi lavoravamo",
+      "voi lavoravate",
+      "loro lavoravano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo lavorato",
+      "tu avevi lavorato",
+      "lui/lei aveva lavorato",
+      "noi avevamo lavorato",
+      "voi avevate lavorato",
+      "loro avevano lavorato"
+    ],
+    "Passato remoto": [
+      "io lavorai",
+      "tu lavorasti",
+      "lui/lei lavorò",
+      "noi lavorammo",
+      "voi lavoraste",
+      "loro lavorarono"
+    ],
+    "Trapassato remoto": [
+      "io ebbi lavorato",
+      "tu avesti lavorato",
+      "lui/lei ebbe lavorato",
+      "noi avemmo lavorato",
+      "voi aveste lavorato",
+      "loro ebbero lavorato"
+    ],
+    "Futuro semplice": [
+      "io lavorerò",
+      "tu lavorerai",
+      "lui/lei lavorerà",
+      "noi lavoreremo",
+      "voi lavorerete",
+      "loro lavoreranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò lavorato",
+      "tu avrai lavorato",
+      "lui/lei avrà lavorato",
+      "noi avremo lavorato",
+      "voi avrete lavorato",
+      "loro avranno lavorato"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io lavorerei",
+      "tu lavoreresti",
+      "lui/lei lavorerebbe",
+      "noi lavoreremmo",
+      "voi lavorereste",
+      "loro lavorerebbero"
+    ],
+    "Passato": [
+      "io avrei lavorato",
+      "tu avresti lavorato",
+      "lui/lei avrebbe lavorato",
+      "noi avremmo lavorato",
+      "voi avreste lavorato",
+      "loro avrebbero lavorato"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io lavori",
+      "che tu lavori",
+      "che lui/lei lavori",
+      "che noi lavoriamo",
+      "che voi lavoriate",
+      "che loro lavorino"
+    ],
+    "Passato": [
+      "che io abbia lavorato",
+      "che tu abbia lavorato",
+      "che lui/lei abbia lavorato",
+      "che noi abbiamo lavorato",
+      "che voi abbiate lavorato",
+      "che loro abbiano lavorato"
+    ],
+    "Imperfetto": [
+      "che io lavorassi",
+      "che tu lavorassi",
+      "che lui/lei lavorasse",
+      "che noi lavorassimo",
+      "che voi lavoraste",
+      "che loro lavorassero"
+    ],
+    "Trapassato": [
+      "che io avessi lavorato",
+      "che tu avessi lavorato",
+      "che lui/lei avesse lavorato",
+      "che noi avessimo lavorato",
+      "che voi aveste lavorato",
+      "che loro avessero lavorato"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "lavora",
+      "lavori",
+      "lavoriamo",
+      "lavorate",
+      "lavorino"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "lavorare"
+    ],
+    "Passato": [
+      "avere lavorato"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "lavorante"
+    ],
+    "Passato": [
+      "lavorato"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "lavorando"
+    ],
+    "Passato": [
+      "avendo lavorato"
+    ]
+  }
+}

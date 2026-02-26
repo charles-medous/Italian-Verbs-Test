@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "vendre",
+  "target_lemma": "vendere",
+  "meta": {
+    "regularity": {
+      "fr": "2e groupe (-ere) avec irrégularités",
+      "it": "seconda coniugazione (-ere)"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io vendo",
+      "tu vendi",
+      "lui/lei vende",
+      "noi vendiamo",
+      "voi vendete",
+      "loro vendono"
+    ],
+    "Passato prossimo": [
+      "io ho venduto",
+      "tu hai venduto",
+      "lui/lei ha venduto",
+      "noi abbiamo venduto",
+      "voi avete venduto",
+      "loro hanno venduto"
+    ],
+    "Imperfetto": [
+      "io vendevo",
+      "tu vendevi",
+      "lui/lei vendeva",
+      "noi vendevamo",
+      "voi vendevate",
+      "loro vendevano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo venduto",
+      "tu avevi venduto",
+      "lui/lei aveva venduto",
+      "noi avevamo venduto",
+      "voi avevate venduto",
+      "loro avevano venduto"
+    ],
+    "Passato remoto": [
+      "io vendetti",
+      "tu vendesti",
+      "lui/lei vendette",
+      "noi vendemmo",
+      "voi vendeste",
+      "loro vendettero"
+    ],
+    "Trapassato remoto": [
+      "io ebbi venduto",
+      "tu avesti venduto",
+      "lui/lei ebbe venduto",
+      "noi avemmo venduto",
+      "voi aveste venduto",
+      "loro ebbero venduto"
+    ],
+    "Futuro semplice": [
+      "io venderò",
+      "tu venderai",
+      "lui/lei venderà",
+      "noi venderemo",
+      "voi venderete",
+      "loro venderanno"
+    ],
+    "Futuro anteriore": [
+      "io avrò venduto",
+      "tu avrai venduto",
+      "lui/lei avrà venduto",
+      "noi avremo venduto",
+      "voi avrete venduto",
+      "loro avranno venduto"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io venderei",
+      "tu venderesti",
+      "lui/lei venderebbe",
+      "noi venderemmo",
+      "voi vendereste",
+      "loro venderebbero"
+    ],
+    "Passato": [
+      "io avrei venduto",
+      "tu avresti venduto",
+      "lui/lei avrebbe venduto",
+      "noi avremmo venduto",
+      "voi avreste venduto",
+      "loro avrebbero venduto"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io venda",
+      "che tu venda",
+      "che lui/lei venda",
+      "che noi vendiamo",
+      "che voi vendiate",
+      "che loro vendano"
+    ],
+    "Passato": [
+      "che io abbia venduto",
+      "che tu abbia venduto",
+      "che lui/lei abbia venduto",
+      "che noi abbiamo venduto",
+      "che voi abbiate venduto",
+      "che loro abbiano venduto"
+    ],
+    "Imperfetto": [
+      "che io vendessi",
+      "che tu vendessi",
+      "che lui/lei vendesse",
+      "che noi vendessimo",
+      "che voi vendeste",
+      "che loro vendessero"
+    ],
+    "Trapassato": [
+      "che io avessi venduto",
+      "che tu avessi venduto",
+      "che lui/lei avesse venduto",
+      "che noi avessimo venduto",
+      "che voi aveste venduto",
+      "che loro avessero venduto"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "vendi",
+      "venda",
+      "vendiamo",
+      "vendete",
+      "vendano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "vendere"
+    ],
+    "Passato": [
+      "avere venduto"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "vendente"
+    ],
+    "Passato": [
+      "venduto"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "vendendo"
+    ],
+    "Passato": [
+      "avendo venduto"
+    ]
+  }
+}

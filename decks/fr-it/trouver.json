@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "trouver",
+  "target_lemma": "trovare",
+  "meta": {
+    "regularity": {
+      "fr": "1er groupe régulier (approx.)",
+      "it": "prima coniugazione regolare"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io trovo",
+      "tu trovi",
+      "lui/lei trova",
+      "noi troviamo",
+      "voi trovate",
+      "loro trovano"
+    ],
+    "Passato prossimo": [
+      "io ho trovato",
+      "tu hai trovato",
+      "lui/lei ha trovato",
+      "noi abbiamo trovato",
+      "voi avete trovato",
+      "loro hanno trovato"
+    ],
+    "Imperfetto": [
+      "io trovavo",
+      "tu trovavi",
+      "lui/lei trovava",
+      "noi trovavamo",
+      "voi trovavate",
+      "loro trovavano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo trovato",
+      "tu avevi trovato",
+      "lui/lei aveva trovato",
+      "noi avevamo trovato",
+      "voi avevate trovato",
+      "loro avevano trovato"
+    ],
+    "Passato remoto": [
+      "io trovai",
+      "tu trovasti",
+      "lui/lei trovò",
+      "noi trovammo",
+      "voi trovaste",
+      "loro trovarono"
+    ],
+    "Trapassato remoto": [
+      "io ebbi trovato",
+      "tu avesti trovato",
+      "lui/lei ebbe trovato",
+      "noi avemmo trovato",
+      "voi aveste trovato",
+      "loro ebbero trovato"
+    ],
+    "Futuro semplice": [
+      "io troverò",
+      "tu troverai",
+      "lui/lei troverà",
+      "noi troveremo",
+      "voi troverete",
+      "loro troveranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò trovato",
+      "tu avrai trovato",
+      "lui/lei avrà trovato",
+      "noi avremo trovato",
+      "voi avrete trovato",
+      "loro avranno trovato"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io troverei",
+      "tu troveresti",
+      "lui/lei troverebbe",
+      "noi troveremmo",
+      "voi trovereste",
+      "loro troverebbero"
+    ],
+    "Passato": [
+      "io avrei trovato",
+      "tu avresti trovato",
+      "lui/lei avrebbe trovato",
+      "noi avremmo trovato",
+      "voi avreste trovato",
+      "loro avrebbero trovato"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io trovi",
+      "che tu trovi",
+      "che lui/lei trovi",
+      "che noi troviamo",
+      "che voi troviate",
+      "che loro trovino"
+    ],
+    "Passato": [
+      "che io abbia trovato",
+      "che tu abbia trovato",
+      "che lui/lei abbia trovato",
+      "che noi abbiamo trovato",
+      "che voi abbiate trovato",
+      "che loro abbiano trovato"
+    ],
+    "Imperfetto": [
+      "che io trovassi",
+      "che tu trovassi",
+      "che lui/lei trovasse",
+      "che noi trovassimo",
+      "che voi trovaste",
+      "che loro trovassero"
+    ],
+    "Trapassato": [
+      "che io avessi trovato",
+      "che tu avessi trovato",
+      "che lui/lei avesse trovato",
+      "che noi avessimo trovato",
+      "che voi aveste trovato",
+      "che loro avessero trovato"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "trova",
+      "trovi",
+      "troviamo",
+      "trovate",
+      "trovino"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "trovare"
+    ],
+    "Passato": [
+      "avere trovato"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "trovante"
+    ],
+    "Passato": [
+      "trovato"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "trovando"
+    ],
+    "Passato": [
+      "avendo trovato"
+    ]
+  }
+}

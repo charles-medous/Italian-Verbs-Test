@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "tenir",
+  "target_lemma": "tenere",
+  "meta": {
+    "regularity": {
+      "fr": "irrégulier",
+      "it": "verbo irregolare"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io tengo",
+      "tu tieni",
+      "lui/lei tiene",
+      "noi teniamo",
+      "voi tenete",
+      "loro tengono"
+    ],
+    "Passato prossimo": [
+      "io ho tenuto",
+      "tu hai tenuto",
+      "lui/lei ha tenuto",
+      "noi abbiamo tenuto",
+      "voi avete tenuto",
+      "loro hanno tenuto"
+    ],
+    "Imperfetto": [
+      "io tenvo",
+      "tu tenvi",
+      "lui/lei tenva",
+      "noi tenvamo",
+      "voi tenvate",
+      "loro tenvano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo tenuto",
+      "tu avevi tenuto",
+      "lui/lei aveva tenuto",
+      "noi avevamo tenuto",
+      "voi avevate tenuto",
+      "loro avevano tenuto"
+    ],
+    "Passato remoto": [
+      "io tenni",
+      "tu tenesti",
+      "lui/lei tenne",
+      "noi tenemmo",
+      "voi teneste",
+      "loro tennero"
+    ],
+    "Trapassato remoto": [
+      "io ebbi tenuto",
+      "tu avesti tenuto",
+      "lui/lei ebbe tenuto",
+      "noi avemmo tenuto",
+      "voi aveste tenuto",
+      "loro ebbero tenuto"
+    ],
+    "Futuro semplice": [
+      "io terrò",
+      "tu terrai",
+      "lui/lei terrà",
+      "noi terremo",
+      "voi terrete",
+      "loro terranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò tenuto",
+      "tu avrai tenuto",
+      "lui/lei avrà tenuto",
+      "noi avremo tenuto",
+      "voi avrete tenuto",
+      "loro avranno tenuto"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io terrei",
+      "tu terresti",
+      "lui/lei terrebbe",
+      "noi terremmo",
+      "voi terreste",
+      "loro terrebbero"
+    ],
+    "Passato": [
+      "io avrei tenuto",
+      "tu avresti tenuto",
+      "lui/lei avrebbe tenuto",
+      "noi avremmo tenuto",
+      "voi avreste tenuto",
+      "loro avrebbero tenuto"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io tenga",
+      "che tu tenga",
+      "che lui/lei tenga",
+      "che noi teniamo",
+      "che voi teniate",
+      "che loro tengano"
+    ],
+    "Passato": [
+      "che io abbia tenuto",
+      "che tu abbia tenuto",
+      "che lui/lei abbia tenuto",
+      "che noi abbiamo tenuto",
+      "che voi abbiate tenuto",
+      "che loro abbiano tenuto"
+    ],
+    "Imperfetto": [
+      "che io tenessi",
+      "che tu tenessi",
+      "che lui/lei tenesse",
+      "che noi tenessimo",
+      "che voi tenesste",
+      "che loro tenessero"
+    ],
+    "Trapassato": [
+      "che io avessi tenuto",
+      "che tu avessi tenuto",
+      "che lui/lei avesse tenuto",
+      "che noi avessimo tenuto",
+      "che voi aveste tenuto",
+      "che loro avessero tenuto"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "tieni",
+      "tenga",
+      "teniamo",
+      "tenete",
+      "tengano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "tenere"
+    ],
+    "Passato": [
+      "avere tenuto"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "tenente"
+    ],
+    "Passato": [
+      "tenuto"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "tenendo"
+    ],
+    "Passato": [
+      "avendo tenuto"
+    ]
+  }
+}

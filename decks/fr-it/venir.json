@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "venir",
+  "target_lemma": "venire",
+  "meta": {
+    "regularity": {
+      "fr": "irrégulier",
+      "it": "verbo irregolare"
+    },
+    "auxiliary": {
+      "fr": "être",
+      "it": "essere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io vengo",
+      "tu vieni",
+      "lui/lei viene",
+      "noi veniamo",
+      "voi venite",
+      "loro vengono"
+    ],
+    "Passato prossimo": [
+      "io sono venuti",
+      "tu sei venuto",
+      "lui/lei è venuto",
+      "noi siamo venuti",
+      "voi siete venuti",
+      "loro sono venuti"
+    ],
+    "Imperfetto": [
+      "io venvo",
+      "tu venvi",
+      "lui/lei venva",
+      "noi venvamo",
+      "voi venvate",
+      "loro venvano"
+    ],
+    "Trapassato prossimo": [
+      "io ero venuto",
+      "tu eri venuto",
+      "lui/lei era venuto",
+      "noi eravamo venuti",
+      "voi eravate venuti",
+      "loro erano venuti"
+    ],
+    "Passato remoto": [
+      "io venni",
+      "tu venisti",
+      "lui/lei venne",
+      "noi venimmo",
+      "voi veniste",
+      "loro vennero"
+    ],
+    "Trapassato remoto": [
+      "io fui venuto",
+      "tu fosti venuto",
+      "lui/lei fu venuto",
+      "noi fummo venuti",
+      "voi foste venuti",
+      "loro furono venuti"
+    ],
+    "Futuro semplice": [
+      "io verrò",
+      "tu verrai",
+      "lui/lei verrà",
+      "noi verremo",
+      "voi verrete",
+      "loro verranno"
+    ],
+    "Futuro anteriore": [
+      "io sarò venuto",
+      "tu sarai venuto",
+      "lui/lei sarà venuto",
+      "noi saremo venuti",
+      "voi sarete venuti",
+      "loro saranno venuti"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io verrei",
+      "tu verresti",
+      "lui/lei verrebbe",
+      "noi verremmo",
+      "voi verreste",
+      "loro verrebbero"
+    ],
+    "Passato": [
+      "io sarei venuto",
+      "tu saresti venuto",
+      "lui/lei sarebbe venuto",
+      "noi saremmo venuti",
+      "voi sareste venuti",
+      "loro sarebbero venuto"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io venga",
+      "che tu venga",
+      "che lui/lei venga",
+      "che noi veniamo",
+      "che voi veniate",
+      "che loro vengano"
+    ],
+    "Passato": [
+      "che io sia venuto",
+      "che tu sia venuto",
+      "che lui/lei sia venuto",
+      "che noi siamo venuto",
+      "che voi siate venuto",
+      "che loro siano venuto"
+    ],
+    "Imperfetto": [
+      "che io venissi",
+      "che tu venissi",
+      "che lui/lei venisse",
+      "che noi venissimo",
+      "che voi venisste",
+      "che loro venissero"
+    ],
+    "Trapassato": [
+      "che io fossi venuto",
+      "che tu fossi venuto",
+      "che lui/lei fosse venuto",
+      "che noi fossimo venuto",
+      "che voi foste venuto",
+      "che loro fossero venuto"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "vieni",
+      "venga",
+      "veniamo",
+      "venite",
+      "vengano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "venire"
+    ],
+    "Passato": [
+      "essere venuto"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "venente"
+    ],
+    "Passato": [
+      "venuto"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "venendo"
+    ],
+    "Passato": [
+      "essendo venuto"
+    ]
+  }
+}

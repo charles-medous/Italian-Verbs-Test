@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "voir",
+  "target_lemma": "vedere",
+  "meta": {
+    "regularity": {
+      "fr": "2e groupe (-ere) avec irrégularités",
+      "it": "seconda coniugazione (-ere)"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io vedo",
+      "tu vedi",
+      "lui/lei vede",
+      "noi vediamo",
+      "voi vedete",
+      "loro vedono"
+    ],
+    "Passato prossimo": [
+      "io ho visto",
+      "tu hai visto",
+      "lui/lei ha visto",
+      "noi abbiamo visto",
+      "voi avete visto",
+      "loro hanno visto"
+    ],
+    "Imperfetto": [
+      "io vedevo",
+      "tu vedevi",
+      "lui/lei vedeva",
+      "noi vedevamo",
+      "voi vedevate",
+      "loro vedevano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo visto",
+      "tu avevi visto",
+      "lui/lei aveva visto",
+      "noi avevamo visto",
+      "voi avevate visto",
+      "loro avevano visto"
+    ],
+    "Passato remoto": [
+      "io vidi",
+      "tu vedesti",
+      "lui/lei vide",
+      "noi vedemmo",
+      "voi vedeste",
+      "loro videro"
+    ],
+    "Trapassato remoto": [
+      "io ebbi visto",
+      "tu avesti visto",
+      "lui/lei ebbe visto",
+      "noi avemmo visto",
+      "voi aveste visto",
+      "loro ebbero visto"
+    ],
+    "Futuro semplice": [
+      "io vedrò",
+      "tu vedrai",
+      "lui/lei vedrà",
+      "noi vedremo",
+      "voi vedrete",
+      "loro vedranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò visto",
+      "tu avrai visto",
+      "lui/lei avrà visto",
+      "noi avremo visto",
+      "voi avrete visto",
+      "loro avranno visto"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io vedrei",
+      "tu vedresti",
+      "lui/lei vedrebbe",
+      "noi vedremmo",
+      "voi vedreste",
+      "loro vedrebbero"
+    ],
+    "Passato": [
+      "io avrei visto",
+      "tu avresti visto",
+      "lui/lei avrebbe visto",
+      "noi avremmo visto",
+      "voi avreste visto",
+      "loro avrebbero visto"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io veda",
+      "che tu veda",
+      "che lui/lei veda",
+      "che noi vediamo",
+      "che voi vediate",
+      "che loro vedano"
+    ],
+    "Passato": [
+      "che io abbia visto",
+      "che tu abbia visto",
+      "che lui/lei abbia visto",
+      "che noi abbiamo visto",
+      "che voi abbiate visto",
+      "che loro abbiano visto"
+    ],
+    "Imperfetto": [
+      "che io vedessi",
+      "che tu vedessi",
+      "che lui/lei vedesse",
+      "che noi vedessimo",
+      "che voi vedeste",
+      "che loro vedessero"
+    ],
+    "Trapassato": [
+      "che io avessi visto",
+      "che tu avessi visto",
+      "che lui/lei avesse visto",
+      "che noi avessimo visto",
+      "che voi aveste visto",
+      "che loro avessero visto"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "vedi",
+      "veda",
+      "vediamo",
+      "vedete",
+      "vedano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "vedere"
+    ],
+    "Passato": [
+      "avere visto"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "vedente"
+    ],
+    "Passato": [
+      "visto"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "vedendo"
+    ],
+    "Passato": [
+      "avendo visto"
+    ]
+  }
+}

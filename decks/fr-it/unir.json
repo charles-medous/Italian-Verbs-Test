@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "unir",
+  "target_lemma": "unire",
+  "meta": {
+    "regularity": {
+      "fr": "3e groupe (-ire)",
+      "it": "terza coniugazione (-ire) con -isc-"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io unisco",
+      "tu unisci",
+      "lui/lei unisce",
+      "noi uniamo",
+      "voi unite",
+      "loro uniscono"
+    ],
+    "Passato prossimo": [
+      "io ho unito",
+      "tu hai unito",
+      "lui/lei ha unito",
+      "noi abbiamo unito",
+      "voi avete unito",
+      "loro hanno unito"
+    ],
+    "Imperfetto": [
+      "io univo",
+      "tu univi",
+      "lui/lei univa",
+      "noi univamo",
+      "voi univate",
+      "loro univano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo unito",
+      "tu avevi unito",
+      "lui/lei aveva unito",
+      "noi avevamo unito",
+      "voi avevate unito",
+      "loro avevano unito"
+    ],
+    "Passato remoto": [
+      "io unii",
+      "tu unisti",
+      "lui/lei unì",
+      "noi unimmo",
+      "voi uniste",
+      "loro unirono"
+    ],
+    "Trapassato remoto": [
+      "io ebbi unito",
+      "tu avesti unito",
+      "lui/lei ebbe unito",
+      "noi avemmo unito",
+      "voi aveste unito",
+      "loro ebbero unito"
+    ],
+    "Futuro semplice": [
+      "io unirò",
+      "tu unirai",
+      "lui/lei unirà",
+      "noi uniremo",
+      "voi unirete",
+      "loro uniranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò unito",
+      "tu avrai unito",
+      "lui/lei avrà unito",
+      "noi avremo unito",
+      "voi avrete unito",
+      "loro avranno unito"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io unirei",
+      "tu uniresti",
+      "lui/lei unirebbe",
+      "noi uniremmo",
+      "voi unireste",
+      "loro unirebbero"
+    ],
+    "Passato": [
+      "io avrei unito",
+      "tu avresti unito",
+      "lui/lei avrebbe unito",
+      "noi avremmo unito",
+      "voi avreste unito",
+      "loro avrebbero unito"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io unisca",
+      "che tu unisca",
+      "che lui/lei unisca",
+      "che noi uniamo",
+      "che voi uniate",
+      "che loro uniscano"
+    ],
+    "Passato": [
+      "che io abbia unito",
+      "che tu abbia unito",
+      "che lui/lei abbia unito",
+      "che noi abbiamo unito",
+      "che voi abbiate unito",
+      "che loro abbiano unito"
+    ],
+    "Imperfetto": [
+      "che io unissi",
+      "che tu unissi",
+      "che lui/lei unisse",
+      "che noi unissimo",
+      "che voi uniste",
+      "che loro unissero"
+    ],
+    "Trapassato": [
+      "che io avessi unito",
+      "che tu avessi unito",
+      "che lui/lei avesse unito",
+      "che noi avessimo unito",
+      "che voi aveste unito",
+      "che loro avessero unito"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "unisci",
+      "unisca",
+      "uniamo",
+      "unite",
+      "uniscano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "unire"
+    ],
+    "Passato": [
+      "avere unito"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "unente"
+    ],
+    "Passato": [
+      "unito"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "unendo"
+    ],
+    "Passato": [
+      "avendo unito"
+    ]
+  }
+}

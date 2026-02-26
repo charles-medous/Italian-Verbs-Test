@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "vouloir",
+  "target_lemma": "volere",
+  "meta": {
+    "regularity": {
+      "fr": "irrégulier",
+      "it": "verbo irregolare"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io voglio",
+      "tu vuoi",
+      "lui/lei vuole",
+      "noi vogliamo",
+      "voi volete",
+      "loro vogliono"
+    ],
+    "Passato prossimo": [
+      "io ho voluto",
+      "tu hai voluto",
+      "lui/lei ha voluto",
+      "noi abbiamo voluto",
+      "voi avete voluto",
+      "loro hanno voluto"
+    ],
+    "Imperfetto": [
+      "io volvo",
+      "tu volvi",
+      "lui/lei volva",
+      "noi volvamo",
+      "voi volvate",
+      "loro volvano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo voluto",
+      "tu avevi voluto",
+      "lui/lei aveva voluto",
+      "noi avevamo voluto",
+      "voi avevate voluto",
+      "loro avevano voluto"
+    ],
+    "Passato remoto": [
+      "io volli",
+      "tu volesti",
+      "lui/lei volle",
+      "noi volemmo",
+      "voi voleste",
+      "loro vollero"
+    ],
+    "Trapassato remoto": [
+      "io ebbi voluto",
+      "tu avesti voluto",
+      "lui/lei ebbe voluto",
+      "noi avemmo voluto",
+      "voi aveste voluto",
+      "loro ebbero voluto"
+    ],
+    "Futuro semplice": [
+      "io vorrò",
+      "tu vorrai",
+      "lui/lei vorrà",
+      "noi vorremo",
+      "voi vorrete",
+      "loro vorranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò voluto",
+      "tu avrai voluto",
+      "lui/lei avrà voluto",
+      "noi avremo voluto",
+      "voi avrete voluto",
+      "loro avranno voluto"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io vorrei",
+      "tu vorresti",
+      "lui/lei vorrebbe",
+      "noi vorremmo",
+      "voi vorreste",
+      "loro vorrebbero"
+    ],
+    "Passato": [
+      "io avrei voluto",
+      "tu avresti voluto",
+      "lui/lei avrebbe voluto",
+      "noi avremmo voluto",
+      "voi avreste voluto",
+      "loro avrebbero voluto"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io voglia",
+      "che tu voglia",
+      "che lui/lei voglia",
+      "che noi vogliamo",
+      "che voi vogliate",
+      "che loro vogliano"
+    ],
+    "Passato": [
+      "che io abbia voluto",
+      "che tu abbia voluto",
+      "che lui/lei abbia voluto",
+      "che noi abbiamo voluto",
+      "che voi abbiate voluto",
+      "che loro abbiano voluto"
+    ],
+    "Imperfetto": [
+      "che io volessi",
+      "che tu volessi",
+      "che lui/lei volesse",
+      "che noi volessimo",
+      "che voi volesste",
+      "che loro volessero"
+    ],
+    "Trapassato": [
+      "che io avessi voluto",
+      "che tu avessi voluto",
+      "che lui/lei avesse voluto",
+      "che noi avessimo voluto",
+      "che voi aveste voluto",
+      "che loro avessero voluto"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "vuoi",
+      "voglia",
+      "vogliamo",
+      "volete",
+      "vogliano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "volere"
+    ],
+    "Passato": [
+      "avere voluto"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "volente"
+    ],
+    "Passato": [
+      "voluto"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "volendo"
+    ],
+    "Passato": [
+      "avendo voluto"
+    ]
+  }
+}

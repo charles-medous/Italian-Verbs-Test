@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "vivre",
+  "target_lemma": "vivere",
+  "meta": {
+    "regularity": {
+      "fr": "2e groupe (-ere) avec irrégularités",
+      "it": "seconda coniugazione (-ere)"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io vivo",
+      "tu vivi",
+      "lui/lei vive",
+      "noi viviamo",
+      "voi vivete",
+      "loro vivono"
+    ],
+    "Passato prossimo": [
+      "io ho vissuto",
+      "tu hai vissuto",
+      "lui/lei ha vissuto",
+      "noi abbiamo vissuto",
+      "voi avete vissuto",
+      "loro hanno vissuto"
+    ],
+    "Imperfetto": [
+      "io vivevo",
+      "tu vivevi",
+      "lui/lei viveva",
+      "noi vivevamo",
+      "voi vivevate",
+      "loro vivevano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo vissuto",
+      "tu avevi vissuto",
+      "lui/lei aveva vissuto",
+      "noi avevamo vissuto",
+      "voi avevate vissuto",
+      "loro avevano vissuto"
+    ],
+    "Passato remoto": [
+      "io vissi",
+      "tu vivesti",
+      "lui/lei visse",
+      "noi vivemmo",
+      "voi viveste",
+      "loro vissero"
+    ],
+    "Trapassato remoto": [
+      "io ebbi vissuto",
+      "tu avesti vissuto",
+      "lui/lei ebbe vissuto",
+      "noi avemmo vissuto",
+      "voi aveste vissuto",
+      "loro ebbero vissuto"
+    ],
+    "Futuro semplice": [
+      "io vivrò",
+      "tu vivrai",
+      "lui/lei vivrà",
+      "noi vivremo",
+      "voi vivrete",
+      "loro vivranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò vissuto",
+      "tu avrai vissuto",
+      "lui/lei avrà vissuto",
+      "noi avremo vissuto",
+      "voi avrete vissuto",
+      "loro avranno vissuto"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io vivrei",
+      "tu vivresti",
+      "lui/lei vivrebbe",
+      "noi vivremmo",
+      "voi vivreste",
+      "loro vivrebbero"
+    ],
+    "Passato": [
+      "io avrei vissuto",
+      "tu avresti vissuto",
+      "lui/lei avrebbe vissuto",
+      "noi avremmo vissuto",
+      "voi avreste vissuto",
+      "loro avrebbero vissuto"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io viva",
+      "che tu viva",
+      "che lui/lei viva",
+      "che noi viviamo",
+      "che voi viviate",
+      "che loro vivano"
+    ],
+    "Passato": [
+      "che io abbia vissuto",
+      "che tu abbia vissuto",
+      "che lui/lei abbia vissuto",
+      "che noi abbiamo vissuto",
+      "che voi abbiate vissuto",
+      "che loro abbiano vissuto"
+    ],
+    "Imperfetto": [
+      "che io vivessi",
+      "che tu vivessi",
+      "che lui/lei vivesse",
+      "che noi vivessimo",
+      "che voi viveste",
+      "che loro vivessero"
+    ],
+    "Trapassato": [
+      "che io avessi vissuto",
+      "che tu avessi vissuto",
+      "che lui/lei avesse vissuto",
+      "che noi avessimo vissuto",
+      "che voi aveste vissuto",
+      "che loro avessero vissuto"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "vivi",
+      "viva",
+      "viviamo",
+      "vivete",
+      "vivano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "vivere"
+    ],
+    "Passato": [
+      "avere vissuto"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "vivente"
+    ],
+    "Passato": [
+      "vissuto"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "vivendo"
+    ],
+    "Passato": [
+      "avendo vissuto"
+    ]
+  }
+}

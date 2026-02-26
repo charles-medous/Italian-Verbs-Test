@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "traduire",
+  "target_lemma": "tradurre",
+  "meta": {
+    "regularity": {
+      "fr": "irrégulier",
+      "it": "verbo irregolare"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io traduco",
+      "tu traduci",
+      "lui/lei traduce",
+      "noi traduciamo",
+      "voi traducete",
+      "loro traducono"
+    ],
+    "Passato prossimo": [
+      "io ho tradotto",
+      "tu hai tradotto",
+      "lui/lei ha tradotto",
+      "noi abbiamo tradotto",
+      "voi avete tradotto",
+      "loro hanno tradotto"
+    ],
+    "Imperfetto": [
+      "io traducevo",
+      "tu traducevi",
+      "lui/lei traduceva",
+      "noi traducevamo",
+      "voi traducevate",
+      "loro traducevano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo tradotto",
+      "tu avevi tradotto",
+      "lui/lei aveva tradotto",
+      "noi avevamo tradotto",
+      "voi avevate tradotto",
+      "loro avevano tradotto"
+    ],
+    "Passato remoto": [
+      "io tradussi",
+      "tu traducesti",
+      "lui/lei tradusse",
+      "noi traducemmo",
+      "voi traduceste",
+      "loro tradussero"
+    ],
+    "Trapassato remoto": [
+      "io ebbi tradotto",
+      "tu avesti tradotto",
+      "lui/lei ebbe tradotto",
+      "noi avemmo tradotto",
+      "voi aveste tradotto",
+      "loro ebbero tradotto"
+    ],
+    "Futuro semplice": [
+      "io tradurrò",
+      "tu tradurrai",
+      "lui/lei tradurrà",
+      "noi tradurremo",
+      "voi tradurrete",
+      "loro tradurranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò tradotto",
+      "tu avrai tradotto",
+      "lui/lei avrà tradotto",
+      "noi avremo tradotto",
+      "voi avrete tradotto",
+      "loro avranno tradotto"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io tradurrei",
+      "tu tradurresti",
+      "lui/lei tradurrebbe",
+      "noi tradurremmo",
+      "voi tradurreste",
+      "loro tradurrebbero"
+    ],
+    "Passato": [
+      "io avrei tradotto",
+      "tu avresti tradotto",
+      "lui/lei avrebbe tradotto",
+      "noi avremmo tradotto",
+      "voi avreste tradotto",
+      "loro avrebbero tradotto"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io traduca",
+      "che tu traduca",
+      "che lui/lei traduca",
+      "che noi traduciamo",
+      "che voi traduciate",
+      "che loro traducano"
+    ],
+    "Passato": [
+      "che io abbia tradotto",
+      "che tu abbia tradotto",
+      "che lui/lei abbia tradotto",
+      "che noi abbiamo tradotto",
+      "che voi abbiate tradotto",
+      "che loro abbiano tradotto"
+    ],
+    "Imperfetto": [
+      "che io traducessi",
+      "che tu traducessi",
+      "che lui/lei traducesse",
+      "che noi traducessimo",
+      "che voi traducesste",
+      "che loro traducessero"
+    ],
+    "Trapassato": [
+      "che io avessi tradotto",
+      "che tu avessi tradotto",
+      "che lui/lei avesse tradotto",
+      "che noi avessimo tradotto",
+      "che voi aveste tradotto",
+      "che loro avessero tradotto"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "traduci",
+      "traduca",
+      "traduciamo",
+      "traducete",
+      "traducano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "tradurre"
+    ],
+    "Passato": [
+      "avere tradotto"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "traduente"
+    ],
+    "Passato": [
+      "tradotto"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "traducendo"
+    ],
+    "Passato": [
+      "avendo tradotto"
+    ]
+  }
+}

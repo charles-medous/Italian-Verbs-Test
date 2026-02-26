@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "soutenir",
+  "target_lemma": "sostenere",
+  "meta": {
+    "regularity": {
+      "fr": "irrégulier",
+      "it": "verbo irregolare"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io sostengo",
+      "tu sostieni",
+      "lui/lei sostiene",
+      "noi sosteniamo",
+      "voi sostenete",
+      "loro sostengono"
+    ],
+    "Passato prossimo": [
+      "io ho sostenuto",
+      "tu hai sostenuto",
+      "lui/lei ha sostenuto",
+      "noi abbiamo sostenuto",
+      "voi avete sostenuto",
+      "loro hanno sostenuto"
+    ],
+    "Imperfetto": [
+      "io sostenvo",
+      "tu sostenvi",
+      "lui/lei sostenva",
+      "noi sostenvamo",
+      "voi sostenvate",
+      "loro sostenvano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo sostenuto",
+      "tu avevi sostenuto",
+      "lui/lei aveva sostenuto",
+      "noi avevamo sostenuto",
+      "voi avevate sostenuto",
+      "loro avevano sostenuto"
+    ],
+    "Passato remoto": [
+      "io sostenni",
+      "tu sostenesti",
+      "lui/lei sostenne",
+      "noi sostenemmo",
+      "voi sosteneste",
+      "loro sostennero"
+    ],
+    "Trapassato remoto": [
+      "io ebbi sostenuto",
+      "tu avesti sostenuto",
+      "lui/lei ebbe sostenuto",
+      "noi avemmo sostenuto",
+      "voi aveste sostenuto",
+      "loro ebbero sostenuto"
+    ],
+    "Futuro semplice": [
+      "io sosterrò",
+      "tu sosterrai",
+      "lui/lei sosterrà",
+      "noi sosterremo",
+      "voi sosterrete",
+      "loro sosterranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò sostenuto",
+      "tu avrai sostenuto",
+      "lui/lei avrà sostenuto",
+      "noi avremo sostenuto",
+      "voi avrete sostenuto",
+      "loro avranno sostenuto"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io sosterrei",
+      "tu sosterresti",
+      "lui/lei sosterrebbe",
+      "noi sosterremmo",
+      "voi sosterreste",
+      "loro sosterrebbero"
+    ],
+    "Passato": [
+      "io avrei sostenuto",
+      "tu avresti sostenuto",
+      "lui/lei avrebbe sostenuto",
+      "noi avremmo sostenuto",
+      "voi avreste sostenuto",
+      "loro avrebbero sostenuto"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io sostenga",
+      "che tu sostenga",
+      "che lui/lei sostenga",
+      "che noi sosteniamo",
+      "che voi sosteniate",
+      "che loro sostengano"
+    ],
+    "Passato": [
+      "che io abbia sostenuto",
+      "che tu abbia sostenuto",
+      "che lui/lei abbia sostenuto",
+      "che noi abbiamo sostenuto",
+      "che voi abbiate sostenuto",
+      "che loro abbiano sostenuto"
+    ],
+    "Imperfetto": [
+      "che io sostenessi",
+      "che tu sostenessi",
+      "che lui/lei sostenesse",
+      "che noi sostenessimo",
+      "che voi sostenesste",
+      "che loro sostenessero"
+    ],
+    "Trapassato": [
+      "che io avessi sostenuto",
+      "che tu avessi sostenuto",
+      "che lui/lei avesse sostenuto",
+      "che noi avessimo sostenuto",
+      "che voi aveste sostenuto",
+      "che loro avessero sostenuto"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "sostieni",
+      "sostenga",
+      "sosteniamo",
+      "sostenete",
+      "sostengano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "sostenere"
+    ],
+    "Passato": [
+      "avere sostenuto"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "sostenente"
+    ],
+    "Passato": [
+      "sostenuto"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "sostenendo"
+    ],
+    "Passato": [
+      "avendo sostenuto"
+    ]
+  }
+}

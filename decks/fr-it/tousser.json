@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "tousser",
+  "target_lemma": "tossire",
+  "meta": {
+    "regularity": {
+      "fr": "3e groupe (-ire)",
+      "it": "terza coniugazione (-ire) con -isc-"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io tossisco",
+      "tu tossisci",
+      "lui/lei tossisce",
+      "noi tossiamo",
+      "voi tossite",
+      "loro tossiscono"
+    ],
+    "Passato prossimo": [
+      "io ho tossito",
+      "tu hai tossito",
+      "lui/lei ha tossito",
+      "noi abbiamo tossito",
+      "voi avete tossito",
+      "loro hanno tossito"
+    ],
+    "Imperfetto": [
+      "io tossivo",
+      "tu tossivi",
+      "lui/lei tossiva",
+      "noi tossivamo",
+      "voi tossivate",
+      "loro tossivano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo tossito",
+      "tu avevi tossito",
+      "lui/lei aveva tossito",
+      "noi avevamo tossito",
+      "voi avevate tossito",
+      "loro avevano tossito"
+    ],
+    "Passato remoto": [
+      "io tossii",
+      "tu tossisti",
+      "lui/lei tossì",
+      "noi tossimmo",
+      "voi tossiste",
+      "loro tossirono"
+    ],
+    "Trapassato remoto": [
+      "io ebbi tossito",
+      "tu avesti tossito",
+      "lui/lei ebbe tossito",
+      "noi avemmo tossito",
+      "voi aveste tossito",
+      "loro ebbero tossito"
+    ],
+    "Futuro semplice": [
+      "io tossirò",
+      "tu tossirai",
+      "lui/lei tossirà",
+      "noi tossiremo",
+      "voi tossirete",
+      "loro tossiranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò tossito",
+      "tu avrai tossito",
+      "lui/lei avrà tossito",
+      "noi avremo tossito",
+      "voi avrete tossito",
+      "loro avranno tossito"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io tossirei",
+      "tu tossiresti",
+      "lui/lei tossirebbe",
+      "noi tossiremmo",
+      "voi tossireste",
+      "loro tossirebbero"
+    ],
+    "Passato": [
+      "io avrei tossito",
+      "tu avresti tossito",
+      "lui/lei avrebbe tossito",
+      "noi avremmo tossito",
+      "voi avreste tossito",
+      "loro avrebbero tossito"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io tossisca",
+      "che tu tossisca",
+      "che lui/lei tossisca",
+      "che noi tossiamo",
+      "che voi tossiate",
+      "che loro tossiscano"
+    ],
+    "Passato": [
+      "che io abbia tossito",
+      "che tu abbia tossito",
+      "che lui/lei abbia tossito",
+      "che noi abbiamo tossito",
+      "che voi abbiate tossito",
+      "che loro abbiano tossito"
+    ],
+    "Imperfetto": [
+      "che io tossissi",
+      "che tu tossissi",
+      "che lui/lei tossisse",
+      "che noi tossissimo",
+      "che voi tossiste",
+      "che loro tossissero"
+    ],
+    "Trapassato": [
+      "che io avessi tossito",
+      "che tu avessi tossito",
+      "che lui/lei avesse tossito",
+      "che noi avessimo tossito",
+      "che voi aveste tossito",
+      "che loro avessero tossito"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "tossisci",
+      "tossisca",
+      "tossiamo",
+      "tossite",
+      "tossiscano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "tossire"
+    ],
+    "Passato": [
+      "avere tossito"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "tossente"
+    ],
+    "Passato": [
+      "tossito"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "tossendo"
+    ],
+    "Passato": [
+      "avendo tossito"
+    ]
+  }
+}

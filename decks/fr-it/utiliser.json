@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "utiliser",
+  "target_lemma": "usare",
+  "meta": {
+    "regularity": {
+      "fr": "1er groupe régulier (approx.)",
+      "it": "prima coniugazione regolare"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io uso",
+      "tu usi",
+      "lui/lei usa",
+      "noi usiamo",
+      "voi usate",
+      "loro usano"
+    ],
+    "Passato prossimo": [
+      "io ho usato",
+      "tu hai usato",
+      "lui/lei ha usato",
+      "noi abbiamo usato",
+      "voi avete usato",
+      "loro hanno usato"
+    ],
+    "Imperfetto": [
+      "io usavo",
+      "tu usavi",
+      "lui/lei usava",
+      "noi usavamo",
+      "voi usavate",
+      "loro usavano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo usato",
+      "tu avevi usato",
+      "lui/lei aveva usato",
+      "noi avevamo usato",
+      "voi avevate usato",
+      "loro avevano usato"
+    ],
+    "Passato remoto": [
+      "io usai",
+      "tu usasti",
+      "lui/lei usò",
+      "noi usammo",
+      "voi usaste",
+      "loro usarono"
+    ],
+    "Trapassato remoto": [
+      "io ebbi usato",
+      "tu avesti usato",
+      "lui/lei ebbe usato",
+      "noi avemmo usato",
+      "voi aveste usato",
+      "loro ebbero usato"
+    ],
+    "Futuro semplice": [
+      "io userò",
+      "tu userai",
+      "lui/lei userà",
+      "noi useremo",
+      "voi userete",
+      "loro useranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò usato",
+      "tu avrai usato",
+      "lui/lei avrà usato",
+      "noi avremo usato",
+      "voi avrete usato",
+      "loro avranno usato"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io userei",
+      "tu useresti",
+      "lui/lei userebbe",
+      "noi useremmo",
+      "voi usereste",
+      "loro userebbero"
+    ],
+    "Passato": [
+      "io avrei usato",
+      "tu avresti usato",
+      "lui/lei avrebbe usato",
+      "noi avremmo usato",
+      "voi avreste usato",
+      "loro avrebbero usato"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io usi",
+      "che tu usi",
+      "che lui/lei usi",
+      "che noi usiamo",
+      "che voi usiate",
+      "che loro usino"
+    ],
+    "Passato": [
+      "che io abbia usato",
+      "che tu abbia usato",
+      "che lui/lei abbia usato",
+      "che noi abbiamo usato",
+      "che voi abbiate usato",
+      "che loro abbiano usato"
+    ],
+    "Imperfetto": [
+      "che io usassi",
+      "che tu usassi",
+      "che lui/lei usasse",
+      "che noi usassimo",
+      "che voi usaste",
+      "che loro usassero"
+    ],
+    "Trapassato": [
+      "che io avessi usato",
+      "che tu avessi usato",
+      "che lui/lei avesse usato",
+      "che noi avessimo usato",
+      "che voi aveste usato",
+      "che loro avessero usato"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "usa",
+      "usi",
+      "usiamo",
+      "usate",
+      "usino"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "usare"
+    ],
+    "Passato": [
+      "avere usato"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "usante"
+    ],
+    "Passato": [
+      "usato"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "usando"
+    ],
+    "Passato": [
+      "avendo usato"
+    ]
+  }
+}

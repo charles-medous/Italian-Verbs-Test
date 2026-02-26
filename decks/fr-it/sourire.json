@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "sourire",
+  "target_lemma": "sorridere",
+  "meta": {
+    "regularity": {
+      "fr": "2e groupe (-ere) avec irrégularités",
+      "it": "seconda coniugazione (-ere)"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io sorrido",
+      "tu sorridi",
+      "lui/lei sorride",
+      "noi sorridiamo",
+      "voi sorridete",
+      "loro sorridono"
+    ],
+    "Passato prossimo": [
+      "io ho sorriso",
+      "tu hai sorriso",
+      "lui/lei ha sorriso",
+      "noi abbiamo sorriso",
+      "voi avete sorriso",
+      "loro hanno sorriso"
+    ],
+    "Imperfetto": [
+      "io sorridevo",
+      "tu sorridevi",
+      "lui/lei sorrideva",
+      "noi sorridevamo",
+      "voi sorridevate",
+      "loro sorridevano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo sorriso",
+      "tu avevi sorriso",
+      "lui/lei aveva sorriso",
+      "noi avevamo sorriso",
+      "voi avevate sorriso",
+      "loro avevano sorriso"
+    ],
+    "Passato remoto": [
+      "io sorrisi",
+      "tu sorridesti",
+      "lui/lei sorrise",
+      "noi sorridemmo",
+      "voi sorrideste",
+      "loro sorrisero"
+    ],
+    "Trapassato remoto": [
+      "io ebbi sorriso",
+      "tu avesti sorriso",
+      "lui/lei ebbe sorriso",
+      "noi avemmo sorriso",
+      "voi aveste sorriso",
+      "loro ebbero sorriso"
+    ],
+    "Futuro semplice": [
+      "io sorriderò",
+      "tu sorriderai",
+      "lui/lei sorriderà",
+      "noi sorrideremo",
+      "voi sorriderete",
+      "loro sorrideranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò sorriso",
+      "tu avrai sorriso",
+      "lui/lei avrà sorriso",
+      "noi avremo sorriso",
+      "voi avrete sorriso",
+      "loro avranno sorriso"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io sorriderei",
+      "tu sorrideresti",
+      "lui/lei sorriderebbe",
+      "noi sorrideremmo",
+      "voi sorridereste",
+      "loro sorriderebbero"
+    ],
+    "Passato": [
+      "io avrei sorriso",
+      "tu avresti sorriso",
+      "lui/lei avrebbe sorriso",
+      "noi avremmo sorriso",
+      "voi avreste sorriso",
+      "loro avrebbero sorriso"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io sorrida",
+      "che tu sorrida",
+      "che lui/lei sorrida",
+      "che noi sorridiamo",
+      "che voi sorridiate",
+      "che loro sorridano"
+    ],
+    "Passato": [
+      "che io abbia sorriso",
+      "che tu abbia sorriso",
+      "che lui/lei abbia sorriso",
+      "che noi abbiamo sorriso",
+      "che voi abbiate sorriso",
+      "che loro abbiano sorriso"
+    ],
+    "Imperfetto": [
+      "che io sorridessi",
+      "che tu sorridessi",
+      "che lui/lei sorridesse",
+      "che noi sorridessimo",
+      "che voi sorrideste",
+      "che loro sorridessero"
+    ],
+    "Trapassato": [
+      "che io avessi sorriso",
+      "che tu avessi sorriso",
+      "che lui/lei avesse sorriso",
+      "che noi avessimo sorriso",
+      "che voi aveste sorriso",
+      "che loro avessero sorriso"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "sorridi",
+      "sorrida",
+      "sorridiamo",
+      "sorridete",
+      "sorridano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "sorridere"
+    ],
+    "Passato": [
+      "avere sorriso"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "sorridente"
+    ],
+    "Passato": [
+      "sorriso"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "sorridendo"
+    ],
+    "Passato": [
+      "avendo sorriso"
+    ]
+  }
+}

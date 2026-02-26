@@ -1,0 +1,186 @@
+{
+  "source_lang": "fr",
+  "target_lang": "it",
+  "source_lemma": "suivre",
+  "target_lemma": "seguire",
+  "meta": {
+    "regularity": {
+      "fr": "3e groupe (-ire)",
+      "it": "terza coniugazione (-ire)"
+    },
+    "auxiliary": {
+      "fr": "avoir",
+      "it": "avere"
+    }
+  },
+  "pronouns": {
+    "fr": [
+      "je",
+      "tu",
+      "il/elle",
+      "nous",
+      "vous",
+      "ils/elles"
+    ],
+    "it": [
+      "io",
+      "tu",
+      "lui/lei",
+      "noi",
+      "voi",
+      "loro"
+    ]
+  },
+  "Indicativo": {
+    "Presente": [
+      "io seguo",
+      "tu segui",
+      "lui/lei segue",
+      "noi seguiamo",
+      "voi seguite",
+      "loro seguono"
+    ],
+    "Passato prossimo": [
+      "io ho seguito",
+      "tu hai seguito",
+      "lui/lei ha seguito",
+      "noi abbiamo seguito",
+      "voi avete seguito",
+      "loro hanno seguito"
+    ],
+    "Imperfetto": [
+      "io seguivo",
+      "tu seguivi",
+      "lui/lei seguiva",
+      "noi seguivamo",
+      "voi seguivate",
+      "loro seguivano"
+    ],
+    "Trapassato prossimo": [
+      "io avevo seguito",
+      "tu avevi seguito",
+      "lui/lei aveva seguito",
+      "noi avevamo seguito",
+      "voi avevate seguito",
+      "loro avevano seguito"
+    ],
+    "Passato remoto": [
+      "io seguii",
+      "tu seguisti",
+      "lui/lei seguì",
+      "noi seguimmo",
+      "voi seguiste",
+      "loro seguirono"
+    ],
+    "Trapassato remoto": [
+      "io ebbi seguito",
+      "tu avesti seguito",
+      "lui/lei ebbe seguito",
+      "noi avemmo seguito",
+      "voi aveste seguito",
+      "loro ebbero seguito"
+    ],
+    "Futuro semplice": [
+      "io seguirò",
+      "tu seguirai",
+      "lui/lei seguirà",
+      "noi seguiremo",
+      "voi seguirete",
+      "loro seguiranno"
+    ],
+    "Futuro anteriore": [
+      "io avrò seguito",
+      "tu avrai seguito",
+      "lui/lei avrà seguito",
+      "noi avremo seguito",
+      "voi avrete seguito",
+      "loro avranno seguito"
+    ]
+  },
+  "Condizionale": {
+    "Presente": [
+      "io seguirei",
+      "tu seguiresti",
+      "lui/lei seguirebbe",
+      "noi seguiremmo",
+      "voi seguireste",
+      "loro seguirebbero"
+    ],
+    "Passato": [
+      "io avrei seguito",
+      "tu avresti seguito",
+      "lui/lei avrebbe seguito",
+      "noi avremmo seguito",
+      "voi avreste seguito",
+      "loro avrebbero seguito"
+    ]
+  },
+  "Congiuntivo": {
+    "Presente": [
+      "che io segua",
+      "che tu segua",
+      "che lui/lei segua",
+      "che noi seguiamo",
+      "che voi seguiate",
+      "che loro seguano"
+    ],
+    "Passato": [
+      "che io abbia seguito",
+      "che tu abbia seguito",
+      "che lui/lei abbia seguito",
+      "che noi abbiamo seguito",
+      "che voi abbiate seguito",
+      "che loro abbiano seguito"
+    ],
+    "Imperfetto": [
+      "che io seguissi",
+      "che tu seguissi",
+      "che lui/lei seguisse",
+      "che noi seguissimo",
+      "che voi seguiste",
+      "che loro seguissero"
+    ],
+    "Trapassato": [
+      "che io avessi seguito",
+      "che tu avessi seguito",
+      "che lui/lei avesse seguito",
+      "che noi avessimo seguito",
+      "che voi aveste seguito",
+      "che loro avessero seguito"
+    ]
+  },
+  "Imperativo": {
+    "Presente": [
+      "—",
+      "segui",
+      "segua",
+      "seguiamo",
+      "seguite",
+      "seguano"
+    ]
+  },
+  "Infinito": {
+    "Presente": [
+      "seguire"
+    ],
+    "Passato": [
+      "avere seguito"
+    ]
+  },
+  "Participio": {
+    "Presente": [
+      "seguente"
+    ],
+    "Passato": [
+      "seguito"
+    ]
+  },
+  "Gerundio": {
+    "Presente": [
+      "seguendo"
+    ],
+    "Passato": [
+      "avendo seguito"
+    ]
+  }
+}
